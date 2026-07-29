@@ -1,0 +1,62 @@
+=== MATCHING DEBUG DUMP — 2026-04-04T15:58:00.521Z ===
+
+── PO ITEMS (0) ──
+
+── DN ITEMS (9) ──
+  [0] desc="60F88R GREY 60/60 טרנד בטון אפור 14706011510 R10" | cat=S10-8 | qty=60.48 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[60f88r, grey, 60, טרנד, בטון, אפור, 14706011510, r10]
+  [1] desc="גאלווי דקור מחורץ מולבן 30/90 DOOLIN ALB" | cat=7710396008 | qty=170.64 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[גאלווי, דקור, מחורץ, מולבן, 30, 90, doolin, alb]
+  [2] desc="וול דיזיין A דקור גלים אפור 300/100 GRIG" | cat=1453016308A | qty=15 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[וול, דיזיין, דקור, גלים, אפור, 300, 100, grig]
+  [3] desc="וול דיזיין B דקור גלים אפור 300/100 GRIG" | cat=1453016308B | qty=3 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[וול, דיזיין, דקור, גלים, אפור, 300, 100, grig]
+  [4] desc="וול דיזיין B דקור גלים אפור 300/100 GRIG" | cat=1453016308B | qty=12 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[וול, דיזיין, דקור, גלים, אפור, 300, 100, grig]
+  [5] desc="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" | cat=1592811200 | qty=23.52 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[בלאק, וואיט, בריץ, מבריק, 6ממ, 120, 280, breach]
+  [6] desc="חיפוי מקלחות גברים נשים/חיפוי מקלחות גברים נשים" | cat=- | qty=0 | unit=- | unitPrice=0 | totalPrice=0
+       keywords=[חיפוי, מקלחות, גברים, נשים]
+  [7] desc="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" | cat=1592811200 | qty=67.2 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[בלאק, וואיט, בריץ, מבריק, 6ממ, 120, 280, breach]
+  [8] desc="בלייז שחור מט DARK 100/300/3.5 גב משתנות/גב משתנות" | cat=7103015700 | qty=72 | unit=מ"ר | unitPrice=0 | totalPrice=0
+       keywords=[בלייז, שחור, dark, 100, 300, משתנות]
+
+── INV ITEMS (11) ──
+  [0] desc="DOOLIN גאלווי דקור מחורץ מולבן 30/90 ALB" | cat=7710396008 | qty=170.64 | unit=מ"ר | unitPrice=102 | totalPrice=17405.13
+       keywords=[doolin, גאלווי, דקור, מחורץ, מולבן, 30, 90, alb]
+  [1] desc="טרנד בטון אפור 60/60 F88R GREY R10" | cat=14706011510 | qty=60.48 | unit=מ"ר | unitPrice=145 | totalPrice=8769.23
+       keywords=[טרנד, בטון, אפור, 60, f88r, grey, r10]
+  [2] desc="NIGHT R11 קלקסטן שחור 30/60" | cat=7710368511 | qty=110.88 | unit=מ"ר | unitPrice=132 | totalPrice=14636.16
+       keywords=[night, r11, קלקסטן, שחור, 30, 60]
+  [3] desc="DARK בלייז שחור מט 100/300/3.5 מט" | cat=7103015700 | qty=72 | unit=מ"ר | unitPrice=239 | totalPrice=17208
+       keywords=[dark, בלייז, שחור, 100, 300]
+  [4] desc="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" | cat=1592811200 | qty=23.52 | unit=מ"ר | unitPrice=349 | totalPrice=8208.48
+       keywords=[בלאק, וואיט, בריץ, מבריק, 6ממ, 120, 280, breach]
+  [5] desc="GRIG דקור גלים אפור 300/100 B וול דיזיין" | cat=1453016308B | qty=3 | unit=מ"ר | unitPrice=2090 | totalPrice=6270
+       keywords=[grig, דקור, גלים, אפור, 300, 100, וול, דיזיין]
+  [6] desc="ALBAR גאלווי מולבן 30/90" | cat=7710396000 | qty=22.95 | unit=מ"ר | unitPrice=102 | totalPrice=2340.9
+       keywords=[albar, גאלווי, מולבן, 30, 90]
+  [7] desc="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" | cat=1592811200 | qty=67.2 | unit=מ"ר | unitPrice=349 | totalPrice=23452.8
+       keywords=[בלאק, וואיט, בריץ, מבריק, 6ממ, 120, 280, breach]
+  [8] desc="GRIG דקור גלים אפור 300/100 A וול דיזיין" | cat=1453016308A | qty=15 | unit=מ"ר | unitPrice=2090 | totalPrice=31350
+       keywords=[grig, דקור, גלים, אפור, 300, 100, וול, דיזיין]
+  [9] desc="SMOKE R10 קלקסטן אפור 30/60" | cat=7710368310 | qty=36 | unit=מ"ר | unitPrice=132 | totalPrice=4751.95
+       keywords=[smoke, r10, קלקסטן, אפור, 30, 60]
+  [10] desc="GRIG דקור גלים אפור 300/100 B וול דיזיין" | cat=1453016308B | qty=12 | unit=מ"ר | unitPrice=2090 | totalPrice=25080
+       keywords=[grig, דקור, גלים, אפור, 300, 100, וול, דיזיין]
+
+── MATCHED PAIRINGS (8) ──
+  [catalog] DN[0]="גאלווי דקור מחורץ מולבן 30/90 DOOLIN ALB" qty=170.64 ↔ INV[0]="DOOLIN גאלווי דקור מחורץ מולבן 30/90 ALB" qty=170.64
+  [catalog] DN[0]="וול דיזיין A דקור גלים אפור 300/100 GRIG" qty=15 ↔ INV[6]="GRIG דקור גלים אפור 300/100 A וול דיזיין" qty=15
+  [catalog] DN[1]="וול דיזיין B דקור גלים אפור 300/100 GRIG" qty=3 ↔ INV[3]="GRIG דקור גלים אפור 300/100 B וול דיזיין" qty=3
+  [catalog] DN[2]="וול דיזיין B דקור גלים אפור 300/100 GRIG" qty=12 ↔ INV[8]="GRIG דקור גלים אפור 300/100 B וול דיזיין" qty=12
+  [catalog] DN[0]="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" qty=23.52 ↔ INV[2]="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" qty=23.52
+  [catalog] DN[2]="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" qty=67.2 ↔ INV[5]="בלאק וואיט בריץ מבריק 6ממ 120/280 BREACH" qty=67.2
+  [catalog] DN[0]="בלייז שחור מט DARK 100/300/3.5 גב משתנות/גב משתנות" qty=72 ↔ INV[1]="DARK בלייז שחור מט 100/300/3.5 מט" qty=72
+  [ai] DN[0]="60F88R GREY 60/60 טרנד בטון אפור 14706011510 R10" qty=60.48 ↔ INV[0]="טרנד בטון אפור 60/60 F88R GREY R10" qty=60.48
+
+── UNMATCHED ORPHANS ──
+  PO orphans (0):
+  DN orphans (0):
+  INV orphans (0):

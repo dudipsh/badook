@@ -1,0 +1,108 @@
+=== MATCHING DEBUG DUMP — 2026-04-01T12:11:21.071Z ===
+
+── PO ITEMS (0) ──
+
+── DN ITEMS (18) ──
+  [0] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [1] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [2] desc="מכולה קטנה לפינוי פסולת" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה, לפינוי, פסולת]
+  [3] desc="מכולה קטנה" | cat=- | qty=1 | unit=מכולה | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [4] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [5] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [6] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [7] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [8] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [9] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [10] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [11] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [12] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [13] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [14] desc="מכולה קטנה" | cat=- | qty=1 | unit=מכולה | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [15] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [16] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+  [17] desc="מכולה קטנה" | cat=- | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[מכולה, קטנה]
+
+── INV ITEMS (19) ──
+  [0] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [1] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [2] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [3] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [4] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [5] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [6] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [7] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [8] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [9] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [10] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [11] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [12] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [13] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [14] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [15] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [16] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [17] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+  [18] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
+
+── MATCHED PAIRINGS (18) ──
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[0]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[1]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה לפינוי פסולת" qty=1 ↔ INV[2]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[3]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[4]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[5]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[6]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[7]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[8]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[9]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[10]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[11]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[12]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[13]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[14]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[15]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[16]="פסולת בניין, מכולה קטנה" qty=1
+  [ai] DN[0]="מכולה קטנה" qty=1 ↔ INV[17]="פסולת בניין, מכולה קטנה" qty=1
+
+── UNMATCHED ORPHANS ──
+  PO orphans (0):
+  DN orphans (0):
+  INV orphans (1):
+  [18] desc="פסולת בניין, מכולה קטנה" | cat=104010000 | qty=1 | unit=יחידות | unitPrice=0 | totalPrice=0
+       keywords=[פסולת, בניין, מכולה, קטנה]
