@@ -1,0 +1,12 @@
+{
+  "id": "001-basic-3way-match",
+  "name": "הזמנת רכש + תעודת משלוח - לביא",
+  "description": "הזמנת רכש PO23002574 מ-BST לתעשיות רהיטים לביא, תעודת משלוח SH24000055 עם אספקה חלקית. כולל פריטים כפולים (0122) והנחות.",
+  "tags": ["2-way", "partial-delivery", "duplicate-items", "discounts"],
+  "documents": [
+    { "type": "purchase_order", "file": "הזמנת רכש (2).pdf", "number": "PO23002574" },
+    { "type": "delivery_note", "file": "processed-9e97b522-657e-4.jpeg", "number": "SH24000055" }
+  ],
+  "hasMocks": true,
+  "createdAt": "2026-03-13"
+}

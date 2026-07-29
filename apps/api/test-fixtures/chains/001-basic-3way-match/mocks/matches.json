@@ -1,0 +1,38 @@
+[
+  {
+    "lineItemPairings": [
+      {
+        "po": { "index": 0, "description": "ארון קודש דביר, עם שולחן קריאה" },
+        "dn": { "index": 0, "description": "ארון קודש דביר, עם שולחן קריאה", "quantity": 1 }
+      },
+      {
+        "po": { "index": 1, "description": "סדרת מורשת - ספריה מודרנית עם דלתות תחתונות" },
+        "dn": { "index": 1, "description": "סדרת מורשת - ספריה מודרנית עם דלתות תחתונות", "quantity": 1 }
+      },
+      {
+        "po": { "index": 2, "description": "מחיצה ניידת אורך 120 ס\"מ" },
+        "dn": { "index": 2, "description": "מחיצה ניידת אורך 120 ס\"מ", "quantity": 1 }
+      },
+      {
+        "po": { "index": 3, "description": "סדרת מורשת - ספסל קלאסי רגיל כולל תא ומדף כפול" },
+        "dn": { "index": 3, "description": "סדרת מורשת - ספסל קלאסי רגיל כולל תא ומדף כפול", "quantity": 4 }
+      },
+      {
+        "po": { "index": 4, "description": "סדרת מורשת - ספסל קלאסי צר ללא תא וללא מדף" },
+        "dn": { "index": 4, "description": "סדרת מורשת - ספסל קלאסי צר ללא תא וללא מדף", "quantity": 4 }
+      },
+      {
+        "po": { "index": 5, "description": "סדרת מורשת - ספסל קלאסי מעמד לשורה ראשונה" },
+        "dn": { "index": 5, "description": "סדרת מורשת - ספסל קלאסי מעמד לשורה ראשונה", "quantity": 4 }
+      },
+      {
+        "po": { "index": 6, "description": "הובלה" },
+        "dn": { "index": 7, "description": "הובלה", "quantity": 1 }
+      },
+      {
+        "po": { "index": 7, "description": "סדרת מורשת - ספסל קלאסי צר ללא תא וללא מדף" },
+        "dn": { "index": 6, "description": "סדרת מורשת - ספסל קלאסי צר ללא תא וללא מדף", "quantity": 5 }
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "poNumber": "PO23002574",
+  "supplierName": "תעשיות רהיטים לביא - אגש\"ח בע\"מ",
+  "supplierAddress": "קיבוץ לביא",
+  "supplierPhone": "04-679-9400",
+  "supplierBusinessId": null,
+  "customerName": "בילד אפ פרויקטים מקבוצת ב.ס.ט בע\"מ",
+  "deliveryAddress": "הסדן 4 חולון, דיור ממשלתי חולון",
+  "projectName": "דיור ממשלתי חולון",
+  "orderDate": "2023-08-27",
+  "expectedDelivery": null,
+  "supplierOrderNumber": null,
+  "quoteReference": "PQ23000455",
+  "deliveryNoteReferences": null,
+  "documentSubtype": null,
+  "lineItems": [
+    {
+      "description": "ארון קודש דביר, עם שולחן קריאה",
+      "catalogNumber": "0116",
+      "quantity": 1,
+      "unit": "יח",
+      "unitPrice": 55000,
+      "totalPrice": 45650,
+      "discountPercent": 17,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "סדרת מורשת - ספריה מודרנית עם דלתות תחתונות",
+      "catalogNumber": "0247",
+      "quantity": 5,
+      "unit": "יח",
+      "unitPrice": 3600,
+      "totalPrice": 18000,
+      "discountPercent": null,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "מחיצה ניידת אורך 120 ס\"מ",
+      "catalogNumber": "0082",
+      "quantity": 2,
+      "unit": "יח",
+      "unitPrice": 3700,
+      "totalPrice": 6142,
+      "discountPercent": 17,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "סדרת מורשת - ספסל קלאסי רגיל כולל תא ומדף כפול",
+      "catalogNumber": "0120",
+      "quantity": 16,
+      "unit": "יח",
+      "unitPrice": 950,
+      "totalPrice": 15200,
+      "discountPercent": null,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "סדרת מורשת - ספסל קלאסי צר ללא תא וללא מדף",
+      "catalogNumber": "0122",
+      "quantity": 5,
+      "unit": "יח",
+      "unitPrice": 900,
+      "totalPrice": 4500,
+      "discountPercent": null,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "סדרת מורשת - ספסל קלאסי מעמד לשורה ראשונה",
+      "catalogNumber": "0123",
+      "quantity": 8,
+      "unit": "יח",
+      "unitPrice": 580,
+      "totalPrice": 4640,
+      "discountPercent": null,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "הובלה",
+      "catalogNumber": "4143400001",
+      "quantity": 1,
+      "unit": "יח",
+      "unitPrice": 4800,
+      "totalPrice": 3840,
+      "discountPercent": 20,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    },
+    {
+      "description": "סדרת מורשת - ספסל קלאסי צר ללא תא וללא מדף",
+      "catalogNumber": "0122",
+      "quantity": 8,
+      "unit": "יח",
+      "unitPrice": 900,
+      "totalPrice": 7200,
+      "discountPercent": null,
+      "discountAmount": null,
+      "priceBeforeDiscount": null
+    }
+  ],
+  "subtotal": 105172,
+  "vatRate": 17,
+  "vatAmount": 17879.24,
+  "totalAmount": 123051.24,
+  "notes": "הצעת מחיר PQ23000455. פרויקט: דיור ממשלתי חולון. תנאי תשלום: 50 אחוז מקדמה חודש טרם אספקה כנגד ערבות והיתרה שוטף+35",
+  "confidence": 0.95
+}

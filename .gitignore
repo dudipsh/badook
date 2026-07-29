@@ -50,11 +50,10 @@ apps/labeling-api/src/generated/
 apps/api/test-data/*/
 apps/api/test-docs/
 
-# Test fixtures built from real customer paperwork — keep local only
+# Scanned source documents are real customer paperwork (signatures, personal
+# mobile numbers) — keep them local. The JSON mocks/expectations are committed,
+# and the fixtures run in mock mode without the scans.
 apps/api/test-fixtures/chains/*/documents/
-apps/api/test-fixtures/chains/*/mocks/
-apps/api/test-fixtures/chains/*/expected/
-apps/api/test-fixtures/results/
 
 # Synthetic training data
 apps/labeling-api/training/synthetic/output/

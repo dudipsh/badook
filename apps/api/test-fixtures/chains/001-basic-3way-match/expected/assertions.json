@@ -1,0 +1,38 @@
+{
+  "lineItems": [
+    {
+      "description": "ארון קודש",
+      "orderedQty": 1,
+      "receivedQty": 1,
+      "deliveryStatus": "full"
+    },
+    {
+      "description": "ספריה מודרנית",
+      "orderedQty": 5,
+      "receivedQty": 1,
+      "deliveryStatus": "partial"
+    },
+    {
+      "description": "מחיצה ניידת",
+      "orderedQty": 2,
+      "receivedQty": 1,
+      "deliveryStatus": "partial"
+    },
+    {
+      "description": "ספסל קלאסי רגיל",
+      "orderedQty": 16,
+      "receivedQty": 4,
+      "deliveryStatus": "partial"
+    },
+    {
+      "description": "ספסל קלאסי מעמד",
+      "orderedQty": 8,
+      "receivedQty": 4,
+      "deliveryStatus": "partial"
+    }
+  ],
+  "match": {
+    "hasDiscrepancies": true,
+    "documentCount": { "pos": 1, "dns": 1, "invoices": 0 }
+  }
+}

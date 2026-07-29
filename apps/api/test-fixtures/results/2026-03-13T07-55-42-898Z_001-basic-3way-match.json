@@ -1,0 +1,145 @@
+{
+  "runId": "1773388542898-001-basic-3way-match",
+  "caseId": "001-basic-3way-match",
+  "caseName": "הזמנת רכש + תעודת משלוח - לביא",
+  "mode": "mock",
+  "status": "failed",
+  "startedAt": "2026-03-13T07:55:42.816Z",
+  "completedAt": "2026-03-13T07:55:42.898Z",
+  "duration": 82,
+  "assertions": [
+    {
+      "name": "ארון קודש — orderedQty",
+      "expected": 1,
+      "actual": 1,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ארון קודש — receivedQty",
+      "expected": 1,
+      "actual": 1,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ארון קודש — deliveryStatus",
+      "expected": "full",
+      "actual": "full",
+      "passed": true,
+      "category": "status"
+    },
+    {
+      "name": "ספריה מודרנית — orderedQty",
+      "expected": 5,
+      "actual": 5,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ספריה מודרנית — receivedQty",
+      "expected": 1,
+      "actual": 1,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ספריה מודרנית — deliveryStatus",
+      "expected": "partial",
+      "actual": "partial",
+      "passed": true,
+      "category": "status"
+    },
+    {
+      "name": "מחיצה ניידת — orderedQty",
+      "expected": 2,
+      "actual": 2,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "מחיצה ניידת — receivedQty",
+      "expected": 1,
+      "actual": 1,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "מחיצה ניידת — deliveryStatus",
+      "expected": "partial",
+      "actual": "partial",
+      "passed": true,
+      "category": "status"
+    },
+    {
+      "name": "ספסל קלאסי רגיל — orderedQty",
+      "expected": 16,
+      "actual": 16,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ספסל קלאסי רגיל — receivedQty",
+      "expected": 4,
+      "actual": 4,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ספסל קלאסי רגיל — deliveryStatus",
+      "expected": "partial",
+      "actual": "partial",
+      "passed": true,
+      "category": "status"
+    },
+    {
+      "name": "ספסל קלאסי מעמד — orderedQty",
+      "expected": 8,
+      "actual": 8,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ספסל קלאסי מעמד — receivedQty",
+      "expected": 4,
+      "actual": 4,
+      "passed": true,
+      "category": "quantity"
+    },
+    {
+      "name": "ספסל קלאסי מעמד — deliveryStatus",
+      "expected": "partial",
+      "actual": "partial",
+      "passed": true,
+      "category": "status"
+    },
+    {
+      "name": "PO count",
+      "expected": 1,
+      "actual": 1,
+      "passed": true,
+      "category": "matching"
+    },
+    {
+      "name": "DN count",
+      "expected": 1,
+      "actual": 1,
+      "passed": true,
+      "category": "matching"
+    },
+    {
+      "name": "Invoice count",
+      "expected": 0,
+      "actual": 0,
+      "passed": true,
+      "category": "matching"
+    },
+    {
+      "name": "Has discrepancies",
+      "expected": false,
+      "actual": true,
+      "passed": false,
+      "category": "matching"
+    }
+  ]
+}

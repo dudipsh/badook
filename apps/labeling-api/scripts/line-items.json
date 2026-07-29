@@ -1,0 +1,7426 @@
+[
+  {
+    "poNumber": "PO25000002",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-01",
+    "lineItems": [
+      {
+        "productCode": "2234700023",
+        "description": "לוח גבס לבן 6 מ\"מ מידות 2.70/1.20- 60 יח' במשטח",
+        "quantity": 38.88,
+        "unit": null,
+        "unitPrice": 23.75,
+        "totalPrice": 923.4
+      }
+    ],
+    "subtotal": 923.4,
+    "vatAmount": 166.21,
+    "totalAmount": 1089.61
+  },
+  {
+    "poNumber": "PO25000020",
+    "supplierName": "אלרם דבקים מקצועיים בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-01",
+    "lineItems": [
+      {
+        "productCode": "3239100447",
+        "description": "איזולירבנד חבלה טסה ( Tesa) בד רוחב 5 ס\"מ ( 25 מ",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 75.0,
+        "totalPrice": 3750.0
+      }
+    ],
+    "subtotal": 3750.0,
+    "vatAmount": 675.0,
+    "totalAmount": 4425.0
+  },
+  {
+    "poNumber": "PO25000021",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-01",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 300.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 1380.0
+      }
+    ],
+    "subtotal": 1380.0,
+    "vatAmount": 248.4,
+    "totalAmount": 1628.4
+  },
+  {
+    "poNumber": "PO25000026",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-02",
+    "lineItems": [
+      {
+        "productCode": "4143400001",
+        "description": "הובלה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3500.0,
+        "totalPrice": 3500.0
+      },
+      {
+        "productCode": "4644500083",
+        "description": "פיגום פרופשנאל מדרגות בגודל 1.8X1.35מ'",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 8500.0,
+        "totalPrice": 8500.0
+      },
+      {
+        "productCode": "4644500126",
+        "description": "השכרת פיגום נייד מאלומיניום ( יש לציין גובה דריכ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3450.0,
+        "totalPrice": 3450.0
+      }
+    ],
+    "subtotal": 15450.0,
+    "vatAmount": 2781.0,
+    "totalAmount": 18231.0
+  },
+  {
+    "poNumber": "PO25000029",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-02",
+    "lineItems": [
+      {
+        "productCode": "4544400022",
+        "description": "לוח עץ - לטה 5/2.5",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 300.0
+      },
+      {
+        "productCode": "4544400024",
+        "description": "דיקט סנדוויץ' 12 מ\"מ 2.44X1.22",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 100.0,
+        "totalPrice": 3000.0
+      }
+    ],
+    "subtotal": 3300.0,
+    "vatAmount": 594.0,
+    "totalAmount": 3894.0
+  },
+  {
+    "poNumber": "PO25000030",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-02",
+    "lineItems": [
+      {
+        "productCode": "1130500042",
+        "description": "מברשת זפת",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 7.0,
+        "totalPrice": 21.0
+      },
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 24.0,
+        "unit": null,
+        "unitPrice": 19.5,
+        "totalPrice": 468.0
+      },
+      {
+        "productCode": "5245900066",
+        "description": "קרטון גלי להגנה 1X50 (50 מ\"ר בגליל)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 52.5,
+        "totalPrice": 315.0
+      }
+    ],
+    "subtotal": 804.0,
+    "vatAmount": 144.72,
+    "totalAmount": 948.72
+  },
+  {
+    "poNumber": "PO25000031",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-02",
+    "lineItems": [
+      {
+        "productCode": "2235100034",
+        "description": "מסלול 37 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 510.0,
+        "unit": null,
+        "unitPrice": 3.0,
+        "totalPrice": 1530.0
+      },
+      {
+        "productCode": "2235100057",
+        "description": "ניצב 37 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 1800.0,
+        "unit": null,
+        "unitPrice": 3.65,
+        "totalPrice": 6570.0
+      },
+      {
+        "productCode": "3742800015",
+        "description": "דלת עץ זמנית כולל משקוף ופרזול ( יש לציין מידות)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 485.0,
+        "totalPrice": 970.0
+      },
+      {
+        "productCode": "4444300038",
+        "description": "בורג גבס 45 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 48.0,
+        "totalPrice": 480.0
+      },
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 250.0
+      },
+      {
+        "productCode": "4444300177",
+        "description": "בורג פח- פח 13 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 34.0,
+        "totalPrice": 510.0
+      }
+    ],
+    "subtotal": 10310.0,
+    "vatAmount": 1855.8,
+    "totalAmount": 12165.8
+  },
+  {
+    "poNumber": "PO25000038",
+    "supplierName": "גולמט בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-02",
+    "lineItems": [
+      {
+        "productCode": "2235400039",
+        "description": "צמר זכוכית עטוף פלא\"ב 2\" במשקל של 24 ק\"ג (מ",
+        "quantity": 1308.0,
+        "unit": null,
+        "unitPrice": 19.5,
+        "totalPrice": 25506.0
+      }
+    ],
+    "subtotal": 25506.0,
+    "vatAmount": 4591.08,
+    "totalAmount": 30097.08
+  },
+  {
+    "poNumber": "PO25000042",
+    "supplierName": "אבו אל גיעאן מחמד - א מ פינוי פסולת ועבודות עפר",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-02",
+    "lineItems": [
+      {
+        "productCode": "4744700005",
+        "description": "פינוי מכולה 15-16מ\"ק כולל אישור מטמנה",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 1800.0,
+        "totalPrice": 12600.0
+      }
+    ],
+    "subtotal": 12600.0,
+    "vatAmount": 2268.0,
+    "totalAmount": 14868.0
+  },
+  {
+    "poNumber": "PO25000051",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-05",
+    "lineItems": [
+      {
+        "productCode": "4544400017",
+        "description": "מזונית 244X122 עובי 2.2 מ\"מ",
+        "quantity": 135.0,
+        "unit": null,
+        "unitPrice": 19.0,
+        "totalPrice": 2565.0
+      }
+    ],
+    "subtotal": 2565.0,
+    "vatAmount": 461.7,
+    "totalAmount": 3026.7
+  },
+  {
+    "poNumber": "PO25000052",
+    "supplierName": "סטיקי",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-05",
+    "lineItems": [
+      {
+        "productCode": "5547300030",
+        "description": "שלט 40/30 PVC ( ביצוע ע\"פ סקיצה מאושרת בלבד)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 16.74,
+        "totalPrice": 83.7
+      },
+      {
+        "productCode": "5547300131",
+        "description": "שלט 70/50 PVC + טבעות ( ביצוע ע\"פ סקיצה מאושרת ב",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 39.06,
+        "totalPrice": 273.42
+      },
+      {
+        "productCode": "5547300132",
+        "description": "שלט 60/100 PVC+ טבעות ( ביצוע ע\"פ סקיצה מאושרת ב",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 66.96,
+        "totalPrice": 66.96
+      }
+    ],
+    "subtotal": 424.08,
+    "vatAmount": 76.33,
+    "totalAmount": 500.41
+  },
+  {
+    "poNumber": "PO25000053",
+    "supplierName": "אחים סיני ייבוא ושיווק  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-05",
+    "lineItems": [
+      {
+        "productCode": "4143400001",
+        "description": "הובלה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 200.0
+      }
+    ],
+    "subtotal": 200.0,
+    "vatAmount": 36.0,
+    "totalAmount": 236.0
+  },
+  {
+    "poNumber": "PO25000054",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-05",
+    "lineItems": [
+      {
+        "productCode": "4444300107",
+        "description": "בורג גבס 45 קודח  (1000 יח' בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 58.0,
+        "totalPrice": 580.0
+      }
+    ],
+    "subtotal": 580.0,
+    "vatAmount": 104.4,
+    "totalAmount": 684.4
+  },
+  {
+    "poNumber": "PO25000056",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-05",
+    "lineItems": [
+      {
+        "productCode": "1130500010",
+        "description": "בד גיאוטכני 200 גרם למ\"ר ( 400 מ\"ר בגליל)",
+        "quantity": 400.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 1400.0
+      }
+    ],
+    "subtotal": 1400.0,
+    "vatAmount": 252.0,
+    "totalAmount": 1652.0
+  },
+  {
+    "poNumber": "PO25000131",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-08",
+    "lineItems": [
+      {
+        "productCode": "2737500114",
+        "description": "שקע לכבל מאריך",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 2.6,
+        "totalPrice": 5.2
+      },
+      {
+        "productCode": "2737500159",
+        "description": "כבל מאריך 10 מ\"א",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 45.0,
+        "totalPrice": 90.0
+      },
+      {
+        "productCode": "3239100351",
+        "description": "סכין יפני",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 0.85,
+        "totalPrice": 4.25
+      },
+      {
+        "productCode": "3239100411",
+        "description": "שרשרת מחוסמת",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 105.0
+      },
+      {
+        "productCode": "3239600014",
+        "description": "מנעול רב בריח מגנום 13",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 45.5,
+        "totalPrice": 91.0
+      },
+      {
+        "productCode": "5045600058",
+        "description": "ספריי צבע ( יש לציין גוון)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 5.4,
+        "totalPrice": 32.4
+      },
+      {
+        "productCode": "5546500254",
+        "description": "סוללות אלקליין AA ( 4 יח' בחבילה)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 4.5,
+        "totalPrice": 22.5
+      },
+      {
+        "productCode": "5546800114",
+        "description": "פח אשפה 60 ליטר + מכסה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 31.5,
+        "totalPrice": 31.5
+      }
+    ],
+    "subtotal": 381.85,
+    "vatAmount": 68.73,
+    "totalAmount": 450.58
+  },
+  {
+    "poNumber": "PO25000132",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-08",
+    "lineItems": [
+      {
+        "productCode": "4444300147",
+        "description": "בורג לאקוה פנל 25 ר.ק - 250 יחידות",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 145.0,
+        "totalPrice": 145.0
+      }
+    ],
+    "subtotal": 145.0,
+    "vatAmount": 26.1,
+    "totalAmount": 171.1
+  },
+  {
+    "poNumber": "PO25000133",
+    "supplierName": "ע.ה. אייל שיווק ומסחר בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-08",
+    "lineItems": [
+      {
+        "productCode": "1632900006",
+        "description": "ווסט/אפוד זוהר פועלים מחורר צהוב + לוגו בסט",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 11.5,
+        "totalPrice": 345.0
+      },
+      {
+        "productCode": "1632900007",
+        "description": "ווסט מנהלים זוהר מחורר 5 כיסים כתום + לוגו( יש ל",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 52.0,
+        "totalPrice": 260.0
+      },
+      {
+        "productCode": "1632900009",
+        "description": "כובע מגן מנהלים (סגירת בורג) + לוגו חדש",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 32.0,
+        "totalPrice": 160.0
+      },
+      {
+        "productCode": "1632900010",
+        "description": "כובע מגן תיקני פשוט לפועלים ( ללא לוגו)",
+        "quantity": 25.0,
+        "unit": null,
+        "unitPrice": 11.0,
+        "totalPrice": 275.0
+      }
+    ],
+    "subtotal": 1040.0,
+    "vatAmount": 187.2,
+    "totalAmount": 1227.2
+  },
+  {
+    "poNumber": "PO25000139",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-08",
+    "lineItems": [
+      {
+        "productCode": "4544400016",
+        "description": "לוח OSB עובי 9 מ\"מ ( 2.44X1.22)",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 36.0,
+        "totalPrice": 7200.0
+      }
+    ],
+    "subtotal": 7200.0,
+    "vatAmount": 1296.0,
+    "totalAmount": 8496.0
+  },
+  {
+    "poNumber": "PO25000185",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-12",
+    "lineItems": [
+      {
+        "productCode": "2335500138",
+        "description": "נייר דבק \"3- מסקנטייפ",
+        "quantity": 250.0,
+        "unit": null,
+        "unitPrice": 4.55,
+        "totalPrice": 1137.5
+      }
+    ],
+    "subtotal": 1137.5,
+    "vatAmount": 204.75,
+    "totalAmount": 1342.25
+  },
+  {
+    "poNumber": "PO25000186",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-12",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 480.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 7680.0
+      }
+    ],
+    "subtotal": 7680.0,
+    "vatAmount": 1382.4,
+    "totalAmount": 9062.4
+  },
+  {
+    "poNumber": "PO25000211",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-12",
+    "lineItems": [
+      {
+        "productCode": "3239100351",
+        "description": "סכין יפני",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 0.9,
+        "totalPrice": 18.0
+      },
+      {
+        "productCode": "3240000012",
+        "description": "מטאטא עץ 1.5 + ידית",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 7.55,
+        "totalPrice": 75.5
+      },
+      {
+        "productCode": "3240500054",
+        "description": "מאריך בוקסה 1/2- 75 מ\"מ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 18.6,
+        "totalPrice": 18.6
+      },
+      {
+        "productCode": "3240700001",
+        "description": "שפכטל \"HYDE 5",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 13.0,
+        "totalPrice": 52.0
+      },
+      {
+        "productCode": "3240700006",
+        "description": "שפכטל \"HYDE 8",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 64.0,
+        "totalPrice": 256.0
+      },
+      {
+        "productCode": "3240900002",
+        "description": "מגב גומי פלסטיק ללא ידית",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 3.9,
+        "totalPrice": 39.0
+      }
+    ],
+    "subtotal": 459.1,
+    "vatAmount": 82.64,
+    "totalAmount": 541.74
+  },
+  {
+    "poNumber": "PO25000212",
+    "supplierName": "פסטל ציוד משרדי בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-12",
+    "lineItems": [
+      {
+        "productCode": "5546500101",
+        "description": "כוסות שתייה חמה 240 מ\"ל 8OZ (1000 יח')",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 125.0,
+        "totalPrice": 125.0
+      },
+      {
+        "productCode": "5547800035",
+        "description": "סודה בקבוק של 1.5 ליטר ( 6 יח' בארגז)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 14.5,
+        "totalPrice": 29.0
+      },
+      {
+        "productCode": "5547800048",
+        "description": "עוגיות לחמי מגוון",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 140.0
+      },
+      {
+        "productCode": "5547800051",
+        "description": "עוגיות שוקולד צ'יפס",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 8.5,
+        "totalPrice": 25.5
+      },
+      {
+        "productCode": "5547800065",
+        "description": "קפה שחור טורקי מוסדי עלית 1 ק\"ג",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 44.0,
+        "totalPrice": 264.0
+      },
+      {
+        "productCode": "5547900011",
+        "description": "כפיות פלסטיק (1/100)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3.8,
+        "totalPrice": 3.8
+      }
+    ],
+    "subtotal": 587.3,
+    "vatAmount": 105.71,
+    "totalAmount": 693.01
+  },
+  {
+    "poNumber": "PO25000213",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-12",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 920.0
+      }
+    ],
+    "subtotal": 920.0,
+    "vatAmount": 165.6,
+    "totalAmount": 1085.6
+  },
+  {
+    "poNumber": "PO25000266",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-15",
+    "lineItems": [
+      {
+        "productCode": "1130500050",
+        "description": "מסטיק/מסיליקון  אקרילי לבן ( תרמיל 280 מ\"ל)",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 420.0
+      },
+      {
+        "productCode": "2235200018",
+        "description": "סרט פיבה פיוז 75 מ\"א",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 60.0
+      },
+      {
+        "productCode": "3239100175",
+        "description": "מאריך לביטים",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 4.95,
+        "totalPrice": 24.75
+      },
+      {
+        "productCode": "3239100333",
+        "description": "סט 3 מספרי פח (צהוב, ירוק, אדום",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 45.0,
+        "totalPrice": 45.0
+      }
+    ],
+    "subtotal": 549.75,
+    "vatAmount": 98.95,
+    "totalAmount": 648.7
+  },
+  {
+    "poNumber": "PO25000273",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-15",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 920.0
+      }
+    ],
+    "subtotal": 920.0,
+    "vatAmount": 165.6,
+    "totalAmount": 1085.6
+  },
+  {
+    "poNumber": "PO25000285",
+    "supplierName": "ש.ר. מים ואש בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-15",
+    "lineItems": [
+      {
+        "productCode": "1230700474",
+        "description": "סילוקית סאניספליט 3K",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 1600.0,
+        "totalPrice": 19200.0
+      }
+    ],
+    "subtotal": 19200.0,
+    "vatAmount": 3456.0,
+    "totalAmount": 22656.0
+  },
+  {
+    "poNumber": "PO25000289",
+    "supplierName": "סטיקי",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-16",
+    "lineItems": [
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 250.0,
+        "totalPrice": 250.0
+      },
+      {
+        "productCode": "5546500153",
+        "description": "מדבקת ויניל במידה 60/30 ס\"מ",
+        "quantity": 342.0,
+        "unit": null,
+        "unitPrice": 2.0,
+        "totalPrice": 684.0
+      }
+    ],
+    "subtotal": 934.0,
+    "vatAmount": 168.12,
+    "totalAmount": 1102.12
+  },
+  {
+    "poNumber": "PO25000292",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-16",
+    "lineItems": [
+      {
+        "productCode": "5245900051",
+        "description": "צלב לקרמיקה 1 (1000 יח' בחב)",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 20.76,
+        "totalPrice": 498.24
+      },
+      {
+        "productCode": "5245900206",
+        "description": "ספייסר לפילוס 3 מ\"מ (100 יח')",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 20.76,
+        "totalPrice": 166.08
+      },
+      {
+        "productCode": "5546800034",
+        "description": "כפפות חד פעמיות לטקס (בקופסא)-100 יח'",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 23.93,
+        "totalPrice": 86.15
+      }
+    ],
+    "subtotal": 750.47,
+    "vatAmount": 135.08,
+    "totalAmount": 885.55
+  },
+  {
+    "poNumber": "PO25000312",
+    "supplierName": "תרמוקיר תעשיות (1980) בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-19",
+    "lineItems": [
+      {
+        "productCode": "2335500207",
+        "description": "ריצופית סופר תרמוקיר אפור  FL810 שק 25 ק\"ג ( 84",
+        "quantity": 35.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 475.3
+      }
+    ],
+    "subtotal": 475.3,
+    "vatAmount": 85.55,
+    "totalAmount": 560.85
+  },
+  {
+    "poNumber": "PO25000313",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-19",
+    "lineItems": [
+      {
+        "productCode": "2235100033",
+        "description": "מסלול 28 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 400.0,
+        "unit": null,
+        "unitPrice": 3.03,
+        "totalPrice": 1212.0
+      }
+    ],
+    "subtotal": 1212.0,
+    "vatAmount": 218.16,
+    "totalAmount": 1430.16
+  },
+  {
+    "poNumber": "PO25000314",
+    "supplierName": "חזיבנק דיזיין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-19",
+    "lineItems": [
+      {
+        "productCode": "5245800128",
+        "description": "ריצוף תשתית סוג ב' 60X60",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 1400.0
+      }
+    ],
+    "subtotal": 1400.0,
+    "vatAmount": 252.0,
+    "totalAmount": 1652.0
+  },
+  {
+    "poNumber": "PO25000370",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-21",
+    "lineItems": [
+      {
+        "productCode": "3239100447",
+        "description": "איזולירבנד חבלה טסה ( Tesa) בד רוחב 5 ס\"מ ( 25 מ",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 37.0,
+        "totalPrice": 7400.0
+      }
+    ],
+    "subtotal": 7400.0,
+    "vatAmount": 1332.0,
+    "totalAmount": 8732.0
+  },
+  {
+    "poNumber": "PO25000384",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-22",
+    "lineItems": [
+      {
+        "productCode": "2234600011",
+        "description": "לוח אקווה פאנל 1200*2400",
+        "quantity": 57.6,
+        "unit": null,
+        "unitPrice": 69.0,
+        "totalPrice": 3974.4
+      }
+    ],
+    "subtotal": 3974.4,
+    "vatAmount": 715.39,
+    "totalAmount": 4689.79
+  },
+  {
+    "poNumber": "PO25000385",
+    "supplierName": "פסטל ציוד משרדי בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-22",
+    "lineItems": [
+      {
+        "productCode": "5546500101",
+        "description": "כוסות שתייה חמה 240 מ\"ל 8OZ (1000 יח')",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 125.0,
+        "totalPrice": 250.0
+      },
+      {
+        "productCode": "5547800014",
+        "description": "חלב עמיד ( 12 יח' בארגז)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 6.1,
+        "totalPrice": 24.4
+      },
+      {
+        "productCode": "5547800040",
+        "description": "סוכר לבן  1 ק\"ג בצנצנת",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 8.5,
+        "totalPrice": 25.5
+      },
+      {
+        "productCode": "5547800050",
+        "description": "עוגיות מרוקאיות",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 140.0
+      },
+      {
+        "productCode": "5547800051",
+        "description": "עוגיות שוקולד צ'יפס",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 8.5,
+        "totalPrice": 42.5
+      },
+      {
+        "productCode": "5547900020",
+        "description": "צלחות פלסטיק קטנות חד\"פ 50 יח' בחבילה ( 40 חבילו",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 5.5,
+        "totalPrice": 22.0
+      }
+    ],
+    "subtotal": 504.4,
+    "vatAmount": 90.79,
+    "totalAmount": 595.19
+  },
+  {
+    "poNumber": "PO25000391",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-22",
+    "lineItems": [
+      {
+        "productCode": "5045500019",
+        "description": "מברשת צבע \"5",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 17.2,
+        "totalPrice": 34.4
+      },
+      {
+        "productCode": "5045500043",
+        "description": "רולר 15 ס\"מ + מגש",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 12.0,
+        "totalPrice": 24.0
+      },
+      {
+        "productCode": "5045500045",
+        "description": "רולר 25 ס\"מ מקצועי + מגש",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 50.0
+      }
+    ],
+    "subtotal": 108.4,
+    "vatAmount": 19.51,
+    "totalAmount": 127.91
+  },
+  {
+    "poNumber": "PO25000403",
+    "supplierName": "קרני תכלת (ב.ש.ק) שותפות מוגבלת",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-22",
+    "lineItems": [
+      {
+        "productCode": "2235200005",
+        "description": "הובלה אוירית  עד לאתר",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3808.0,
+        "totalPrice": 3084.48
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 29.0,
+        "unit": null,
+        "unitPrice": 551.0,
+        "totalPrice": 12942.99
+      }
+    ],
+    "subtotal": 16027.47,
+    "vatAmount": 2884.94,
+    "totalAmount": 18912.41
+  },
+  {
+    "poNumber": "PO25000405",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-22",
+    "lineItems": [
+      {
+        "productCode": "3239200002",
+        "description": "קלסימו (5 ק\"ג)",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 20.0,
+        "totalPrice": 140.0
+      }
+    ],
+    "subtotal": 140.0,
+    "vatAmount": 25.2,
+    "totalAmount": 165.2
+  },
+  {
+    "poNumber": "PO25000406",
+    "supplierName": "תרמוקיר תעשיות (1980) בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-22",
+    "lineItems": [
+      {
+        "productCode": "2536500002",
+        "description": "בטון מוכן ב-30 שק 25 ק\"ג (40 יח' בחצי משטח/  72",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 13.8,
+        "totalPrice": 535.44
+      }
+    ],
+    "subtotal": 535.44,
+    "vatAmount": 96.38,
+    "totalAmount": 631.82
+  },
+  {
+    "poNumber": "PO25000458",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "4544400016",
+        "description": "לוח OSB עובי 9 מ\"מ ( 2.44X1.22)",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 36.0,
+        "totalPrice": 7200.0
+      },
+      {
+        "productCode": "4544400024",
+        "description": "דיקט סנדוויץ' 12 מ\"מ 2.44X1.22",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 100.0,
+        "totalPrice": 500.0
+      }
+    ],
+    "subtotal": 7700.0,
+    "vatAmount": 1386.0,
+    "totalAmount": 9086.0
+  },
+  {
+    "poNumber": "PO25000459",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "5245900066",
+        "description": "קרטון גלי להגנה 1X50 (50 מ\"ר בגליל)",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 52.5,
+        "totalPrice": 1050.0
+      }
+    ],
+    "subtotal": 1050.0,
+    "vatAmount": 189.0,
+    "totalAmount": 1239.0
+  },
+  {
+    "poNumber": "PO25000460",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "2235100057",
+        "description": "ניצב 37 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 1650.0,
+        "unit": null,
+        "unitPrice": 3.65,
+        "totalPrice": 6022.5
+      },
+      {
+        "productCode": "2837900011",
+        "description": "טיח גבס MP75 שק 25 ק\"ג אורבונד( 60 יח' במשטח)",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 26.0,
+        "totalPrice": 390.0
+      },
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 375.0
+      },
+      {
+        "productCode": "4444300177",
+        "description": "בורג פח- פח 13 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 25.0,
+        "unit": null,
+        "unitPrice": 34.0,
+        "totalPrice": 850.0
+      }
+    ],
+    "subtotal": 7637.5,
+    "vatAmount": 1374.75,
+    "totalAmount": 9012.25
+  },
+  {
+    "poNumber": "PO25000461",
+    "supplierName": "גולמט בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "2235400039",
+        "description": "צמר זכוכית עטוף פלא\"ב 2\" במשקל של 24 ק\"ג (מ",
+        "quantity": 700.0,
+        "unit": null,
+        "unitPrice": 19.5,
+        "totalPrice": 13650.0
+      }
+    ],
+    "subtotal": 13650.0,
+    "vatAmount": 2457.0,
+    "totalAmount": 16107.0
+  },
+  {
+    "poNumber": "PO25000471",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 387.29,
+        "totalPrice": 387.29
+      }
+    ],
+    "subtotal": 387.29,
+    "vatAmount": 69.71,
+    "totalAmount": 457.0
+  },
+  {
+    "poNumber": "PO25000474",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1660.17,
+        "totalPrice": 1660.17
+      }
+    ],
+    "subtotal": 1660.17,
+    "vatAmount": 298.83,
+    "totalAmount": 1959.0
+  },
+  {
+    "poNumber": "PO25000488",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-26",
+    "lineItems": [
+      {
+        "productCode": "5045600074",
+        "description": "צבע DTM למתכת נירלט 4.5 ליטר ( יש לציין גוון)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 285.0,
+        "totalPrice": 285.0
+      }
+    ],
+    "subtotal": 285.0,
+    "vatAmount": 51.3,
+    "totalAmount": 336.3
+  },
+  {
+    "poNumber": "PO25000508",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-27",
+    "lineItems": [
+      {
+        "productCode": "4544400022",
+        "description": "לוח עץ - לטה 5/2.5",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 750.0
+      }
+    ],
+    "subtotal": 750.0,
+    "vatAmount": 135.0,
+    "totalAmount": 885.0
+  },
+  {
+    "poNumber": "PO25000509",
+    "supplierName": "תרמוקיר תעשיות (1980) בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-27",
+    "lineItems": [
+      {
+        "productCode": "2536500002",
+        "description": "בטון מוכן ב-30 שק 25 ק\"ג (40 יח' בחצי משטח/  72",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 13.8,
+        "totalPrice": 535.44
+      }
+    ],
+    "subtotal": 535.44,
+    "vatAmount": 96.38,
+    "totalAmount": 631.82
+  },
+  {
+    "poNumber": "PO25000521",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-28",
+    "lineItems": [
+      {
+        "productCode": "3239100420",
+        "description": "מטר מגנטי 5 מ' \"מילווקי\"",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 70.0,
+        "totalPrice": 280.0
+      }
+    ],
+    "subtotal": 280.0,
+    "vatAmount": 50.4,
+    "totalAmount": 330.4
+  },
+  {
+    "poNumber": "PO25000545",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-28",
+    "lineItems": [
+      {
+        "productCode": "4945400236",
+        "description": "\"פרופיל פינה ישרה 15 מ\"\"מ אלומיניום אנודייז",
+        "quantity": 60.0,
+        "unit": null,
+        "unitPrice": 9.8,
+        "totalPrice": 588.0
+      }
+    ],
+    "subtotal": 588.0,
+    "vatAmount": 105.84,
+    "totalAmount": 693.84
+  },
+  {
+    "poNumber": "PO25000557",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-29",
+    "lineItems": [
+      {
+        "productCode": "3138900293",
+        "description": "מברגת אימפקט/מפתח 2x4ah GDX 18V-200 (שנתיים אחרי",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1114.0,
+        "totalPrice": 1114.0
+      },
+      {
+        "productCode": "3138900294",
+        "description": "מברגת אימפקט 2x5ah GDR 18V-200  (שנתיים אחריות)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1089.0,
+        "totalPrice": 1089.0
+      }
+    ],
+    "subtotal": 2203.0,
+    "vatAmount": 396.54,
+    "totalAmount": 2599.54
+  },
+  {
+    "poNumber": "PO25000559",
+    "supplierName": "ע.ה. אייל שיווק ומסחר בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-29",
+    "lineItems": [
+      {
+        "productCode": "1632900007",
+        "description": "ווסט מנהלים זוהר מחורר 5 כיסים כתום + לוגו( יש ל",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 52.0,
+        "totalPrice": 208.0
+      }
+    ],
+    "subtotal": 208.0,
+    "vatAmount": 37.44,
+    "totalAmount": 245.44
+  },
+  {
+    "poNumber": "PO25000565",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-01-29",
+    "lineItems": [
+      {
+        "productCode": "2737600028",
+        "description": "מכשיר לבדיקת זרם חשמל בחוטים ( וולט טסטר)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 115.0,
+        "totalPrice": 460.0
+      }
+    ],
+    "subtotal": 460.0,
+    "vatAmount": 82.8,
+    "totalAmount": 542.8
+  },
+  {
+    "poNumber": "PO25000572",
+    "supplierName": "אינובייט בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-01-29",
+    "lineItems": [
+      {
+        "productCode": "5145700366",
+        "description": "פריט כללי-מ'ר",
+        "quantity": 140.0,
+        "unit": null,
+        "unitPrice": 175.0,
+        "totalPrice": 24500.0
+      }
+    ],
+    "subtotal": 24500.0,
+    "vatAmount": 4410.0,
+    "totalAmount": 28910.0
+  },
+  {
+    "poNumber": "PO25000591",
+    "supplierName": "פסטל ציוד משרדי בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-02",
+    "lineItems": [
+      {
+        "productCode": "5546800035",
+        "description": "כפפות לטקס חד פעמי ללא אבקה- 100 יחידות",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 45.0
+      },
+      {
+        "productCode": "5546800107",
+        "description": "ספוגית הפלא",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 1.85,
+        "totalPrice": 18.5
+      },
+      {
+        "productCode": "5547800026",
+        "description": "מים מינרלים 1.5 ליטר (מארז 6 יח')",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 14.5,
+        "totalPrice": 87.0
+      },
+      {
+        "productCode": "5547800050",
+        "description": "עוגיות מרוקאיות",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 140.0
+      },
+      {
+        "productCode": "5547900011",
+        "description": "כפיות פלסטיק (1/100)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 3.8,
+        "totalPrice": 7.6
+      },
+      {
+        "productCode": "5547900015",
+        "description": "מזלגות פלסטיק (1/100)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 4.8,
+        "totalPrice": 9.6
+      },
+      {
+        "productCode": "5547900019",
+        "description": "צלחות פלסטיק גדולות עבות חד פעמי",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 6.5,
+        "totalPrice": 32.5
+      }
+    ],
+    "subtotal": 340.2,
+    "vatAmount": 61.24,
+    "totalAmount": 401.44
+  },
+  {
+    "poNumber": "PO25000598",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-02",
+    "lineItems": [
+      {
+        "productCode": "3239100055",
+        "description": "את שפיכה / חפירה + ידית דגם אמריקאי",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 56.0
+      },
+      {
+        "productCode": "3239500111",
+        "description": "מקדח SDS PLUS 12X150X210 בוש",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 9.35,
+        "totalPrice": 18.7
+      },
+      {
+        "productCode": "3240000001",
+        "description": "מטאטא אולמות 40 + מקל",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 17.95,
+        "totalPrice": 359.0
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 100.0
+      }
+    ],
+    "subtotal": 533.7,
+    "vatAmount": 96.07,
+    "totalAmount": 629.77
+  },
+  {
+    "poNumber": "PO25000629",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-02",
+    "lineItems": [
+      {
+        "productCode": "4544400024",
+        "description": "דיקט סנדוויץ' 12 מ\"מ 2.44X1.22",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 100.0,
+        "totalPrice": 4000.0
+      }
+    ],
+    "subtotal": 4000.0,
+    "vatAmount": 720.0,
+    "totalAmount": 4720.0
+  },
+  {
+    "poNumber": "PO25000630",
+    "supplierName": "מ.ר. חומרי בנין והובלות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-02",
+    "lineItems": [
+      {
+        "productCode": "2536000001",
+        "description": "חצץ סומסום - בלה",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 80.0,
+        "totalPrice": 640.0
+      }
+    ],
+    "subtotal": 640.0,
+    "vatAmount": 115.2,
+    "totalAmount": 755.2
+  },
+  {
+    "poNumber": "PO25000632",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-02",
+    "lineItems": [
+      {
+        "productCode": "2335500138",
+        "description": "נייר דבק \"3- מסקנטייפ",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 4.9,
+        "totalPrice": 147.0
+      },
+      {
+        "productCode": "3239800031",
+        "description": "סולם עץ תיקני 5 שלבים ( תקן ישראלי)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 230.0,
+        "totalPrice": 460.0
+      },
+      {
+        "productCode": "3239800033",
+        "description": "סולם עץ תיקני 6 שלבים ( תקן ישראלי)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 260.0,
+        "totalPrice": 520.0
+      }
+    ],
+    "subtotal": 1127.0,
+    "vatAmount": 202.86,
+    "totalAmount": 1329.86
+  },
+  {
+    "poNumber": "PO25000638",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-03",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 400.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 1840.0
+      }
+    ],
+    "subtotal": 1840.0,
+    "vatAmount": 331.2,
+    "totalAmount": 2171.2
+  },
+  {
+    "poNumber": "PO25000654",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-03",
+    "lineItems": [
+      {
+        "productCode": "4644500083",
+        "description": "פיגום פרופשנאל מדרגות בגודל 1.8X1.35מ'",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 8500.0,
+        "totalPrice": 6800.0
+      },
+      {
+        "productCode": "4644500126",
+        "description": "השכרת פיגום נייד מאלומיניום ( יש לציין גובה דריכ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3470.0,
+        "totalPrice": 2776.0
+      }
+    ],
+    "subtotal": 9576.0,
+    "vatAmount": 1723.68,
+    "totalAmount": 11299.68
+  },
+  {
+    "poNumber": "PO25000658",
+    "supplierName": "ד.ש תקשורת שריקי דוד",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-03",
+    "lineItems": [
+      {
+        "productCode": "5547500044",
+        "description": "עבודות תקשורת",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 900.0,
+        "totalPrice": 900.0
+      }
+    ],
+    "subtotal": 900.0,
+    "vatAmount": 162.0,
+    "totalAmount": 1062.0
+  },
+  {
+    "poNumber": "PO25000662",
+    "supplierName": "א.צ. - שווק חומרי איטום וציפוי בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-04",
+    "lineItems": [
+      {
+        "productCode": "2335500229",
+        "description": "ספיר סופרלייט 260 שק 12 ק\"ג",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 44.0,
+        "totalPrice": 8800.0
+      }
+    ],
+    "subtotal": 8800.0,
+    "vatAmount": 1584.0,
+    "totalAmount": 10384.0
+  },
+  {
+    "poNumber": "PO25000669",
+    "supplierName": "בילטון טכנולוגיות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-04",
+    "lineItems": [
+      {
+        "productCode": "1431300130",
+        "description": "איכות ובקרה בתהליך - דמי שימוש חודשיים",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 800.0,
+        "totalPrice": 2400.0
+      },
+      {
+        "productCode": "5547600003",
+        "description": "רישיון בטיחות חודשי באתר-דמי שימוש חודשיים ( 18-",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 1550.0,
+        "totalPrice": 4650.0
+      }
+    ],
+    "subtotal": 7050.0,
+    "vatAmount": 1269.0,
+    "totalAmount": 8319.0
+  },
+  {
+    "poNumber": "PO25000670",
+    "supplierName": "בילטון טכנולוגיות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-04",
+    "lineItems": [
+      {
+        "productCode": "1431300130",
+        "description": "איכות ובקרה בתהליך - דמי שימוש חודשיים",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 800.0,
+        "totalPrice": 2400.0
+      },
+      {
+        "productCode": "5547600003",
+        "description": "רישיון בטיחות חודשי באתר-דמי שימוש חודשיים ( 18-",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 1550.0,
+        "totalPrice": 4650.0
+      }
+    ],
+    "subtotal": 7050.0,
+    "vatAmount": 1269.0,
+    "totalAmount": 8319.0
+  },
+  {
+    "poNumber": "PO25000678",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-06",
+    "lineItems": [
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 375.0
+      }
+    ],
+    "subtotal": 375.0,
+    "vatAmount": 67.5,
+    "totalAmount": 442.5
+  },
+  {
+    "poNumber": "PO25000686",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-05",
+    "lineItems": [
+      {
+        "productCode": "4945400005",
+        "description": "זוית אלומיניום 20/20 צבע לבן",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 7.2,
+        "totalPrice": 1440.0
+      }
+    ],
+    "subtotal": 1440.0,
+    "vatAmount": 259.2,
+    "totalAmount": 1699.2
+  },
+  {
+    "poNumber": "PO25000691",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-05",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 51.5,
+        "totalPrice": 257.5
+      },
+      {
+        "productCode": "5045600135",
+        "description": "צבע סופרקריל 18 ליטר מ.ד מגוון ( יש לציין מספר ג",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 238.0,
+        "totalPrice": 1190.0
+      }
+    ],
+    "subtotal": 1447.5,
+    "vatAmount": 260.55,
+    "totalAmount": 1708.05
+  },
+  {
+    "poNumber": "PO25000693",
+    "supplierName": "הכט אפרים 2002 בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-05",
+    "lineItems": [
+      {
+        "productCode": "2234600132",
+        "description": "תקרת גריד",
+        "quantity": 47.627,
+        "unit": null,
+        "unitPrice": 320.0,
+        "totalPrice": 15240.64
+      },
+      {
+        "productCode": "2234600132",
+        "description": "תקרת גריד",
+        "quantity": 166.701,
+        "unit": null,
+        "unitPrice": 240.0,
+        "totalPrice": 40008.24
+      },
+      {
+        "productCode": "2235100016",
+        "description": "ליגר שיניים שחור ציר 80 מרווח 45 ע",
+        "quantity": 468.0,
+        "unit": null,
+        "unitPrice": 40.0,
+        "totalPrice": 18720.0
+      },
+      {
+        "productCode": "2235100018",
+        "description": "מוט תליה קפיץ מתכונן 120/60",
+        "quantity": 510.0,
+        "unit": null,
+        "unitPrice": 7.64,
+        "totalPrice": 1948.2
+      },
+      {
+        "productCode": "4444300211",
+        "description": "דיבל 8 ניילון תקני (200 יח')",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 38.0,
+        "totalPrice": 228.0
+      }
+    ],
+    "subtotal": 76145.08,
+    "vatAmount": 13706.11,
+    "totalAmount": 89851.19
+  },
+  {
+    "poNumber": "PO25000699",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-05",
+    "lineItems": [
+      {
+        "productCode": "4945400005",
+        "description": "זוית אלומיניום 20/20 צבע לבן",
+        "quantity": 99.0,
+        "unit": null,
+        "unitPrice": 7.2,
+        "totalPrice": 712.8
+      },
+      {
+        "productCode": "5245800109",
+        "description": "פנל פלסטיק מלבן פולימר 4 סמ",
+        "quantity": 201.0,
+        "unit": null,
+        "unitPrice": 18.9,
+        "totalPrice": 3798.9
+      }
+    ],
+    "subtotal": 4511.7,
+    "vatAmount": 812.11,
+    "totalAmount": 5323.81
+  },
+  {
+    "poNumber": "PO25000701",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-05",
+    "lineItems": [
+      {
+        "productCode": "1632900033",
+        "description": "סרט אזהרה אדום/לבן ( 200 מ\"א בגליל)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 9.75,
+        "totalPrice": 48.75
+      },
+      {
+        "productCode": "3239100012",
+        "description": "איזוליר בנד \"2 (סרט בידוד שחור)",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 5.45,
+        "totalPrice": 218.0
+      },
+      {
+        "productCode": "3239100308",
+        "description": "ניילון נצמד למשטחים",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 12.0,
+        "totalPrice": 60.0
+      }
+    ],
+    "subtotal": 326.75,
+    "vatAmount": 58.81,
+    "totalAmount": 385.56
+  },
+  {
+    "poNumber": "PO25000733",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-06",
+    "lineItems": [
+      {
+        "productCode": "4945400229",
+        "description": "פרופיל פינה ישרה 10 מ\"מ אלומיניום אנודייז ( 3 מ\"",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 22.5,
+        "totalPrice": 337.5
+      },
+      {
+        "productCode": "4945400236",
+        "description": "\"פרופיל פינה ישרה 15 מ\"\"מ אלומיניום אנודייז",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 29.4,
+        "totalPrice": 441.0
+      }
+    ],
+    "subtotal": 778.5,
+    "vatAmount": 140.13,
+    "totalAmount": 918.63
+  },
+  {
+    "poNumber": "PO25000739",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-09",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 128.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 4480.0
+      }
+    ],
+    "subtotal": 4480.0,
+    "vatAmount": 806.4,
+    "totalAmount": 5286.4
+  },
+  {
+    "poNumber": "PO25000749",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-09",
+    "lineItems": [
+      {
+        "productCode": "4945400007",
+        "description": "זוית אלומיניום 20/30 מ\"מ טבעי",
+        "quantity": 198.0,
+        "unit": null,
+        "unitPrice": 12.5,
+        "totalPrice": 2475.0
+      }
+    ],
+    "subtotal": 2475.0,
+    "vatAmount": 445.5,
+    "totalAmount": 2920.5
+  },
+  {
+    "poNumber": "PO25000750",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-09",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 920.0
+      }
+    ],
+    "subtotal": 920.0,
+    "vatAmount": 165.6,
+    "totalAmount": 1085.6
+  },
+  {
+    "poNumber": "PO25000751",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-09",
+    "lineItems": [
+      {
+        "productCode": "4544400024",
+        "description": "דיקט סנדוויץ' 12 מ\"מ 2.44X1.22",
+        "quantity": 17.0,
+        "unit": null,
+        "unitPrice": 100.0,
+        "totalPrice": 1700.0
+      }
+    ],
+    "subtotal": 1700.0,
+    "vatAmount": 306.0,
+    "totalAmount": 2006.0
+  },
+  {
+    "poNumber": "PO25000793",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-10",
+    "lineItems": [
+      {
+        "productCode": "2235000031",
+        "description": "לוח צמנטבורד 8  ממ 2.6*1.25",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 122.8,
+        "totalPrice": 1842.0
+      }
+    ],
+    "subtotal": 1842.0,
+    "vatAmount": 331.56,
+    "totalAmount": 2173.56
+  },
+  {
+    "poNumber": "PO25000826",
+    "supplierName": "בי.ג'י (ישראל) טכנולוגיות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-11",
+    "lineItems": [
+      {
+        "productCode": "2235200039",
+        "description": "בי.ג'י. שפכטל בונד סופר דלי 25 ק\"ג ( 36 יח' במשט",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 46.0,
+        "totalPrice": 230.0
+      }
+    ],
+    "subtotal": 230.0,
+    "vatAmount": 41.4,
+    "totalAmount": 271.4
+  },
+  {
+    "poNumber": "PO25000827",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-11",
+    "lineItems": [
+      {
+        "productCode": "5045600054",
+        "description": "סופרקריל לבן טמבור מגוון 18 ליטר ( יש לציין גוון",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 232.0,
+        "totalPrice": 1160.0
+      }
+    ],
+    "subtotal": 1160.0,
+    "vatAmount": 208.8,
+    "totalAmount": 1368.8
+  },
+  {
+    "poNumber": "PO25000832",
+    "supplierName": "ע.ה. אייל שיווק ומסחר בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-11",
+    "lineItems": [
+      {
+        "productCode": "1632900006",
+        "description": "ווסט/אפוד זוהר פועלים מחורר צהוב + לוגו בסט",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 11.5,
+        "totalPrice": 115.0
+      },
+      {
+        "productCode": "1632900010",
+        "description": "כובע מגן תיקני פשוט לפועלים ( ללא לוגו)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 11.0,
+        "totalPrice": 110.0
+      }
+    ],
+    "subtotal": 225.0,
+    "vatAmount": 40.5,
+    "totalAmount": 265.5
+  },
+  {
+    "poNumber": "PO25000833",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-11",
+    "lineItems": [
+      {
+        "productCode": "4945400005",
+        "description": "זוית אלומיניום 20/20 צבע לבן",
+        "quantity": 600.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 6300.0
+      }
+    ],
+    "subtotal": 6300.0,
+    "vatAmount": 1134.0,
+    "totalAmount": 7434.0
+  },
+  {
+    "poNumber": "PO25000834",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-11",
+    "lineItems": [
+      {
+        "productCode": "4544400009",
+        "description": "לוח OSB עובי 11 מ\"מ ( 2.44X1.22)",
+        "quantity": 92.0,
+        "unit": null,
+        "unitPrice": 38.0,
+        "totalPrice": 3496.0
+      }
+    ],
+    "subtotal": 3496.0,
+    "vatAmount": 629.28,
+    "totalAmount": 4125.28
+  },
+  {
+    "poNumber": "PO25000842",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-11",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1522.03,
+        "totalPrice": 1522.03
+      }
+    ],
+    "subtotal": 1522.03,
+    "vatAmount": 273.97,
+    "totalAmount": 1796.0
+  },
+  {
+    "poNumber": "PO25000859",
+    "supplierName": "ע.ה. אייל שיווק ומסחר בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-12",
+    "lineItems": [
+      {
+        "productCode": "1632900006",
+        "description": "ווסט/אפוד זוהר פועלים מחורר צהוב + לוגו בסט",
+        "quantity": 45.0,
+        "unit": null,
+        "unitPrice": 11.5,
+        "totalPrice": 517.5
+      },
+      {
+        "productCode": "1632900010",
+        "description": "כובע מגן תיקני פשוט לפועלים ( ללא לוגו)",
+        "quantity": 45.0,
+        "unit": null,
+        "unitPrice": 11.0,
+        "totalPrice": 495.0
+      }
+    ],
+    "subtotal": 1012.5,
+    "vatAmount": 182.25,
+    "totalAmount": 1194.75
+  },
+  {
+    "poNumber": "PO25000863",
+    "supplierName": "יהודה יצוא ויבוא בינלאומי (1971) בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-12",
+    "lineItems": [
+      {
+        "productCode": "1130500078",
+        "description": "סיליקון סופר 7 שקוף/לבן ( 12 יח' בארגז)",
+        "quantity": 90.0,
+        "unit": null,
+        "unitPrice": 0.0,
+        "totalPrice": 0.0
+      },
+      {
+        "productCode": "2234600033",
+        "description": "תקרת מסטר B בהדבקה 60X120 גוון לבן (6 יח' בחבילה",
+        "quantity": 90.72,
+        "unit": null,
+        "unitPrice": 135.0,
+        "totalPrice": 12247.2
+      }
+    ],
+    "subtotal": 12247.2,
+    "vatAmount": 2204.5,
+    "totalAmount": 14451.7
+  },
+  {
+    "poNumber": "PO25000889",
+    "supplierName": "ע.ה. אייל שיווק ומסחר בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-13",
+    "lineItems": [
+      {
+        "productCode": "1632900009",
+        "description": "כובע מגן מנהלים (סגירת בורג) + לוגו חדש",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 32.0,
+        "totalPrice": 320.0
+      },
+      {
+        "productCode": "1632900043",
+        "description": "ווסט זוהר למנהלים (5 כיסים) אדום לאתת + לוגו חדש",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 52.0,
+        "totalPrice": 520.0
+      }
+    ],
+    "subtotal": 840.0,
+    "vatAmount": 151.2,
+    "totalAmount": 991.2
+  },
+  {
+    "poNumber": "PO25000893",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-16",
+    "lineItems": [
+      {
+        "productCode": "1230700258",
+        "description": "סרט איזולירבנד שחור",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 4.8,
+        "totalPrice": 192.0
+      },
+      {
+        "productCode": "3239100046",
+        "description": "אקדח לסיליקון אנגלי מקצועי",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 175.0
+      }
+    ],
+    "subtotal": 367.0,
+    "vatAmount": 66.06,
+    "totalAmount": 433.06
+  },
+  {
+    "poNumber": "PO25000901",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-16",
+    "lineItems": [
+      {
+        "productCode": "4544400009",
+        "description": "לוח OSB עובי 11 מ\"מ ( 2.44X1.22)",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 36.0,
+        "totalPrice": 1440.0
+      },
+      {
+        "productCode": "4544400024",
+        "description": "דיקט סנדוויץ' 12 מ\"מ 2.44X1.22",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 100.0,
+        "totalPrice": 1000.0
+      }
+    ],
+    "subtotal": 2440.0,
+    "vatAmount": 439.2,
+    "totalAmount": 2879.2
+  },
+  {
+    "poNumber": "PO25000904",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-16",
+    "lineItems": [
+      {
+        "productCode": "3239100447",
+        "description": "איזולירבנד חבלה טסה ( Tesa) בד רוחב 5 ס\"מ ( 25 מ",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 37.0,
+        "totalPrice": 1110.0
+      }
+    ],
+    "subtotal": 1110.0,
+    "vatAmount": 199.8,
+    "totalAmount": 1309.8
+  },
+  {
+    "poNumber": "PO25000913",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-16",
+    "lineItems": [
+      {
+        "productCode": "4544400009",
+        "description": "לוח OSB עובי 11 מ\"מ ( 2.44X1.22)",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 38.0,
+        "totalPrice": 1140.0
+      }
+    ],
+    "subtotal": 1140.0,
+    "vatAmount": 205.2,
+    "totalAmount": 1345.2
+  },
+  {
+    "poNumber": "PO25000922",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-16",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 1920.0
+      }
+    ],
+    "subtotal": 1920.0,
+    "vatAmount": 345.6,
+    "totalAmount": 2265.6
+  },
+  {
+    "poNumber": "PO25000930",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "3239200002",
+        "description": "קלסימו (5 ק\"ג)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 20.0,
+        "totalPrice": 200.0
+      }
+    ],
+    "subtotal": 200.0,
+    "vatAmount": 36.0,
+    "totalAmount": 236.0
+  },
+  {
+    "poNumber": "PO25000931",
+    "supplierName": "פסטל ציוד משרדי בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "5547800007",
+        "description": "בקבוק שתייה קלה 1.5 ליטר- ארגז",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 52.0,
+        "totalPrice": 156.0
+      },
+      {
+        "productCode": "5547800051",
+        "description": "עוגיות שוקולד צ'יפס",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 8.5,
+        "totalPrice": 85.0
+      },
+      {
+        "productCode": "5547900004",
+        "description": "כוסות 240 מ\"ל לשתייה חמה- 1000 יחי'",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 125.0,
+        "totalPrice": 125.0
+      },
+      {
+        "productCode": "5547900011",
+        "description": "כפיות פלסטיק (1/100)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 3.8,
+        "totalPrice": 19.0
+      },
+      {
+        "productCode": "5547900022",
+        "description": "מזלגות חד פעמיות איכותיות 50 יח'בחבילה ( 20 חביל",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 4.8,
+        "totalPrice": 9.6
+      }
+    ],
+    "subtotal": 394.6,
+    "vatAmount": 71.03,
+    "totalAmount": 465.63
+  },
+  {
+    "poNumber": "PO25000932",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 250.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 1150.0
+      }
+    ],
+    "subtotal": 1150.0,
+    "vatAmount": 207.0,
+    "totalAmount": 1357.0
+  },
+  {
+    "poNumber": "PO25000933",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 1674.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 17577.0
+      }
+    ],
+    "subtotal": 17577.0,
+    "vatAmount": 3163.86,
+    "totalAmount": 20740.86
+  },
+  {
+    "poNumber": "PO25000934",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 51.5,
+        "totalPrice": 206.0
+      }
+    ],
+    "subtotal": 206.0,
+    "vatAmount": 37.08,
+    "totalAmount": 243.08
+  },
+  {
+    "poNumber": "PO25000950",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "3239100350",
+        "description": "סכין יפני מקצועי",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 2.5,
+        "totalPrice": 50.0
+      },
+      {
+        "productCode": "5546800097",
+        "description": "סבון/נוזל לניקוי רצפה (גלון 4 ליטר)",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 8.7,
+        "totalPrice": 60.9
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 400.0
+      }
+    ],
+    "subtotal": 510.9,
+    "vatAmount": 91.96,
+    "totalAmount": 602.86
+  },
+  {
+    "poNumber": "PO25000956",
+    "supplierName": "יהודה יצוא ויבוא בינלאומי (1971) בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-17",
+    "lineItems": [
+      {
+        "productCode": "2234600034",
+        "description": "סומברה A 1200*600 עובי 15 ממ",
+        "quantity": 90.0,
+        "unit": null,
+        "unitPrice": 60.0,
+        "totalPrice": 5400.0
+      }
+    ],
+    "subtotal": 5400.0,
+    "vatAmount": 972.0,
+    "totalAmount": 6372.0
+  },
+  {
+    "poNumber": "PO25000970",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-18",
+    "lineItems": [
+      {
+        "productCode": "5045500035",
+        "description": "סט מארז שרוול לרולר \"4 + ידית פרווה",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 250.0
+      },
+      {
+        "productCode": "5045500035",
+        "description": "סט מארז שרוול לרולר \"4 + ידית פרווה",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 31.0,
+        "totalPrice": 310.0
+      },
+      {
+        "productCode": "5045600074",
+        "description": "צבע DTM למתכת נירלט 4.5 ליטר ( יש לציין גוון)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 285.0,
+        "totalPrice": 855.0
+      }
+    ],
+    "subtotal": 1415.0,
+    "vatAmount": 254.7,
+    "totalAmount": 1669.7
+  },
+  {
+    "poNumber": "PO25000971",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-18",
+    "lineItems": [
+      {
+        "productCode": "1130500050",
+        "description": "מסטיק/מסיליקון  אקרילי לבן ( תרמיל 280 מ\"ל)",
+        "quantity": 100.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 350.0
+      },
+      {
+        "productCode": "1632900021",
+        "description": "משקפי מגן",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 3.0,
+        "totalPrice": 60.0
+      },
+      {
+        "productCode": "1632900029",
+        "description": "נשמיות חד פעמי (מסיכת אבק) 20 יחידות",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 3.0,
+        "totalPrice": 120.0
+      },
+      {
+        "productCode": "3239100183",
+        "description": "מוביל ביטים מגנטי 50 מ\"מ - מחזיק",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 4.95,
+        "totalPrice": 19.8
+      },
+      {
+        "productCode": "3239100192",
+        "description": "מוביל מגנטי לבית (למברגה )",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 4.95,
+        "totalPrice": 14.85
+      },
+      {
+        "productCode": "3239100203",
+        "description": "מסור ידני לחיתוך גבס",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 9.6,
+        "totalPrice": 57.6
+      },
+      {
+        "productCode": "3239100333",
+        "description": "סט 3 מספרי פח (צהוב, ירוק, אדום",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 45.0,
+        "totalPrice": 135.0
+      }
+    ],
+    "subtotal": 757.25,
+    "vatAmount": 136.31,
+    "totalAmount": 893.56
+  },
+  {
+    "poNumber": "PO25000992",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-18",
+    "lineItems": [
+      {
+        "productCode": "1632900033",
+        "description": "סרט אזהרה אדום/לבן ( 200 מ\"א בגליל)",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 9.75,
+        "totalPrice": 68.25
+      },
+      {
+        "productCode": "3239100044",
+        "description": "אקדח סיליקון",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 45.0
+      },
+      {
+        "productCode": "3239100351",
+        "description": "סכין יפני",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 0.85,
+        "totalPrice": 4.25
+      },
+      {
+        "productCode": "3240000007",
+        "description": "מטאטא כביש 60 ס\"מ + ידית עץ",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 19.7,
+        "totalPrice": 98.5
+      }
+    ],
+    "subtotal": 216.0,
+    "vatAmount": 38.88,
+    "totalAmount": 254.88
+  },
+  {
+    "poNumber": "PO25000993",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-18",
+    "lineItems": [
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 300.0
+      }
+    ],
+    "subtotal": 300.0,
+    "vatAmount": 54.0,
+    "totalAmount": 354.0
+  },
+  {
+    "poNumber": "PO25000994",
+    "supplierName": "פסטל ציוד משרדי בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-18",
+    "lineItems": [
+      {
+        "productCode": "5547800026",
+        "description": "מים מינרלים 1.5 ליטר (מארז 6 יח')",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 14.5,
+        "totalPrice": 145.0
+      },
+      {
+        "productCode": "5547800063",
+        "description": "קפה שחור טורקי 200 גרם עלית",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 15.8,
+        "totalPrice": 158.0
+      }
+    ],
+    "subtotal": 303.0,
+    "vatAmount": 54.54,
+    "totalAmount": 357.54
+  },
+  {
+    "poNumber": "PO25001006",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-18",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 960.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 15360.0
+      }
+    ],
+    "subtotal": 15360.0,
+    "vatAmount": 2764.8,
+    "totalAmount": 18124.8
+  },
+  {
+    "poNumber": "PO25001011",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-19",
+    "lineItems": [
+      {
+        "productCode": "4945400004",
+        "description": "זוית אלומיניום 15/15 פאזות לבן",
+        "quantity": 500.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 4750.0
+      }
+    ],
+    "subtotal": 4750.0,
+    "vatAmount": 855.0,
+    "totalAmount": 5605.0
+  },
+  {
+    "poNumber": "PO25001015",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-19",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 700.0
+      }
+    ],
+    "subtotal": 700.0,
+    "vatAmount": 126.0,
+    "totalAmount": 826.0
+  },
+  {
+    "poNumber": "PO25001032",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-20",
+    "lineItems": [
+      {
+        "productCode": "5045500045",
+        "description": "רולר 25 ס\"מ מקצועי + מגש",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 49.0,
+        "totalPrice": 245.0
+      },
+      {
+        "productCode": "5045600054",
+        "description": "סופרקריל לבן טמבור מגוון 18 ליטר ( יש לציין גוון",
+        "quantity": 16.0,
+        "unit": null,
+        "unitPrice": 232.0,
+        "totalPrice": 3712.0
+      }
+    ],
+    "subtotal": 3957.0,
+    "vatAmount": 712.26,
+    "totalAmount": 4669.26
+  },
+  {
+    "poNumber": "PO25001059",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-23",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 300.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 4800.0
+      }
+    ],
+    "subtotal": 4800.0,
+    "vatAmount": 864.0,
+    "totalAmount": 5664.0
+  },
+  {
+    "poNumber": "PO25001060",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-23",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 1400.0
+      }
+    ],
+    "subtotal": 1400.0,
+    "vatAmount": 252.0,
+    "totalAmount": 1652.0
+  },
+  {
+    "poNumber": "PO25001073",
+    "supplierName": "מאפיקס שיווק והפצה   בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-23",
+    "lineItems": [
+      {
+        "productCode": "5245900145",
+        "description": "רובה מאפיי אולטרה-קולור שק 5 ק\"ג ( יש לציין גוון",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 58.0,
+        "totalPrice": 2900.0
+      }
+    ],
+    "subtotal": 2900.0,
+    "vatAmount": 522.0,
+    "totalAmount": 3422.0
+  },
+  {
+    "poNumber": "PO25001074",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-23",
+    "lineItems": [
+      {
+        "productCode": "2235100041",
+        "description": "מסלול F47 עובי 06 אולטרה פרו ( יש לציין אורך)",
+        "quantity": 900.0,
+        "unit": null,
+        "unitPrice": 3.9,
+        "totalPrice": 3510.0
+      },
+      {
+        "productCode": "2235100066",
+        "description": "ניצב F-47 עובי 06 אולטרה פרו ( יש לציין אורך)",
+        "quantity": 900.0,
+        "unit": null,
+        "unitPrice": 5.5,
+        "totalPrice": 4950.0
+      }
+    ],
+    "subtotal": 8460.0,
+    "vatAmount": 1522.8,
+    "totalAmount": 9982.8
+  },
+  {
+    "poNumber": "PO25001075",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-23",
+    "lineItems": [
+      {
+        "productCode": "2838400001",
+        "description": "ווגה (30ק\"ג) לשק",
+        "quantity": 72.0,
+        "unit": null,
+        "unitPrice": 150.0,
+        "totalPrice": 10800.0
+      }
+    ],
+    "subtotal": 10800.0,
+    "vatAmount": 1944.0,
+    "totalAmount": 12744.0
+  },
+  {
+    "poNumber": "PO25001078",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-23",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 45.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 675.0
+      },
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 51.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 535.5
+      },
+      {
+        "productCode": "2235100125",
+        "description": "צביעת פרופילים ( ביחידות)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 300.0,
+        "totalPrice": 300.0
+      }
+    ],
+    "subtotal": 1510.5,
+    "vatAmount": 271.89,
+    "totalAmount": 1782.39
+  },
+  {
+    "poNumber": "PO25001105",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-24",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 920.0
+      }
+    ],
+    "subtotal": 920.0,
+    "vatAmount": 165.6,
+    "totalAmount": 1085.6
+  },
+  {
+    "poNumber": "PO25001106",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-24",
+    "lineItems": [
+      {
+        "productCode": "1130500050",
+        "description": "מסטיק/מסיליקון  אקרילי לבן ( תרמיל 280 מ\"ל)",
+        "quantity": 150.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 525.0
+      },
+      {
+        "productCode": "2335500136",
+        "description": "נייר דבק לבן  \"2 - מסקנטייפ ( 72 יח' בחבילה)",
+        "quantity": 72.0,
+        "unit": null,
+        "unitPrice": 2.5,
+        "totalPrice": 180.0
+      }
+    ],
+    "subtotal": 705.0,
+    "vatAmount": 126.9,
+    "totalAmount": 831.9
+  },
+  {
+    "poNumber": "PO25001108",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-24",
+    "lineItems": [
+      {
+        "productCode": "2234900002",
+        "description": "לוח גבס מעכב בעירה  ורוד בעובי 12.5 מ\"מ ( יש לצי",
+        "quantity": 72.0,
+        "unit": null,
+        "unitPrice": 13.4,
+        "totalPrice": 964.8
+      }
+    ],
+    "subtotal": 964.8,
+    "vatAmount": 173.66,
+    "totalAmount": 1138.46
+  },
+  {
+    "poNumber": "PO25001114",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-24",
+    "lineItems": [
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2000.0,
+        "totalPrice": 2000.0
+      }
+    ],
+    "subtotal": 2000.0,
+    "vatAmount": 360.0,
+    "totalAmount": 2360.0
+  },
+  {
+    "poNumber": "PO25001131",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-02-25",
+    "lineItems": [
+      {
+        "productCode": "3239100044",
+        "description": "אקדח סיליקון",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 14.5,
+        "totalPrice": 87.0
+      },
+      {
+        "productCode": "5546800044",
+        "description": "מגבונים לחים לניקוי ( דלי)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 90.0
+      }
+    ],
+    "subtotal": 177.0,
+    "vatAmount": 31.86,
+    "totalAmount": 208.86
+  },
+  {
+    "poNumber": "PO25001136",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-25",
+    "lineItems": [
+      {
+        "productCode": "2234700008",
+        "description": "לוח גבס לבן עובי 6 מ\"מ במידה 1.2X2.6",
+        "quantity": 129.6,
+        "unit": null,
+        "unitPrice": 23.75,
+        "totalPrice": 3078.0
+      }
+    ],
+    "subtotal": 3078.0,
+    "vatAmount": 554.04,
+    "totalAmount": 3632.04
+  },
+  {
+    "poNumber": "PO25001177",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-02-27",
+    "lineItems": [
+      {
+        "productCode": "4444300038",
+        "description": "בורג גבס 45 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 48.0,
+        "totalPrice": 480.0
+      },
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 250.0
+      }
+    ],
+    "subtotal": 730.0,
+    "vatAmount": 131.4,
+    "totalAmount": 861.4
+  },
+  {
+    "poNumber": "PO25001203",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-02",
+    "lineItems": [
+      {
+        "productCode": "2838400001",
+        "description": "ווגה (30ק\"ג) לשק",
+        "quantity": 25.0,
+        "unit": null,
+        "unitPrice": 150.0,
+        "totalPrice": 3750.0
+      }
+    ],
+    "subtotal": 3750.0,
+    "vatAmount": 675.0,
+    "totalAmount": 4425.0
+  },
+  {
+    "poNumber": "PO25001204",
+    "supplierName": "אופן ארט איי פי  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-02",
+    "lineItems": [
+      {
+        "productCode": "2235300004",
+        "description": "פתח שירות 60/60 BASIC",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 266.0,
+        "totalPrice": 532.0
+      },
+      {
+        "productCode": "2235300036",
+        "description": "פתח שירות 80/80 BASIC",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 511.0,
+        "totalPrice": 3066.0
+      }
+    ],
+    "subtotal": 3598.0,
+    "vatAmount": 647.64,
+    "totalAmount": 4245.64
+  },
+  {
+    "poNumber": "PO25001205",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-02",
+    "lineItems": [
+      {
+        "productCode": "5546800016",
+        "description": "דלי 400 מגבונים לניקוי וחיטוי משטחים 99.9%",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 80.0
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 70.0
+      }
+    ],
+    "subtotal": 150.0,
+    "vatAmount": 27.0,
+    "totalAmount": 177.0
+  },
+  {
+    "poNumber": "PO25001223",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-03",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 525.0
+      }
+    ],
+    "subtotal": 525.0,
+    "vatAmount": 94.5,
+    "totalAmount": 619.5
+  },
+  {
+    "poNumber": "PO25001231",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-03",
+    "lineItems": [
+      {
+        "productCode": "1130500048",
+        "description": "מסטיק אקרילי אפור (תרמיל)",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 6.2,
+        "totalPrice": 93.0
+      },
+      {
+        "productCode": "2235200018",
+        "description": "סרט פיבה פיוז 75 מ\"א",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 90.0
+      },
+      {
+        "productCode": "3240700001",
+        "description": "שפכטל \"HYDE 5",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 13.0,
+        "totalPrice": 65.0
+      },
+      {
+        "productCode": "3240700006",
+        "description": "שפכטל \"HYDE 8",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 64.0,
+        "totalPrice": 320.0
+      },
+      {
+        "productCode": "4945400103",
+        "description": "מגן פינה משתנה לגבס ( גליל 30 מ\"א)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 24.7,
+        "totalPrice": 148.2
+      }
+    ],
+    "subtotal": 716.2,
+    "vatAmount": 128.92,
+    "totalAmount": 845.12
+  },
+  {
+    "poNumber": "PO25001232",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-03",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 51.5,
+        "totalPrice": 257.5
+      },
+      {
+        "productCode": "5045600054",
+        "description": "סופרקריל לבן טמבור מגוון 18 ליטר ( יש לציין גוון",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 280.0,
+        "totalPrice": 560.0
+      }
+    ],
+    "subtotal": 817.5,
+    "vatAmount": 147.15,
+    "totalAmount": 964.65
+  },
+  {
+    "poNumber": "PO25001233",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-03",
+    "lineItems": [
+      {
+        "productCode": "5045600074",
+        "description": "צבע DTM למתכת נירלט 4.5 ליטר ( יש לציין גוון)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 258.0,
+        "totalPrice": 774.0
+      }
+    ],
+    "subtotal": 774.0,
+    "vatAmount": 139.32,
+    "totalAmount": 913.32
+  },
+  {
+    "poNumber": "PO25001250",
+    "supplierName": "פסטל ציוד משרדי בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-04",
+    "lineItems": [
+      {
+        "productCode": "5547800008",
+        "description": "דבש (350 גרם)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 21.5,
+        "totalPrice": 43.0
+      },
+      {
+        "productCode": "5547800026",
+        "description": "מים מינרלים 1.5 ליטר (מארז 6 יח')",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 14.5,
+        "totalPrice": 43.5
+      },
+      {
+        "productCode": "5547800035",
+        "description": "סודה בקבוק של 1.5 ליטר ( 6 יח' בארגז)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 14.5,
+        "totalPrice": 43.5
+      },
+      {
+        "productCode": "5547800050",
+        "description": "עוגיות מרוקאיות",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 140.0
+      },
+      {
+        "productCode": "5547800063",
+        "description": "קפה שחור טורקי 200 גרם עלית",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 15.8,
+        "totalPrice": 79.0
+      },
+      {
+        "productCode": "5547800073",
+        "description": "תה ירוק ( יש לציין טעם)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 19.9,
+        "totalPrice": 39.8
+      },
+      {
+        "productCode": "5547900015",
+        "description": "מזלגות פלסטיק (1/100)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 4.8,
+        "totalPrice": 24.0
+      }
+    ],
+    "subtotal": 412.8,
+    "vatAmount": 74.3,
+    "totalAmount": 487.1
+  },
+  {
+    "poNumber": "PO25001251",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-04",
+    "lineItems": [
+      {
+        "productCode": "2235100125",
+        "description": "צביעת פרופילים ( ביחידות)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 300.0,
+        "totalPrice": 300.0
+      },
+      {
+        "productCode": "4945400210",
+        "description": "פרופיל ניתוק לגבס 13 מ\"מ לבן",
+        "quantity": 45.0,
+        "unit": null,
+        "unitPrice": 9.8,
+        "totalPrice": 441.0
+      }
+    ],
+    "subtotal": 741.0,
+    "vatAmount": 133.38,
+    "totalAmount": 874.38
+  },
+  {
+    "poNumber": "PO25001257",
+    "supplierName": "חזיבנק דיזיין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-04",
+    "lineItems": [
+      {
+        "productCode": "2737600038",
+        "description": "מדף במידה 60/40 ס\"מ",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 2000.0,
+        "totalPrice": 14000.0
+      }
+    ],
+    "subtotal": 14000.0,
+    "vatAmount": 2520.0,
+    "totalAmount": 16520.0
+  },
+  {
+    "poNumber": "PO25001274",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-05",
+    "lineItems": [
+      {
+        "productCode": "1531500003",
+        "description": "טיט מוכן רגיל",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 9.0,
+        "totalPrice": 450.0
+      },
+      {
+        "productCode": "2536500003",
+        "description": "מלט לבן 25 ק\"ג ( 80 יח' במשטח)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 30.0,
+        "totalPrice": 300.0
+      },
+      {
+        "productCode": "4143400001",
+        "description": "הובלה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 150.0,
+        "totalPrice": 150.0
+      }
+    ],
+    "subtotal": 900.0,
+    "vatAmount": 162.0,
+    "totalAmount": 1062.0
+  },
+  {
+    "poNumber": "PO25001276",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-05",
+    "lineItems": [
+      {
+        "productCode": "3742800015",
+        "description": "דלת עץ זמנית כולל משקוף ופרזול ( יש לציין מידות)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 485.0,
+        "totalPrice": 485.0
+      }
+    ],
+    "subtotal": 485.0,
+    "vatAmount": 87.3,
+    "totalAmount": 572.3
+  },
+  {
+    "poNumber": "PO25001300",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-06",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 4.95,
+        "totalPrice": 990.0
+      }
+    ],
+    "subtotal": 990.0,
+    "vatAmount": 178.2,
+    "totalAmount": 1168.2
+  },
+  {
+    "poNumber": "PO25001322",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-09",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 700.0
+      }
+    ],
+    "subtotal": 700.0,
+    "vatAmount": 126.0,
+    "totalAmount": 826.0
+  },
+  {
+    "poNumber": "PO25001343",
+    "supplierName": "סטיקי",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-10",
+    "lineItems": [
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 182.0,
+        "unit": null,
+        "unitPrice": 7.0,
+        "totalPrice": 1274.0
+      },
+      {
+        "productCode": "5547300089",
+        "description": "שלט 10/15 PVC פולט אור ( ביצוע ע\"פ סקיצה מאושרת",
+        "quantity": 44.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 440.0
+      }
+    ],
+    "subtotal": 1714.0,
+    "vatAmount": 308.52,
+    "totalAmount": 2022.52
+  },
+  {
+    "poNumber": "PO25001344",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-10",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 6.5,
+        "totalPrice": 1300.0
+      }
+    ],
+    "subtotal": 1300.0,
+    "vatAmount": 234.0,
+    "totalAmount": 1534.0
+  },
+  {
+    "poNumber": "PO25001388",
+    "supplierName": "רום שינוע - שירותי תברואה בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-11",
+    "lineItems": [
+      {
+        "productCode": "4745000005",
+        "description": "פינוי פסולת/ מכולה 8 קוב",
+        "quantity": 23.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 25300.0
+      }
+    ],
+    "subtotal": 25300.0,
+    "vatAmount": 4554.0,
+    "totalAmount": 29854.0
+  },
+  {
+    "poNumber": "PO25001417",
+    "supplierName": "אופן ארט איי פי  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-13",
+    "lineItems": [
+      {
+        "productCode": "2235300004",
+        "description": "פתח שירות 60/60 BASIC",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 266.0,
+        "totalPrice": 2128.0
+      }
+    ],
+    "subtotal": 2128.0,
+    "vatAmount": 383.04,
+    "totalAmount": 2511.04
+  },
+  {
+    "poNumber": "PO25001418",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-13",
+    "lineItems": [
+      {
+        "productCode": "1130500050",
+        "description": "מסטיק/מסיליקון  אקרילי לבן ( תרמיל 280 מ\"ל)",
+        "quantity": 70.0,
+        "unit": null,
+        "unitPrice": 3.4,
+        "totalPrice": 238.0
+      }
+    ],
+    "subtotal": 238.0,
+    "vatAmount": 42.84,
+    "totalAmount": 280.84
+  },
+  {
+    "poNumber": "PO25001423",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-13",
+    "lineItems": [
+      {
+        "productCode": "4644500126",
+        "description": "השכרת פיגום נייד מאלומיניום ( יש לציין גובה דריכ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2850.0,
+        "totalPrice": 2850.0
+      }
+    ],
+    "subtotal": 2850.0,
+    "vatAmount": 513.0,
+    "totalAmount": 3363.0
+  },
+  {
+    "poNumber": "PO25001452",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-16",
+    "lineItems": [
+      {
+        "productCode": "1130500274",
+        "description": "מסטיק/מסיליקון  אקרילי שחור ( תרמיל 280 מ\"ל)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 5.45,
+        "totalPrice": 54.5
+      }
+    ],
+    "subtotal": 54.5,
+    "vatAmount": 9.81,
+    "totalAmount": 64.31
+  },
+  {
+    "poNumber": "PO25001457",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-16",
+    "lineItems": [
+      {
+        "productCode": "2235100118",
+        "description": "פרופיל גימור חצי ירח  רוחב 30 מ\"מ אורך 3 מ'",
+        "quantity": 45.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 427.5
+      }
+    ],
+    "subtotal": 427.5,
+    "vatAmount": 76.95,
+    "totalAmount": 504.45
+  },
+  {
+    "poNumber": "PO25001458",
+    "supplierName": "אופן ארט איי פי  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-16",
+    "lineItems": [
+      {
+        "productCode": "2235300001",
+        "description": "פתח שירות 30/30 BASIC",
+        "quantity": 16.0,
+        "unit": null,
+        "unitPrice": 243.0,
+        "totalPrice": 3888.0
+      }
+    ],
+    "subtotal": 3888.0,
+    "vatAmount": 699.84,
+    "totalAmount": 4587.84
+  },
+  {
+    "poNumber": "PO25001460",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-16",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 1050.0
+      }
+    ],
+    "subtotal": 1050.0,
+    "vatAmount": 189.0,
+    "totalAmount": 1239.0
+  },
+  {
+    "poNumber": "PO25001464",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-16",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 202.54,
+        "totalPrice": 202.54
+      }
+    ],
+    "subtotal": 202.54,
+    "vatAmount": 36.46,
+    "totalAmount": 239.0
+  },
+  {
+    "poNumber": "PO25001484",
+    "supplierName": "אחים סיני ייבוא ושיווק  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-17",
+    "lineItems": [
+      {
+        "productCode": "1030100003",
+        "description": "סילר 5 ליטר מראה טבעי",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 180.0,
+        "totalPrice": 360.0
+      }
+    ],
+    "subtotal": 360.0,
+    "vatAmount": 64.8,
+    "totalAmount": 424.8
+  },
+  {
+    "poNumber": "PO25001485",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-17",
+    "lineItems": [
+      {
+        "productCode": "2837900011",
+        "description": "טיח גבס MP75 שק 25 ק\"ג אורבונד( 60 יח' במשטח)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 26.0,
+        "totalPrice": 260.0
+      }
+    ],
+    "subtotal": 260.0,
+    "vatAmount": 46.8,
+    "totalAmount": 306.8
+  },
+  {
+    "poNumber": "PO25001500",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-17",
+    "lineItems": [
+      {
+        "productCode": "2838400009",
+        "description": "כוחלה מגוון -25 ק\"ג",
+        "quantity": 15.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 525.0
+      }
+    ],
+    "subtotal": 525.0,
+    "vatAmount": 94.5,
+    "totalAmount": 619.5
+  },
+  {
+    "poNumber": "PO25001536",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-19",
+    "lineItems": [
+      {
+        "productCode": "1130500010",
+        "description": "בד גיאוטכני 200 גרם למ\"ר ( 400 מ\"ר בגליל)",
+        "quantity": 600.0,
+        "unit": null,
+        "unitPrice": 2.6,
+        "totalPrice": 1560.0
+      }
+    ],
+    "subtotal": 1560.0,
+    "vatAmount": 280.8,
+    "totalAmount": 1840.8
+  },
+  {
+    "poNumber": "PO25001561",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-20",
+    "lineItems": [
+      {
+        "productCode": "4544400016",
+        "description": "לוח OSB עובי 9 מ\"מ ( 2.44X1.22)",
+        "quantity": 270.0,
+        "unit": null,
+        "unitPrice": 36.0,
+        "totalPrice": 9720.0
+      }
+    ],
+    "subtotal": 9720.0,
+    "vatAmount": 1749.6,
+    "totalAmount": 11469.6
+  },
+  {
+    "poNumber": "PO25001566",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-20",
+    "lineItems": [
+      {
+        "productCode": "1130500010",
+        "description": "בד גיאוטכני 200 גרם למ\"ר ( 400 מ\"ר בגליל)",
+        "quantity": 700.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 2450.0
+      },
+      {
+        "productCode": "1632900029",
+        "description": "נשמיות חד פעמי (מסיכת אבק) 20 יחידות",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 1.71,
+        "totalPrice": 76.95
+      },
+      {
+        "productCode": "3239100291",
+        "description": "משור חרב לגבס",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 41.03,
+        "totalPrice": 82.06
+      },
+      {
+        "productCode": "3239100351",
+        "description": "סכין יפני",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 0.85,
+        "totalPrice": 4.25
+      },
+      {
+        "productCode": "5245900043",
+        "description": "סקרייפר/ מגרדת (סכין לניקוי קרמיקה וזכוכית)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 27.0,
+        "totalPrice": 135.0
+      }
+    ],
+    "subtotal": 2748.26,
+    "vatAmount": 494.69,
+    "totalAmount": 3242.95
+  },
+  {
+    "poNumber": "PO25001567",
+    "supplierName": "מאפיקס שיווק והפצה   בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-20",
+    "lineItems": [
+      {
+        "productCode": "5245900145",
+        "description": "רובה מאפיי אולטרה-קולור שק 5 ק\"ג ( יש לציין גוון",
+        "quantity": 27.0,
+        "unit": null,
+        "unitPrice": 58.0,
+        "totalPrice": 1566.0
+      }
+    ],
+    "subtotal": 1566.0,
+    "vatAmount": 281.88,
+    "totalAmount": 1847.88
+  },
+  {
+    "poNumber": "PO25001575",
+    "supplierName": "מיל-סטון עיבודי שיש בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-20",
+    "lineItems": [
+      {
+        "productCode": "5245800126",
+        "description": "ריצוף מיוחד",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 270.0,
+        "totalPrice": 2700.0
+      }
+    ],
+    "subtotal": 2700.0,
+    "vatAmount": 486.0,
+    "totalAmount": 3186.0
+  },
+  {
+    "poNumber": "PO25001584",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "3239100324",
+        "description": "נייר זכוכית מס' 120 שחור (90 מא בגליל)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 69.0,
+        "totalPrice": 69.0
+      },
+      {
+        "productCode": "5045600054",
+        "description": "סופרקריל לבן טמבור מגוון 18 ליטר ( יש לציין גוון",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 232.0,
+        "totalPrice": 1160.0
+      }
+    ],
+    "subtotal": 1229.0,
+    "vatAmount": 221.22,
+    "totalAmount": 1450.22
+  },
+  {
+    "poNumber": "PO25001585",
+    "supplierName": "מאפיקס שיווק והפצה   בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "5245900145",
+        "description": "רובה מאפיי אולטרה-קולור שק 5 ק\"ג ( יש לציין גוון",
+        "quantity": 32.0,
+        "unit": null,
+        "unitPrice": 58.0,
+        "totalPrice": 1856.0
+      }
+    ],
+    "subtotal": 1856.0,
+    "vatAmount": 334.08,
+    "totalAmount": 2190.08
+  },
+  {
+    "poNumber": "PO25001586",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "4544400022",
+        "description": "לוח עץ - לטה 5/2.5",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 150.0
+      }
+    ],
+    "subtotal": 150.0,
+    "vatAmount": 27.0,
+    "totalAmount": 177.0
+  },
+  {
+    "poNumber": "PO25001587",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "2335500136",
+        "description": "נייר דבק לבן  \"2 - מסקנטייפ ( 72 יח' בחבילה)",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 2.45,
+        "totalPrice": 73.5
+      },
+      {
+        "productCode": "5245900066",
+        "description": "קרטון גלי להגנה 1X50 (50 מ\"ר בגליל)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 52.5,
+        "totalPrice": 525.0
+      }
+    ],
+    "subtotal": 598.5,
+    "vatAmount": 107.73,
+    "totalAmount": 706.23
+  },
+  {
+    "poNumber": "PO25001588",
+    "supplierName": "אופן ארט איי פי  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "2235300004",
+        "description": "פתח שירות 60/60 BASIC",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 266.0,
+        "totalPrice": 3192.0
+      }
+    ],
+    "subtotal": 3192.0,
+    "vatAmount": 574.56,
+    "totalAmount": 3766.56
+  },
+  {
+    "poNumber": "PO25001593",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 999.0,
+        "unit": null,
+        "unitPrice": 19.4,
+        "totalPrice": 19380.6
+      }
+    ],
+    "subtotal": 19380.6,
+    "vatAmount": 3488.51,
+    "totalAmount": 22869.11
+  },
+  {
+    "poNumber": "PO25001596",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "5045600074",
+        "description": "צבע DTM למתכת נירלט 4.5 ליטר ( יש לציין גוון)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 500.0,
+        "totalPrice": 500.0
+      }
+    ],
+    "subtotal": 500.0,
+    "vatAmount": 90.0,
+    "totalAmount": 590.0
+  },
+  {
+    "poNumber": "PO25001598",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "4945400004",
+        "description": "זוית אלומיניום 15/15 פאזות לבן",
+        "quantity": 210.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 1995.0
+      }
+    ],
+    "subtotal": 1995.0,
+    "vatAmount": 359.1,
+    "totalAmount": 2354.1
+  },
+  {
+    "poNumber": "PO25001599",
+    "supplierName": "גת גבס בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-03-23",
+    "lineItems": [
+      {
+        "productCode": "2235100100",
+        "description": "פרופיל L+Z מחובר 3 מ\"א (רוחב 4.5) לבן",
+        "quantity": 796.0,
+        "unit": null,
+        "unitPrice": 8.65,
+        "totalPrice": 6885.4
+      }
+    ],
+    "subtotal": 6885.4,
+    "vatAmount": 1239.37,
+    "totalAmount": 8124.77
+  },
+  {
+    "poNumber": "PO25001634",
+    "supplierName": "מיל-סטון עיבודי שיש בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-25",
+    "lineItems": [
+      {
+        "productCode": "5245800126",
+        "description": "ריצוף מיוחד",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 290.0,
+        "totalPrice": 2900.0
+      }
+    ],
+    "subtotal": 2900.0,
+    "vatAmount": 522.0,
+    "totalAmount": 3422.0
+  },
+  {
+    "poNumber": "PO25001638",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-25",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 1920.0
+      }
+    ],
+    "subtotal": 1920.0,
+    "vatAmount": 345.6,
+    "totalAmount": 2265.6
+  },
+  {
+    "poNumber": "PO25001640",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-25",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 12.5,
+        "totalPrice": 375.0
+      }
+    ],
+    "subtotal": 375.0,
+    "vatAmount": 67.5,
+    "totalAmount": 442.5
+  },
+  {
+    "poNumber": "PO25001661",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-25",
+    "lineItems": [
+      {
+        "productCode": "4143400001",
+        "description": "הובלה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2200.0,
+        "totalPrice": 1760.0
+      },
+      {
+        "productCode": "4644500126",
+        "description": "השכרת פיגום נייד מאלומיניום ( יש לציין גובה דריכ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2700.0,
+        "totalPrice": 2160.0
+      }
+    ],
+    "subtotal": 3920.0,
+    "vatAmount": 705.6,
+    "totalAmount": 4625.6
+  },
+  {
+    "poNumber": "PO25001702",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-30",
+    "lineItems": [
+      {
+        "productCode": "3240900005",
+        "description": "מגב מים מתכת 40 ס\"מ +9 מקל",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 11.7,
+        "totalPrice": 58.5
+      },
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 4.95,
+        "totalPrice": 247.5
+      },
+      {
+        "productCode": "5045600058",
+        "description": "ספריי צבע ( יש לציין גוון)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 5.4,
+        "totalPrice": 32.4
+      },
+      {
+        "productCode": "5546800085",
+        "description": "נייר ניגוב (בגליל)- תעשייתי 30/325 מ'",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 31.0,
+        "totalPrice": 93.0
+      },
+      {
+        "productCode": "5546800107",
+        "description": "ספוגית הפלא",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 4.0,
+        "totalPrice": 20.0
+      }
+    ],
+    "subtotal": 451.4,
+    "vatAmount": 81.25,
+    "totalAmount": 532.65
+  },
+  {
+    "poNumber": "PO25001707",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-30",
+    "lineItems": [
+      {
+        "productCode": "2235100034",
+        "description": "מסלול 37 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 60.0,
+        "unit": null,
+        "unitPrice": 3.0,
+        "totalPrice": 180.0
+      },
+      {
+        "productCode": "2235100035",
+        "description": "מסלול 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 640.0,
+        "unit": null,
+        "unitPrice": 3.05,
+        "totalPrice": 1952.0
+      },
+      {
+        "productCode": "2235100057",
+        "description": "ניצב 37 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 60.0,
+        "unit": null,
+        "unitPrice": 3.65,
+        "totalPrice": 219.0
+      },
+      {
+        "productCode": "2235100058",
+        "description": "ניצב 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 90.0,
+        "unit": null,
+        "unitPrice": 3.7,
+        "totalPrice": 333.0
+      },
+      {
+        "productCode": "4444300038",
+        "description": "בורג גבס 45 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 48.0,
+        "totalPrice": 96.0
+      },
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 50.0
+      },
+      {
+        "productCode": "4444300204",
+        "description": "בורג תיקני+דיבל תיקני+שייבה (ד.ב.ש)-1000 יח'",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 250.0,
+        "totalPrice": 500.0
+      }
+    ],
+    "subtotal": 3330.0,
+    "vatAmount": 599.4,
+    "totalAmount": 3929.4
+  },
+  {
+    "poNumber": "PO25001708",
+    "supplierName": "אס.איי.ג'י כימיקל סיסטמס בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-30",
+    "lineItems": [
+      {
+        "productCode": "5546800139",
+        "description": "CS500 ספריי מקצועי להברקת חלונות  SAG ( 12 יח' ב",
+        "quantity": 72.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 1512.0
+      }
+    ],
+    "subtotal": 1512.0,
+    "vatAmount": 272.16,
+    "totalAmount": 1784.16
+  },
+  {
+    "poNumber": "PO25001709",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-30",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 180.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 2880.0
+      }
+    ],
+    "subtotal": 2880.0,
+    "vatAmount": 518.4,
+    "totalAmount": 3398.4
+  },
+  {
+    "poNumber": "PO25001730",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-03-31",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 165.0
+      },
+      {
+        "productCode": "3239200002",
+        "description": "קלסימו (5 ק\"ג)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 22.0,
+        "totalPrice": 88.0
+      },
+      {
+        "productCode": "5045500015",
+        "description": "מברשת צבע \"2",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 34.2
+      },
+      {
+        "productCode": "5045500018",
+        "description": "מברשת צבע \"4",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 23.08,
+        "totalPrice": 83.09
+      },
+      {
+        "productCode": "5045500035",
+        "description": "סט מארז שרוול לרולר \"4 + ידית פרווה",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 43.0,
+        "totalPrice": 172.0
+      },
+      {
+        "productCode": "50456100085",
+        "description": "צבע אקווניר 5 ליטר נירלט",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 258.0,
+        "totalPrice": 258.0
+      },
+      {
+        "productCode": "5546800006",
+        "description": "אקונומיקה ריחנית  4 ליטר",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 17.95,
+        "totalPrice": 48.47
+      },
+      {
+        "productCode": "5546800102",
+        "description": "סמרטוט ריצפה (שק)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 1.6,
+        "totalPrice": 8.0
+      }
+    ],
+    "subtotal": 856.76,
+    "vatAmount": 154.22,
+    "totalAmount": 1010.98
+  },
+  {
+    "poNumber": "PO25001764",
+    "supplierName": "3 בלוק מוצרי הגנה חכמים  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-01",
+    "lineItems": [
+      {
+        "productCode": "5245900003",
+        "description": "יריעת הגנה על מדרגות ( יש לציין את מידת המדרגה)",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 32.953,
+        "totalPrice": 3954.36
+      },
+      {
+        "productCode": "5245900013",
+        "description": "יריעה להגנה על ריצוף ( לפי מ\"ר)",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 300.0
+      }
+    ],
+    "subtotal": 4254.36,
+    "vatAmount": 765.78,
+    "totalAmount": 5020.14
+  },
+  {
+    "poNumber": "PO25001769",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-02",
+    "lineItems": [
+      {
+        "productCode": "2737500129",
+        "description": "תוף + 50 מ` כבל 2.5*3",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 330.0,
+        "totalPrice": 660.0
+      },
+      {
+        "productCode": "2737700018",
+        "description": "גוף תאורה הצפה לד 100W IP65",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 130.65,
+        "totalPrice": 261.3
+      },
+      {
+        "productCode": "3239100447",
+        "description": "איזולירבנד חבלה טסה ( Tesa) בד רוחב 5 ס\"מ ( 25 מ",
+        "quantity": 33.0,
+        "unit": null,
+        "unitPrice": 37.0,
+        "totalPrice": 1221.0
+      },
+      {
+        "productCode": "3240000003",
+        "description": "מטאטא גומי לבית (ג'וליה)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 17.5
+      },
+      {
+        "productCode": "3240000012",
+        "description": "מטאטא עץ 1.5 + ידית",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 45.0
+      },
+      {
+        "productCode": "3240900005",
+        "description": "מגב מים מתכת 40 ס\"מ +9 מקל",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 17.09,
+        "totalPrice": 76.91
+      },
+      {
+        "productCode": "3241000002",
+        "description": "כפפות PU שחור ( 240 יח' בקרטון)",
+        "quantity": 96.0,
+        "unit": null,
+        "unitPrice": 3.55,
+        "totalPrice": 340.8
+      },
+      {
+        "productCode": "5045500018",
+        "description": "מברשת צבע \"4",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 25.64,
+        "totalPrice": 128.2
+      },
+      {
+        "productCode": "5045500035",
+        "description": "סט מארז שרוול לרולר \"4 + ידית פרווה",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 105.0
+      },
+      {
+        "productCode": "5045500045",
+        "description": "רולר 25 ס\"מ מקצועי + מגש",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 23.28,
+        "totalPrice": 139.68
+      },
+      {
+        "productCode": "5546800097",
+        "description": "סבון/נוזל לניקוי רצפה (גלון 4 ליטר)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 17.0,
+        "totalPrice": 17.0
+      },
+      {
+        "productCode": "5546800107",
+        "description": "ספוגית הפלא",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 8.55,
+        "totalPrice": 21.8
+      }
+    ],
+    "subtotal": 3034.19,
+    "vatAmount": 546.15,
+    "totalAmount": 3580.34
+  },
+  {
+    "poNumber": "PO25001771",
+    "supplierName": "הכט אפרים 2002 בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-02",
+    "lineItems": [
+      {
+        "productCode": "2234600132",
+        "description": "תקרת גריד",
+        "quantity": 2.98,
+        "unit": null,
+        "unitPrice": 240.0,
+        "totalPrice": 715.2
+      },
+      {
+        "productCode": "2234600132",
+        "description": "תקרת גריד",
+        "quantity": 5.95,
+        "unit": null,
+        "unitPrice": 320.0,
+        "totalPrice": 1904.0
+      },
+      {
+        "productCode": "2235100016",
+        "description": "ליגר שיניים שחור ציר 80 מרווח 45 ע",
+        "quantity": 9.6,
+        "unit": null,
+        "unitPrice": 40.0,
+        "totalPrice": 384.0
+      }
+    ],
+    "subtotal": 3003.2,
+    "vatAmount": 540.58,
+    "totalAmount": 3543.78
+  },
+  {
+    "poNumber": "PO25001790",
+    "supplierName": "ד.ש תקשורת שריקי דוד",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-03",
+    "lineItems": [
+      {
+        "productCode": "5547500044",
+        "description": "עבודות תקשורת",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 450.0,
+        "totalPrice": 450.0
+      }
+    ],
+    "subtotal": 450.0,
+    "vatAmount": 81.0,
+    "totalAmount": 531.0
+  },
+  {
+    "poNumber": "PO25001801",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-03",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 275.0
+      }
+    ],
+    "subtotal": 275.0,
+    "vatAmount": 49.5,
+    "totalAmount": 324.5
+  },
+  {
+    "poNumber": "PO25001805",
+    "supplierName": "הובלות המפרץ א.ע. חיפה בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-03",
+    "lineItems": [
+      {
+        "productCode": "4143400007",
+        "description": "הובלה בסמיטרילר עם מנוף 100 - איזור מרכז",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2938.0,
+        "totalPrice": 2938.0
+      }
+    ],
+    "subtotal": 2938.0,
+    "vatAmount": 528.84,
+    "totalAmount": 3466.84
+  },
+  {
+    "poNumber": "PO25001806",
+    "supplierName": "הובלות המפרץ א.ע. חיפה בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-03",
+    "lineItems": [
+      {
+        "productCode": "4143400048",
+        "description": "מנוף 200-220 טון זרוע 55 מ' - שעתיים ראשונות",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2300.0,
+        "totalPrice": 2300.0
+      },
+      {
+        "productCode": "4143400049",
+        "description": "מנוף 200-220 טון 55 מטר - שעות נוספות",
+        "quantity": 4.5,
+        "unit": null,
+        "unitPrice": 500.0,
+        "totalPrice": 2250.0
+      }
+    ],
+    "subtotal": 4550.0,
+    "vatAmount": 819.0,
+    "totalAmount": 5369.0
+  },
+  {
+    "poNumber": "PO25001824",
+    "supplierName": "הובלות המפרץ א.ע. חיפה בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-06",
+    "lineItems": [
+      {
+        "productCode": "4143400067",
+        "description": "מנוף 85-100 טון זרוע 45 מ' - יום עבודה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3000.0,
+        "totalPrice": 3000.0
+      }
+    ],
+    "subtotal": 3000.0,
+    "vatAmount": 540.0,
+    "totalAmount": 3540.0
+  },
+  {
+    "poNumber": "PO25001840",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-06",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3351.69,
+        "totalPrice": 3351.69
+      }
+    ],
+    "subtotal": 3351.69,
+    "vatAmount": 603.3,
+    "totalAmount": 3954.99
+  },
+  {
+    "poNumber": "PO25001869",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-07",
+    "lineItems": [
+      {
+        "productCode": "1130500050",
+        "description": "מסטיק/מסיליקון  אקרילי לבן ( תרמיל 280 מ\"ל)",
+        "quantity": 75.0,
+        "unit": null,
+        "unitPrice": 12.48,
+        "totalPrice": 842.4
+      },
+      {
+        "productCode": "1130500274",
+        "description": "מסטיק/מסיליקון  אקרילי שחור ( תרמיל 280 מ\"ל)",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 29.5,
+        "totalPrice": 354.0
+      },
+      {
+        "productCode": "2235200018",
+        "description": "סרט פיבה פיוז 75 מ\"א",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 33.0,
+        "totalPrice": 33.0
+      },
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 220.0
+      },
+      {
+        "productCode": "3239100150",
+        "description": "ידית למטאטא/מגב הברגה 1.50 מ'",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 45.0
+      },
+      {
+        "productCode": "3239100321",
+        "description": "נייר זכוכית 115X50 אדום ג.120",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 55.0
+      },
+      {
+        "productCode": "3240000003",
+        "description": "מטאטא גומי לבית (ג'וליה)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 17.5
+      },
+      {
+        "productCode": "5546800058",
+        "description": "מטלית/סמרטוט מיקרו",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 20.51,
+        "totalPrice": 36.92
+      }
+    ],
+    "subtotal": 1603.82,
+    "vatAmount": 288.69,
+    "totalAmount": 1892.51
+  },
+  {
+    "poNumber": "PO25001901",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-10",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 60.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 960.0
+      }
+    ],
+    "subtotal": 960.0,
+    "vatAmount": 172.8,
+    "totalAmount": 1132.8
+  },
+  {
+    "poNumber": "PO25001927",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-14",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 84.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 1344.0
+      },
+      {
+        "productCode": "2335500271",
+        "description": "דבק עבור אריחי שטיחים 25 ק\"ג ( עבור 200-250 מ\"ר)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 620.0,
+        "totalPrice": 620.0
+      },
+      {
+        "productCode": "2335500272",
+        "description": "דבק 338 להדבקת PVC ושטיחים 20 ק\"ג ( עבור 60-70 מ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 305.0,
+        "totalPrice": 305.0
+      }
+    ],
+    "subtotal": 2269.0,
+    "vatAmount": 408.42,
+    "totalAmount": 2677.42
+  },
+  {
+    "poNumber": "PO25001935",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-14",
+    "lineItems": [
+      {
+        "productCode": "1130500006",
+        "description": "אלסטוסיל SE 980 לבן שק תרמוקיר  25 ק\"ג ( 60 יח'",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 185.0,
+        "totalPrice": 185.0
+      },
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 6.5,
+        "totalPrice": 325.0
+      },
+      {
+        "productCode": "5546800097",
+        "description": "סבון/נוזל לניקוי רצפה (גלון 4 ליטר)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 16.08,
+        "totalPrice": 14.47
+      }
+    ],
+    "subtotal": 524.47,
+    "vatAmount": 94.4,
+    "totalAmount": 618.87
+  },
+  {
+    "poNumber": "PO25001967",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-16",
+    "lineItems": [
+      {
+        "productCode": "3239200002",
+        "description": "קלסימו (5 ק\"ג)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 126.0
+      },
+      {
+        "productCode": "4444300038",
+        "description": "בורג גבס 45 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 48.0,
+        "totalPrice": 240.0
+      },
+      {
+        "productCode": "4444300179",
+        "description": "בורג פח- פח קודח 14 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 42.0,
+        "totalPrice": 126.0
+      }
+    ],
+    "subtotal": 492.0,
+    "vatAmount": 88.56,
+    "totalAmount": 580.56
+  },
+  {
+    "poNumber": "PO25001968",
+    "supplierName": "ויצנר צרכי בנין וגידור בעמ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-16",
+    "lineItems": [
+      {
+        "productCode": "2235200016",
+        "description": "סרט פיבה פיוז 150 מ\"א",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 12.5,
+        "totalPrice": 37.5
+      },
+      {
+        "productCode": "3239100328",
+        "description": "גליל נייר זכוכית מס' 80",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 45.0,
+        "totalPrice": 45.0
+      },
+      {
+        "productCode": "3240000002",
+        "description": "מטאטא אולמות עדין 60 ס\"מ + מקל",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 22.2,
+        "totalPrice": 111.0
+      },
+      {
+        "productCode": "3240900005",
+        "description": "מגב מים מתכת 40 ס\"מ +9 מקל",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 11.7,
+        "totalPrice": 58.5
+      },
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 4.95,
+        "totalPrice": 247.5
+      },
+      {
+        "productCode": "5546800014",
+        "description": "גליל נייר תעשייתי 30/325 מ'",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 31.0,
+        "totalPrice": 31.0
+      },
+      {
+        "productCode": "5546800058",
+        "description": "מטלית/סמרטוט מיקרו",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 1.25,
+        "totalPrice": 12.5
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 35.0
+      }
+    ],
+    "subtotal": 578.0,
+    "vatAmount": 104.04,
+    "totalAmount": 682.04
+  },
+  {
+    "poNumber": "PO25001969",
+    "supplierName": "אס.איי.ג'י כימיקל סיסטמס בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-16",
+    "lineItems": [
+      {
+        "productCode": "5546800139",
+        "description": "CS500 ספריי מקצועי להברקת חלונות  SAG ( 12 יח' ב",
+        "quantity": 72.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 1512.0
+      }
+    ],
+    "subtotal": 1512.0,
+    "vatAmount": 272.16,
+    "totalAmount": 1784.16
+  },
+  {
+    "poNumber": "PO25001973",
+    "supplierName": "רום שינוע - שירותי תברואה בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-16",
+    "lineItems": [
+      {
+        "productCode": "4745000005",
+        "description": "פינוי פסולת/ מכולה 8 קוב",
+        "quantity": 17.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 18700.0
+      }
+    ],
+    "subtotal": 18700.0,
+    "vatAmount": 3366.0,
+    "totalAmount": 22066.0
+  },
+  {
+    "poNumber": "PO25002000",
+    "supplierName": "א.צ. - שווק חומרי איטום וציפוי בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-17",
+    "lineItems": [
+      {
+        "productCode": "2335500229",
+        "description": "ספיר סופרלייט 260 שק 12 ק\"ג",
+        "quantity": 49.0,
+        "unit": null,
+        "unitPrice": 44.0,
+        "totalPrice": 2156.0
+      }
+    ],
+    "subtotal": 2156.0,
+    "vatAmount": 388.08,
+    "totalAmount": 2544.08
+  },
+  {
+    "poNumber": "PO25002001",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-17",
+    "lineItems": [
+      {
+        "productCode": "1130500067",
+        "description": "סיליקון 310 מ\"ל בגוונים שונים",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 19.0,
+        "totalPrice": 57.0
+      }
+    ],
+    "subtotal": 57.0,
+    "vatAmount": 10.26,
+    "totalAmount": 67.26
+  },
+  {
+    "poNumber": "PO25002005",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-17",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 60.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 630.0
+      },
+      {
+        "productCode": "2235100125",
+        "description": "צביעת פרופילים ( ביחידות)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 300.0,
+        "totalPrice": 300.0
+      }
+    ],
+    "subtotal": 930.0,
+    "vatAmount": 167.4,
+    "totalAmount": 1097.4
+  },
+  {
+    "poNumber": "PO25002009",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-17",
+    "lineItems": [
+      {
+        "productCode": "2838300008",
+        "description": "טיח גבס לבן 900  25 ק\"ג טמבור ( 40 יח' במשטח)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 19.0,
+        "totalPrice": 38.0
+      },
+      {
+        "productCode": "4945400104",
+        "description": "פינה משתנה 30 מ\"א אדום",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 105.0
+      }
+    ],
+    "subtotal": 143.0,
+    "vatAmount": 25.74,
+    "totalAmount": 168.74
+  },
+  {
+    "poNumber": "PO25002035",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-20",
+    "lineItems": [
+      {
+        "productCode": "2235100035",
+        "description": "מסלול 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 3.2,
+        "totalPrice": 384.0
+      },
+      {
+        "productCode": "2235100058",
+        "description": "ניצב 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 210.0,
+        "unit": null,
+        "unitPrice": 3.7,
+        "totalPrice": 777.0
+      }
+    ],
+    "subtotal": 1161.0,
+    "vatAmount": 208.98,
+    "totalAmount": 1369.98
+  },
+  {
+    "poNumber": "PO25002049",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-20",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 72.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 1152.0
+      }
+    ],
+    "subtotal": 1152.0,
+    "vatAmount": 207.36,
+    "totalAmount": 1359.36
+  },
+  {
+    "poNumber": "PO25002059",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-21",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 180.0,
+        "unit": null,
+        "unitPrice": 17.0,
+        "totalPrice": 3060.0
+      }
+    ],
+    "subtotal": 3060.0,
+    "vatAmount": 550.8,
+    "totalAmount": 3610.8
+  },
+  {
+    "poNumber": "PO25002060",
+    "supplierName": "ש.אל צפון בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-21",
+    "lineItems": [
+      {
+        "productCode": "3038600009",
+        "description": "מטף כיבוי אש 6 ק\"ג - אבקה",
+        "quantity": 17.0,
+        "unit": null,
+        "unitPrice": 135.0,
+        "totalPrice": 2295.0
+      }
+    ],
+    "subtotal": 2295.0,
+    "vatAmount": 413.1,
+    "totalAmount": 2708.1
+  },
+  {
+    "poNumber": "PO25002061",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-21",
+    "lineItems": [
+      {
+        "productCode": "4644500126",
+        "description": "השכרת פיגום נייד מאלומיניום ( יש לציין גובה דריכ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2458.0,
+        "totalPrice": 2458.0
+      }
+    ],
+    "subtotal": 2458.0,
+    "vatAmount": 442.44,
+    "totalAmount": 2900.44
+  },
+  {
+    "poNumber": "PO25002088",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-22",
+    "lineItems": [
+      {
+        "productCode": "4444300038",
+        "description": "בורג גבס 45 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 48.0,
+        "totalPrice": 144.0
+      },
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 75.0
+      },
+      {
+        "productCode": "4444300204",
+        "description": "בורג תיקני+דיבל תיקני+שייבה (ד.ב.ש)-1000 יח'",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 250.0,
+        "totalPrice": 750.0
+      }
+    ],
+    "subtotal": 969.0,
+    "vatAmount": 174.42,
+    "totalAmount": 1143.42
+  },
+  {
+    "poNumber": "PO25002089",
+    "supplierName": "עוזי את אריק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-22",
+    "lineItems": [
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 4.6,
+        "totalPrice": 920.0
+      }
+    ],
+    "subtotal": 920.0,
+    "vatAmount": 165.6,
+    "totalAmount": 1085.6
+  },
+  {
+    "poNumber": "PO25002090",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-22",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 220.0
+      },
+      {
+        "productCode": "3239100150",
+        "description": "ידית למטאטא/מגב הברגה 1.50 מ'",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 6.5,
+        "totalPrice": 32.5
+      },
+      {
+        "productCode": "3742800042",
+        "description": "סטופר גומי לדלת",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 8.0,
+        "totalPrice": 40.0
+      },
+      {
+        "productCode": "5546800041",
+        "description": "מגב מים מתכת 60 ס\"מ",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 20.0,
+        "totalPrice": 100.0
+      },
+      {
+        "productCode": "5546800078",
+        "description": "נוזל/ספריי לניקוי חלונות 750 מ\"ל",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 30.0
+      },
+      {
+        "productCode": "5546800085",
+        "description": "נייר ניגוב (בגליל)- תעשייתי 30/325 מ'",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 38.0,
+        "totalPrice": 76.0
+      },
+      {
+        "productCode": "5546800096",
+        "description": "סבון/נוזל לניקוי פרקט (גלון 4 ליטר)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 16.08,
+        "totalPrice": 43.42
+      },
+      {
+        "productCode": "5546800097",
+        "description": "סבון/נוזל לניקוי רצפה (גלון 4 ליטר)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 16.08,
+        "totalPrice": 64.32
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 1.6,
+        "totalPrice": 16.0
+      },
+      {
+        "productCode": "5546800107",
+        "description": "ספוגית הפלא",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 8.55,
+        "totalPrice": 36.34
+      },
+      {
+        "productCode": "5547800063",
+        "description": "קפה שחור טורקי 200 גרם עלית",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 12.98,
+        "totalPrice": 124.61
+      }
+    ],
+    "subtotal": 783.19,
+    "vatAmount": 140.97,
+    "totalAmount": 924.16
+  },
+  {
+    "poNumber": "PO25002091",
+    "supplierName": "אס.איי.ג'י כימיקל סיסטמס בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-22",
+    "lineItems": [
+      {
+        "productCode": "5546800139",
+        "description": "CS500 ספריי מקצועי להברקת חלונות  SAG ( 12 יח' ב",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 252.0
+      }
+    ],
+    "subtotal": 252.0,
+    "vatAmount": 45.36,
+    "totalAmount": 297.36
+  },
+  {
+    "poNumber": "PO25002109",
+    "supplierName": "בילטון טכנולוגיות בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-23",
+    "lineItems": [
+      {
+        "productCode": "1431300130",
+        "description": "איכות ובקרה בתהליך - דמי שימוש חודשיים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 800.0,
+        "totalPrice": 800.0
+      },
+      {
+        "productCode": "5547600003",
+        "description": "רישיון בטיחות חודשי באתר-דמי שימוש חודשיים ( 18-",
+        "quantity": 0.767,
+        "unit": null,
+        "unitPrice": 1550.0,
+        "totalPrice": 1188.85
+      }
+    ],
+    "subtotal": 1988.85,
+    "vatAmount": 357.99,
+    "totalAmount": 2346.84
+  },
+  {
+    "poNumber": "PO25002122",
+    "supplierName": "אופן ארט איי פי  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-24",
+    "lineItems": [
+      {
+        "productCode": "2235300003",
+        "description": "פתח שירות 50/50 BASIC",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 259.0,
+        "totalPrice": 1295.0
+      },
+      {
+        "productCode": "2235300004",
+        "description": "פתח שירות 60/60 BASIC",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 266.0,
+        "totalPrice": 1596.0
+      }
+    ],
+    "subtotal": 2891.0,
+    "vatAmount": 520.38,
+    "totalAmount": 3411.38
+  },
+  {
+    "poNumber": "PO25002123",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-24",
+    "lineItems": [
+      {
+        "productCode": "5045500018",
+        "description": "מברשת צבע \"4",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 12.0,
+        "totalPrice": 48.0
+      },
+      {
+        "productCode": "5045500021",
+        "description": "מברשת צבע  3\"",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 9.0,
+        "totalPrice": 45.0
+      },
+      {
+        "productCode": "5045500045",
+        "description": "רולר 25 ס\"מ מקצועי + מגש",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 49.0,
+        "totalPrice": 49.0
+      },
+      {
+        "productCode": "5245900066",
+        "description": "קרטון גלי להגנה 1X50 (50 מ\"ר בגליל)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 275.0
+      }
+    ],
+    "subtotal": 417.0,
+    "vatAmount": 75.06,
+    "totalAmount": 492.06
+  },
+  {
+    "poNumber": "PO25002127",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-04-24",
+    "lineItems": [
+      {
+        "productCode": "5045500045",
+        "description": "רולר 25 ס\"מ מקצועי + מגש",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 49.0,
+        "totalPrice": 49.0
+      },
+      {
+        "productCode": "5045600135",
+        "description": "צבע סופרקריל 18 ליטר מ.ד מגוון ( יש לציין מספר ג",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 238.0,
+        "totalPrice": 714.0
+      }
+    ],
+    "subtotal": 763.0,
+    "vatAmount": 137.34,
+    "totalAmount": 900.34
+  },
+  {
+    "poNumber": "PO25002147",
+    "supplierName": "אס.איי.ג'י כימיקל סיסטמס בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-27",
+    "lineItems": [
+      {
+        "productCode": "5546800139",
+        "description": "CS500 ספריי מקצועי להברקת חלונות  SAG ( 12 יח' ב",
+        "quantity": 84.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 1764.0
+      }
+    ],
+    "subtotal": 1764.0,
+    "vatAmount": 317.52,
+    "totalAmount": 2081.52
+  },
+  {
+    "poNumber": "PO25002148",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-27",
+    "lineItems": [
+      {
+        "productCode": "2335500136",
+        "description": "נייר דבק לבן  \"2 - מסקנטייפ ( 72 יח' בחבילה)",
+        "quantity": 144.0,
+        "unit": null,
+        "unitPrice": 5.67,
+        "totalPrice": 816.48
+      },
+      {
+        "productCode": "3239100150",
+        "description": "ידית למטאטא/מגב הברגה 1.50 מ'",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 108.0
+      },
+      {
+        "productCode": "3240000003",
+        "description": "מטאטא גומי לבית (ג'וליה)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 21.0
+      },
+      {
+        "productCode": "4744900001",
+        "description": "ביג בג / בלה ריקה",
+        "quantity": 100.0,
+        "unit": null,
+        "unitPrice": 6.5,
+        "totalPrice": 650.0
+      },
+      {
+        "productCode": "5245900028",
+        "description": "מרק אקרילי בשפורפרת",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 5.0,
+        "totalPrice": 600.0
+      },
+      {
+        "productCode": "5245900043",
+        "description": "סקרייפר/ מגרדת (סכין לניקוי קרמיקה וזכוכית)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 21.0,
+        "totalPrice": 189.0
+      },
+      {
+        "productCode": "5546800015",
+        "description": "גליל סקוטש לבן ( 50 מ\"א בגליל)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 81.0,
+        "totalPrice": 81.0
+      },
+      {
+        "productCode": "5546800035",
+        "description": "כפפות לטקס חד פעמי ללא אבקה- 100 יחידות",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 23.93,
+        "totalPrice": 43.07
+      },
+      {
+        "productCode": "5546800041",
+        "description": "מגב מים מתכת 60 ס\"מ",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 20.0,
+        "totalPrice": 120.0
+      },
+      {
+        "productCode": "5546800075",
+        "description": "נוזל כלים 4 ליטר",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 33.0,
+        "totalPrice": 99.0
+      },
+      {
+        "productCode": "5546800078",
+        "description": "נוזל/ספריי לניקוי חלונות 750 מ\"ל",
+        "quantity": 24.0,
+        "unit": null,
+        "unitPrice": 11.0,
+        "totalPrice": 261.36
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 1.6,
+        "totalPrice": 11.2
+      },
+      {
+        "productCode": "5546800107",
+        "description": "ספוגית הפלא",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 8.55,
+        "totalPrice": 145.35
+      }
+    ],
+    "subtotal": 3145.46,
+    "vatAmount": 566.18,
+    "totalAmount": 3711.64
+  },
+  {
+    "poNumber": "PO25002162",
+    "supplierName": "יהודה יצוא ויבוא בינלאומי (1971) בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-27",
+    "lineItems": [
+      {
+        "productCode": "2235100131",
+        "description": "קליפס למוט מתכוין",
+        "quantity": 300.0,
+        "unit": null,
+        "unitPrice": 5.5,
+        "totalPrice": 1650.0
+      }
+    ],
+    "subtotal": 1650.0,
+    "vatAmount": 297.0,
+    "totalAmount": 1947.0
+  },
+  {
+    "poNumber": "PO25002163",
+    "supplierName": "אדיב סחר עץ בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-27",
+    "lineItems": [
+      {
+        "productCode": "4544400024",
+        "description": "דיקט סנדוויץ' 12 מ\"מ 2.44X1.22",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 100.0,
+        "totalPrice": 400.0
+      }
+    ],
+    "subtotal": 400.0,
+    "vatAmount": 72.0,
+    "totalAmount": 472.0
+  },
+  {
+    "poNumber": "PO25002189",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-28",
+    "lineItems": [
+      {
+        "productCode": "1130500079",
+        "description": "סיליקון סופר 7 הייטק לבן/ שקוף ( 12 יח' בקרטון)",
+        "quantity": 120.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 1920.0
+      }
+    ],
+    "subtotal": 1920.0,
+    "vatAmount": 345.6,
+    "totalAmount": 2265.6
+  },
+  {
+    "poNumber": "PO25002190",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-04-28",
+    "lineItems": [
+      {
+        "productCode": "5145700365",
+        "description": "פריט כללי- מ'א",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 14.0,
+        "totalPrice": 84.0
+      },
+      {
+        "productCode": "5145700365",
+        "description": "פריט כללי- מ'א",
+        "quantity": 18.0,
+        "unit": null,
+        "unitPrice": 11.0,
+        "totalPrice": 198.0
+      }
+    ],
+    "subtotal": 282.0,
+    "vatAmount": 50.76,
+    "totalAmount": 332.76
+  },
+  {
+    "poNumber": "PO25002239",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-04",
+    "lineItems": [
+      {
+        "productCode": "1130500078",
+        "description": "סיליקון סופר 7 שקוף/לבן ( 12 יח' בארגז)",
+        "quantity": 48.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 768.0
+      },
+      {
+        "productCode": "2335500136",
+        "description": "נייר דבק לבן  \"2 - מסקנטייפ ( 72 יח' בחבילה)",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 190.0
+      },
+      {
+        "productCode": "3239100044",
+        "description": "אקדח סיליקון",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 45.0,
+        "totalPrice": 90.0
+      },
+      {
+        "productCode": "5045500015",
+        "description": "מברשת צבע \"2",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 38.0
+      }
+    ],
+    "subtotal": 1086.0,
+    "vatAmount": 195.48,
+    "totalAmount": 1281.48
+  },
+  {
+    "poNumber": "PO25002244",
+    "supplierName": "אייל - ציפויים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-04",
+    "lineItems": [
+      {
+        "productCode": "5145700365",
+        "description": "פריט כללי- מ'א",
+        "quantity": 42.0,
+        "unit": null,
+        "unitPrice": 18.0,
+        "totalPrice": 756.0
+      }
+    ],
+    "subtotal": 756.0,
+    "vatAmount": 136.08,
+    "totalAmount": 892.08
+  },
+  {
+    "poNumber": "PO25002253",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-04",
+    "lineItems": [
+      {
+        "productCode": "2335500136",
+        "description": "נייר דבק לבן  \"2 - מסקנטייפ ( 72 יח' בחבילה)",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 5.0,
+        "totalPrice": 100.0
+      },
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 51.5,
+        "totalPrice": 103.0
+      },
+      {
+        "productCode": "3239100044",
+        "description": "אקדח סיליקון",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 32.0,
+        "totalPrice": 64.0
+      },
+      {
+        "productCode": "5045500015",
+        "description": "מברשת צבע \"2",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 6.0,
+        "totalPrice": 24.0
+      }
+    ],
+    "subtotal": 291.0,
+    "vatAmount": 52.38,
+    "totalAmount": 343.38
+  },
+  {
+    "poNumber": "PO25002288",
+    "supplierName": "בילטון טכנולוגיות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-05",
+    "lineItems": [
+      {
+        "productCode": "1431300130",
+        "description": "איכות ובקרה בתהליך - דמי שימוש חודשיים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 800.0,
+        "totalPrice": 800.0
+      },
+      {
+        "productCode": "5547600003",
+        "description": "רישיון בטיחות חודשי באתר-דמי שימוש חודשיים ( 18-",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1550.0,
+        "totalPrice": 1550.0
+      }
+    ],
+    "subtotal": 2350.0,
+    "vatAmount": 423.0,
+    "totalAmount": 2773.0
+  },
+  {
+    "poNumber": "PO25002305",
+    "supplierName": "קירשנבאום דן",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-06",
+    "lineItems": [
+      {
+        "productCode": "4644500126",
+        "description": "השכרת פיגום נייד מאלומיניום ( יש לציין גובה דריכ",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2458.0,
+        "totalPrice": 2458.0
+      }
+    ],
+    "subtotal": 2458.0,
+    "vatAmount": 442.44,
+    "totalAmount": 2900.44
+  },
+  {
+    "poNumber": "PO25002314",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-06",
+    "lineItems": [
+      {
+        "productCode": "5045600058",
+        "description": "ספריי צבע ( יש לציין גוון)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 210.0
+      }
+    ],
+    "subtotal": 210.0,
+    "vatAmount": 37.8,
+    "totalAmount": 247.8
+  },
+  {
+    "poNumber": "PO25002315",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-06",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 40.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 420.0
+      }
+    ],
+    "subtotal": 420.0,
+    "vatAmount": 75.6,
+    "totalAmount": 495.6
+  },
+  {
+    "poNumber": "PO25002418",
+    "supplierName": "בילטון טכנולוגיות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-12",
+    "lineItems": [
+      {
+        "productCode": "1431300130",
+        "description": "איכות ובקרה בתהליך - דמי שימוש חודשיים",
+        "quantity": 0.387,
+        "unit": null,
+        "unitPrice": 800.0,
+        "totalPrice": 309.6
+      },
+      {
+        "productCode": "5547600003",
+        "description": "רישיון בטיחות חודשי באתר-דמי שימוש חודשיים ( 18-",
+        "quantity": 0.387,
+        "unit": null,
+        "unitPrice": 1550.0,
+        "totalPrice": 599.85
+      }
+    ],
+    "subtotal": 909.45,
+    "vatAmount": 163.7,
+    "totalAmount": 1073.15
+  },
+  {
+    "poNumber": "PO25002448",
+    "supplierName": "גילאר בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-05-13",
+    "lineItems": [
+      {
+        "productCode": "1130500128",
+        "description": "סיקה סיל   310C  מ\"ל  אפור/לבן/בז'/שקוף ( 12 יח'",
+        "quantity": 36.0,
+        "unit": null,
+        "unitPrice": 18.8,
+        "totalPrice": 676.8
+      }
+    ],
+    "subtotal": 676.8,
+    "vatAmount": 121.82,
+    "totalAmount": 798.62
+  },
+  {
+    "poNumber": "PO25002458",
+    "supplierName": "טדי עמר-נגרות וריהוט לפרויקטים  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-14",
+    "lineItems": [
+      {
+        "productCode": "5446300200",
+        "description": "פרי בירץ' לביד 21 מ\"מ 2500X625X21",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 22.0,
+        "totalPrice": 4400.0
+      }
+    ],
+    "subtotal": 4400.0,
+    "vatAmount": 792.0,
+    "totalAmount": 5192.0
+  },
+  {
+    "poNumber": "PO25002460",
+    "supplierName": "רום שינוע - שירותי תברואה בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-05-14",
+    "lineItems": [
+      {
+        "productCode": "4745000005",
+        "description": "פינוי פסולת/ מכולה 8 קוב",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 7700.0
+      }
+    ],
+    "subtotal": 7700.0,
+    "vatAmount": 1386.0,
+    "totalAmount": 9086.0
+  },
+  {
+    "poNumber": "PO25002485",
+    "supplierName": "ש.י.ר.ן. פרופילים דקורטיביים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-15",
+    "lineItems": [
+      {
+        "productCode": "2235200005",
+        "description": "הובלה אוירית  עד לאתר",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2550.0,
+        "totalPrice": 2550.0
+      }
+    ],
+    "subtotal": 2550.0,
+    "vatAmount": 459.0,
+    "totalAmount": 3009.0
+  },
+  {
+    "poNumber": "PO25002496",
+    "supplierName": "חזיבנק דיזיין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-15",
+    "lineItems": [
+      {
+        "productCode": "3341400038",
+        "description": "קולב כפול מנירוסטה",
+        "quantity": 14.0,
+        "unit": null,
+        "unitPrice": 420.0,
+        "totalPrice": 5880.0
+      },
+      {
+        "productCode": "3341700005",
+        "description": "מראה לארון אמבטיה",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 1260.0,
+        "totalPrice": 3780.0
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 290.0,
+        "totalPrice": 580.0
+      }
+    ],
+    "subtotal": 10240.0,
+    "vatAmount": 1843.2,
+    "totalAmount": 12083.2
+  },
+  {
+    "poNumber": "PO25002511",
+    "supplierName": "אחים סיני ייבוא ושיווק  בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-05-18",
+    "lineItems": [
+      {
+        "productCode": "5045600150",
+        "description": "צבע אקווניר נירלט 16 ליטר",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 400.0
+      }
+    ],
+    "subtotal": 400.0,
+    "vatAmount": 72.0,
+    "totalAmount": 472.0
+  },
+  {
+    "poNumber": "PO25002574",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-05-20",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 751.69,
+        "totalPrice": 751.69
+      }
+    ],
+    "subtotal": 751.69,
+    "vatAmount": 135.3,
+    "totalAmount": 886.99
+  },
+  {
+    "poNumber": "PO25002593",
+    "supplierName": "כהן מאור",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-21",
+    "lineItems": [
+      {
+        "productCode": "4143400001",
+        "description": "הובלה",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 35.0
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 49.0,
+        "totalPrice": 49.0
+      }
+    ],
+    "subtotal": 84.0,
+    "vatAmount": 15.12,
+    "totalAmount": 99.12
+  },
+  {
+    "poNumber": "PO25002607",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-22",
+    "lineItems": [
+      {
+        "productCode": "5045600058",
+        "description": "ספריי צבע ( יש לציין גוון)",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 420.0
+      }
+    ],
+    "subtotal": 420.0,
+    "vatAmount": 75.6,
+    "totalAmount": 495.6
+  },
+  {
+    "poNumber": "PO25002628",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-25",
+    "lineItems": [
+      {
+        "productCode": "5045500015",
+        "description": "מברשת צבע \"2",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 38.0,
+        "totalPrice": 32.3
+      },
+      {
+        "productCode": "50456100085",
+        "description": "צבע אקווניר 5 ליטר נירלט",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 140.0,
+        "totalPrice": 140.0
+      }
+    ],
+    "subtotal": 172.3,
+    "vatAmount": 31.01,
+    "totalAmount": 203.31
+  },
+  {
+    "poNumber": "PO25002629",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-25",
+    "lineItems": [
+      {
+        "productCode": "4945400145",
+        "description": "פרופיל T לפרקט 35 ממ אלומיניום-אורך 3 מ'",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 11.5,
+        "totalPrice": 138.0
+      }
+    ],
+    "subtotal": 138.0,
+    "vatAmount": 24.84,
+    "totalAmount": 162.84
+  },
+  {
+    "poNumber": "PO25002630",
+    "supplierName": "בי-טק מוצרי בניה מתקדמים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-25",
+    "lineItems": [
+      {
+        "productCode": "1130500078",
+        "description": "סיליקון סופר 7 שקוף/לבן ( 12 יח' בארגז)",
+        "quantity": 36.0,
+        "unit": null,
+        "unitPrice": 16.0,
+        "totalPrice": 576.0
+      }
+    ],
+    "subtotal": 576.0,
+    "vatAmount": 103.68,
+    "totalAmount": 679.68
+  },
+  {
+    "poNumber": "PO25002671",
+    "supplierName": "ש.י.ר.ן. פרופילים דקורטיביים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-26",
+    "lineItems": [
+      {
+        "productCode": "3742800131",
+        "description": "פרופיל IPE 220 ( יש לציין שחור/ מגולוון)",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 44.0,
+        "totalPrice": 440.0
+      }
+    ],
+    "subtotal": 440.0,
+    "vatAmount": 79.2,
+    "totalAmount": 519.2
+  },
+  {
+    "poNumber": "PO25002702",
+    "supplierName": "אחים סיני ייבוא ושיווק  בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2025-05-27",
+    "lineItems": [
+      {
+        "productCode": "5045600150",
+        "description": "צבע אקווניר נירלט 16 ליטר",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 200.0
+      }
+    ],
+    "subtotal": 200.0,
+    "vatAmount": 36.0,
+    "totalAmount": 236.0
+  },
+  {
+    "poNumber": "PO25002745",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-28",
+    "lineItems": [
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 9.5,
+        "totalPrice": 114.0
+      },
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 12.5,
+        "totalPrice": 150.0
+      },
+      {
+        "productCode": "2235100097",
+        "description": "פרופיל L",
+        "quantity": 27.0,
+        "unit": null,
+        "unitPrice": 10.5,
+        "totalPrice": 283.5
+      },
+      {
+        "productCode": "4945400145",
+        "description": "פרופיל T לפרקט 35 ממ אלומיניום-אורך 3 מ'",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 8.5,
+        "totalPrice": 102.0
+      }
+    ],
+    "subtotal": 649.5,
+    "vatAmount": 116.91,
+    "totalAmount": 766.41
+  },
+  {
+    "poNumber": "PO25002749",
+    "supplierName": "חד- זמיר ציוד וצרכי בנין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-28",
+    "lineItems": [
+      {
+        "productCode": "3239100307",
+        "description": "ניילון ממוחזר 0.2 לבניין (30 ק\"ג בגליל)",
+        "quantity": 60.0,
+        "unit": null,
+        "unitPrice": 5.85,
+        "totalPrice": 351.0
+      },
+      {
+        "productCode": "4945400104",
+        "description": "פינה משתנה 30 מ\"א אדום",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 24.7,
+        "totalPrice": 74.1
+      },
+      {
+        "productCode": "5245900066",
+        "description": "קרטון גלי להגנה 1X50 (50 מ\"ר בגליל)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 57.0,
+        "totalPrice": 285.0
+      }
+    ],
+    "subtotal": 710.1,
+    "vatAmount": 127.82,
+    "totalAmount": 837.92
+  },
+  {
+    "poNumber": "PO25002874",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-06-04",
+    "lineItems": [
+      {
+        "productCode": "2235300041",
+        "description": "פתח שירות 60X60 דגם בסט פנל",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 420.0,
+        "totalPrice": 1680.0
+      }
+    ],
+    "subtotal": 1680.0,
+    "vatAmount": 302.4,
+    "totalAmount": 1982.4
+  },
+  {
+    "poNumber": "PO25002904",
+    "supplierName": "כוורת חומרי בניין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-06-05",
+    "lineItems": [
+      {
+        "productCode": "3138900326",
+        "description": "נוזל / סבון למכונת שטיפה 18 ליטר",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 110.0,
+        "totalPrice": 110.0
+      },
+      {
+        "productCode": "3239100361",
+        "description": "עפרון נגרים ( 12 יח' בחבילה)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 140.0,
+        "totalPrice": 420.0
+      },
+      {
+        "productCode": "5546800097",
+        "description": "סבון/נוזל לניקוי רצפה (גלון 4 ליטר)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 160.0,
+        "totalPrice": 160.0
+      },
+      {
+        "productCode": "5546800100",
+        "description": "סמרטוט לרצפה מיקרופייבר ( 3 יח' בחבילה)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 20.51,
+        "totalPrice": 20.51
+      }
+    ],
+    "subtotal": 710.51,
+    "vatAmount": 127.89,
+    "totalAmount": 838.4
+  },
+  {
+    "poNumber": "PO25002963",
+    "supplierName": "קרני תכלת (ב.ש.ק) שותפות מוגבלת",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-06-09",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 246.0,
+        "totalPrice": 246.0
+      }
+    ],
+    "subtotal": 246.0,
+    "vatAmount": 44.28,
+    "totalAmount": 290.28
+  },
+  {
+    "poNumber": "PO25003243",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-06-25",
+    "lineItems": [
+      {
+        "productCode": "2234700002",
+        "description": "לוח גבס לבן  עובי 12.5 מ\"מ ( יש לציין מידה)",
+        "quantity": 1440.0,
+        "unit": null,
+        "unitPrice": 10.6,
+        "totalPrice": 15264.0
+      }
+    ],
+    "subtotal": 15264.0,
+    "vatAmount": 2747.52,
+    "totalAmount": 18011.52
+  },
+  {
+    "poNumber": "PO25003292",
+    "supplierName": "קרני תכלת (ב.ש.ק) שותפות מוגבלת",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-06-29",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 15.0,
+        "totalPrice": 300.0
+      }
+    ],
+    "subtotal": 300.0,
+    "vatAmount": 54.0,
+    "totalAmount": 354.0
+  },
+  {
+    "poNumber": "PO25003298",
+    "supplierName": "הובלות המפרץ א.ע. חיפה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-29",
+    "lineItems": [
+      {
+        "productCode": "4143400002",
+        "description": "הובלה במשאית דאבל מרכז - מרכז",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 1100.0
+      }
+    ],
+    "subtotal": 1100.0,
+    "vatAmount": 198.0,
+    "totalAmount": 1298.0
+  },
+  {
+    "poNumber": "PO25003306",
+    "supplierName": "הובלות המפרץ א.ע. חיפה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-23",
+    "lineItems": [
+      {
+        "productCode": "4143400002",
+        "description": "הובלה במשאית דאבל מרכז - מרכז",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 1100.0
+      }
+    ],
+    "subtotal": 1100.0,
+    "vatAmount": 198.0,
+    "totalAmount": 1298.0
+  },
+  {
+    "poNumber": "PO25003333",
+    "supplierName": "הובלות המפרץ א.ע. חיפה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-05-22",
+    "lineItems": [
+      {
+        "productCode": "4143400002",
+        "description": "הובלה במשאית דאבל מרכז - מרכז",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 1100.0
+      }
+    ],
+    "subtotal": 1100.0,
+    "vatAmount": 198.0,
+    "totalAmount": 1298.0
+  },
+  {
+    "poNumber": "PO25003376",
+    "supplierName": "ריג'נט תאורה שיווק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-01",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 16.0,
+        "unit": null,
+        "unitPrice": 185.0,
+        "totalPrice": 2812.0
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 16.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 3040.0
+      }
+    ],
+    "subtotal": 5852.0,
+    "vatAmount": 1053.36,
+    "totalAmount": 6905.36
+  },
+  {
+    "poNumber": "PO25003377",
+    "supplierName": "ריג'נט תאורה שיווק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-01",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 185.0,
+        "totalPrice": 1406.0
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 1520.0
+      }
+    ],
+    "subtotal": 2926.0,
+    "vatAmount": 526.68,
+    "totalAmount": 3452.68
+  },
+  {
+    "poNumber": "PO25003378",
+    "supplierName": "ריג'נט תאורה שיווק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-01",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 630.0,
+        "totalPrice": 630.0
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 850.0,
+        "totalPrice": 1700.0
+      }
+    ],
+    "subtotal": 2330.0,
+    "vatAmount": 419.4,
+    "totalAmount": 2749.4
+  },
+  {
+    "poNumber": "PO25003380",
+    "supplierName": "ריג'נט תאורה שיווק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-01",
+    "lineItems": [
+      {
+        "productCode": "2737700039",
+        "description": "גוף תאורה (מטר)",
+        "quantity": 6.55,
+        "unit": null,
+        "unitPrice": 115.0,
+        "totalPrice": 715.59
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 55.0,
+        "totalPrice": 209.0
+      }
+    ],
+    "subtotal": 924.59,
+    "vatAmount": 166.43,
+    "totalAmount": 1091.02
+  },
+  {
+    "poNumber": "PO25003381",
+    "supplierName": "ריג'נט תאורה שיווק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-01",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 185.0,
+        "totalPrice": 1406.0
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 1520.0
+      }
+    ],
+    "subtotal": 2926.0,
+    "vatAmount": 526.68,
+    "totalAmount": 3452.68
+  },
+  {
+    "poNumber": "PO25003393",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-01",
+    "lineItems": [
+      {
+        "productCode": "5045600058",
+        "description": "ספריי צבע ( יש לציין גוון)",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 35.0,
+        "totalPrice": 210.0
+      }
+    ],
+    "subtotal": 210.0,
+    "vatAmount": 37.8,
+    "totalAmount": 247.8
+  },
+  {
+    "poNumber": "PO25003499",
+    "supplierName": "אחים סיני ייבוא ושיווק  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-07",
+    "lineItems": [
+      {
+        "productCode": "5045600015",
+        "description": "ווגה טיח פגמנטי 30 ק\"ג",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 145.0,
+        "totalPrice": 1450.0
+      }
+    ],
+    "subtotal": 1450.0,
+    "vatAmount": 261.0,
+    "totalAmount": 1711.0
+  },
+  {
+    "poNumber": "PO25003519",
+    "supplierName": "קרני תכלת (ב.ש.ק) שותפות מוגבלת",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-08",
+    "lineItems": [
+      {
+        "productCode": "2737700039",
+        "description": "גוף תאורה (מטר)",
+        "quantity": 7.0,
+        "unit": null,
+        "unitPrice": 450.0,
+        "totalPrice": 2715.3
+      }
+    ],
+    "subtotal": 2715.3,
+    "vatAmount": 488.75,
+    "totalAmount": 3204.05
+  },
+  {
+    "poNumber": "PO25003613",
+    "supplierName": "קרני תכלת (ב.ש.ק) שותפות מוגבלת",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-14",
+    "lineItems": [
+      {
+        "productCode": "2737700039",
+        "description": "גוף תאורה (מטר)",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 7800.0,
+        "totalPrice": 13447.2
+      }
+    ],
+    "subtotal": 13447.2,
+    "vatAmount": 2420.5,
+    "totalAmount": 15867.7
+  },
+  {
+    "poNumber": "PO25003671",
+    "supplierName": "שי אפשטיין צלם",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-16",
+    "lineItems": [
+      {
+        "productCode": "5546600084",
+        "description": "צילום שטח וידיאו + תמונות",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3500.0,
+        "totalPrice": 3500.0
+      }
+    ],
+    "subtotal": 3500.0,
+    "vatAmount": 630.0,
+    "totalAmount": 4130.0
+  },
+  {
+    "poNumber": "PO25003858",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-24",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 61.86,
+        "totalPrice": 61.86
+      }
+    ],
+    "subtotal": 61.86,
+    "vatAmount": 11.13,
+    "totalAmount": 72.99
+  },
+  {
+    "poNumber": "PO25003928",
+    "supplierName": "מתכת הצפון לנירוסטה ז.א. בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-27",
+    "lineItems": [
+      {
+        "productCode": "3742800051",
+        "description": "פח מגולוון 3 מ\"מ 2000/1000",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 400.0
+      }
+    ],
+    "subtotal": 400.0,
+    "vatAmount": 72.0,
+    "totalAmount": 472.0
+  },
+  {
+    "poNumber": "PO25003978",
+    "supplierName": "מתכת הצפון לנירוסטה ז.א. בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-07-29",
+    "lineItems": [
+      {
+        "productCode": "3742800051",
+        "description": "פח מגולוון 3 מ\"מ 2000/1000",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 80.0,
+        "totalPrice": 320.0
+      },
+      {
+        "productCode": "3742800051",
+        "description": "פח מגולוון 3 מ\"מ 2000/1000",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 200.0,
+        "totalPrice": 800.0
+      }
+    ],
+    "subtotal": 1120.0,
+    "vatAmount": 201.6,
+    "totalAmount": 1321.6
+  },
+  {
+    "poNumber": "PO25004270",
+    "supplierName": "שירה וויזן בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-08-12",
+    "lineItems": [
+      {
+        "productCode": "5546600084",
+        "description": "צילום שטח וידיאו + תמונות",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 6000.0,
+        "totalPrice": 6000.0
+      }
+    ],
+    "subtotal": 6000.0,
+    "vatAmount": 1080.0,
+    "totalAmount": 7080.0
+  },
+  {
+    "poNumber": "PO25004386",
+    "supplierName": "צומת צבעים ועוד בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-08-18",
+    "lineItems": [
+      {
+        "productCode": "5045600058",
+        "description": "ספריי צבע ( יש לציין גוון)",
+        "quantity": 24.0,
+        "unit": null,
+        "unitPrice": 45.0,
+        "totalPrice": 1080.0
+      }
+    ],
+    "subtotal": 1080.0,
+    "vatAmount": 194.4,
+    "totalAmount": 1274.4
+  },
+  {
+    "poNumber": "PO25004401",
+    "supplierName": "ה.י. העתקות ישראל בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-08-18",
+    "lineItems": [
+      {
+        "productCode": "5547700001",
+        "description": "העתקות וצילומים",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 6501.69,
+        "totalPrice": 6501.69
+      }
+    ],
+    "subtotal": 6501.69,
+    "vatAmount": 1170.3,
+    "totalAmount": 7671.99
+  },
+  {
+    "poNumber": "PO25004489",
+    "supplierName": "חזיבנק דיזיין בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-08-21",
+    "lineItems": [
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 420.0,
+        "totalPrice": 420.0
+      }
+    ],
+    "subtotal": 420.0,
+    "vatAmount": 75.6,
+    "totalAmount": 495.6
+  },
+  {
+    "poNumber": "PO25004861",
+    "supplierName": "יש קרטון מוצרים בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-09-09",
+    "lineItems": [
+      {
+        "productCode": "2235400001",
+        "description": "אקוסטיפייפ 1x2 מ עובי 16 ממ פלציב",
+        "quantity": 10.0,
+        "unit": null,
+        "unitPrice": 66.0,
+        "totalPrice": 660.0
+      }
+    ],
+    "subtotal": 660.0,
+    "vatAmount": 118.8,
+    "totalAmount": 778.8
+  },
+  {
+    "poNumber": "PO25005575",
+    "supplierName": "רהיטי מותגים 770 בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-10-20",
+    "lineItems": [
+      {
+        "productCode": "5546500281",
+        "description": "ספה עם ידיות ברזל (ספת המתנה)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 14900.0,
+        "totalPrice": 14900.0
+      }
+    ],
+    "subtotal": 14900.0,
+    "vatAmount": 2682.0,
+    "totalAmount": 17582.0
+  },
+  {
+    "poNumber": "PO25005767",
+    "supplierName": "מתכת הצפון לנירוסטה ז.א. בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-10-28",
+    "lineItems": [
+      {
+        "productCode": "3742800049",
+        "description": "פח מגולבן עובי 2 מ\"מ",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 40.0,
+        "totalPrice": 200.0
+      }
+    ],
+    "subtotal": 200.0,
+    "vatAmount": 36.0,
+    "totalAmount": 236.0
+  },
+  {
+    "poNumber": "PO25006406",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "2235100035",
+        "description": "מסלול 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 240.0,
+        "unit": null,
+        "unitPrice": 3.2,
+        "totalPrice": 768.0
+      }
+    ],
+    "subtotal": 768.0,
+    "vatAmount": 138.24,
+    "totalAmount": 906.24
+  },
+  {
+    "poNumber": "PO25006407",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "2235300037",
+        "description": "פתח שירות 20X20 דגם בסט פנל",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 123.0,
+        "totalPrice": 123.0
+      },
+      {
+        "productCode": "2235300040",
+        "description": "פתח שירות 50X50 דגם בסט פנל",
+        "quantity": 6.0,
+        "unit": null,
+        "unitPrice": 162.0,
+        "totalPrice": 972.0
+      }
+    ],
+    "subtotal": 1095.0,
+    "vatAmount": 197.1,
+    "totalAmount": 1292.1
+  },
+  {
+    "poNumber": "PO25006408",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "1030200004",
+        "description": "בורג ג'מבו 10 מ\"מ/ \"1/4 ראש אום",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 0.55,
+        "totalPrice": 11.0
+      },
+      {
+        "productCode": "2235100035",
+        "description": "מסלול 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 231.0,
+        "unit": null,
+        "unitPrice": 3.2,
+        "totalPrice": 739.2
+      },
+      {
+        "productCode": "2235100058",
+        "description": "ניצב 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 350.0,
+        "unit": null,
+        "unitPrice": 3.7,
+        "totalPrice": 1295.0
+      },
+      {
+        "productCode": "3742800019",
+        "description": "זווית מגולבן 70/70/2 מחורר",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 4.35,
+        "totalPrice": 87.0
+      },
+      {
+        "productCode": "4444300017",
+        "description": "אום משושה גובה 50*6 מ\"מ מגולוון",
+        "quantity": 200.0,
+        "unit": null,
+        "unitPrice": 2.5,
+        "totalPrice": 500.0
+      }
+    ],
+    "subtotal": 2632.2,
+    "vatAmount": 473.8,
+    "totalAmount": 3106.0
+  },
+  {
+    "poNumber": "PO25006409",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 5.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 125.0
+      }
+    ],
+    "subtotal": 125.0,
+    "vatAmount": 22.5,
+    "totalAmount": 147.5
+  },
+  {
+    "poNumber": "PO25006410",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "1130500195",
+        "description": "פס איטום קומפריבנד רוחב 5 סמ (25 מ' גליל)",
+        "quantity": 8.0,
+        "unit": null,
+        "unitPrice": 12.0,
+        "totalPrice": 96.0
+      }
+    ],
+    "subtotal": 96.0,
+    "vatAmount": 17.28,
+    "totalAmount": 113.28
+  },
+  {
+    "poNumber": "PO25006411",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "1130500195",
+        "description": "פס איטום קומפריבנד רוחב 5 סמ (25 מ' גליל)",
+        "quantity": 12.0,
+        "unit": null,
+        "unitPrice": 12.0,
+        "totalPrice": 144.0
+      },
+      {
+        "productCode": "2235100035",
+        "description": "מסלול 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 30.0,
+        "unit": null,
+        "unitPrice": 3.2,
+        "totalPrice": 96.0
+      },
+      {
+        "productCode": "2235100058",
+        "description": "ניצב 50 עובי 0.6 מ\"מ ( יש לציין אורך)",
+        "quantity": 330.0,
+        "unit": null,
+        "unitPrice": 3.7,
+        "totalPrice": 1221.0
+      },
+      {
+        "productCode": "4444300091",
+        "description": "בורג גבס 25 מ\"מ (1,000 יח בחבילה)",
+        "quantity": 3.0,
+        "unit": null,
+        "unitPrice": 25.0,
+        "totalPrice": 75.0
+      },
+      {
+        "productCode": "4444300177",
+        "description": "בורג פח- פח 13 מ\"מ ( 1000 יח' בחבילה)",
+        "quantity": 11.0,
+        "unit": null,
+        "unitPrice": 34.0,
+        "totalPrice": 374.0
+      }
+    ],
+    "subtotal": 1910.0,
+    "vatAmount": 343.8,
+    "totalAmount": 2253.8
+  },
+  {
+    "poNumber": "PO25006412",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-11-27",
+    "lineItems": [
+      {
+        "productCode": "2235300037",
+        "description": "פתח שירות 20X20 דגם בסט פנל",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 123.0,
+        "totalPrice": 492.0
+      }
+    ],
+    "subtotal": 492.0,
+    "vatAmount": 88.56,
+    "totalAmount": 580.56
+  },
+  {
+    "poNumber": "PO25006511",
+    "supplierName": "מרכז הגבס אור יהודה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-12-01",
+    "lineItems": [
+      {
+        "productCode": "1230700026",
+        "description": "בנד עובי 0.8 ( כ- 16 ק\"ג בחבילה)",
+        "quantity": 32.0,
+        "unit": null,
+        "unitPrice": 13.5,
+        "totalPrice": 432.0
+      }
+    ],
+    "subtotal": 432.0,
+    "vatAmount": 77.76,
+    "totalAmount": 509.76
+  },
+  {
+    "poNumber": "PO25006986",
+    "supplierName": "קרני תכלת (ב.ש.ק) שותפות מוגבלת",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2025-12-24",
+    "lineItems": [
+      {
+        "productCode": "2737700039",
+        "description": "גוף תאורה (מטר)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 320.0,
+        "totalPrice": 1280.0
+      },
+      {
+        "productCode": "2737700039",
+        "description": "גוף תאורה (מטר)",
+        "quantity": 4.0,
+        "unit": null,
+        "unitPrice": 490.0,
+        "totalPrice": 1960.0
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 2622.0,
+        "totalPrice": 2622.0
+      },
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 9000.0,
+        "totalPrice": 9000.0
+      }
+    ],
+    "subtotal": 14862.0,
+    "vatAmount": 2675.16,
+    "totalAmount": 17537.16
+  },
+  {
+    "poNumber": "PO26000026",
+    "supplierName": "וורקס דיזיין  בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-01-01",
+    "lineItems": [
+      {
+        "productCode": "5245800172",
+        "description": "אריחי לבד",
+        "quantity": 21.0,
+        "unit": null,
+        "unitPrice": 280.0,
+        "totalPrice": 5880.0
+      }
+    ],
+    "subtotal": 5880.0,
+    "vatAmount": 1058.4,
+    "totalAmount": 6938.4
+  },
+  {
+    "poNumber": "PO26000517",
+    "supplierName": "ריג'נט תאורה שיווק בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-01-25",
+    "lineItems": [
+      {
+        "productCode": "2737700040",
+        "description": "גוף תאורה (יחידה)",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 110.0,
+        "totalPrice": 2200.0
+      }
+    ],
+    "subtotal": 2200.0,
+    "vatAmount": 396.0,
+    "totalAmount": 2596.0
+  },
+  {
+    "poNumber": "PO26001110",
+    "supplierName": "אינובייט בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-02-16",
+    "lineItems": [
+      {
+        "productCode": "5546800079",
+        "description": "ניילון סטרץ קטן ( צר)",
+        "quantity": 300.0,
+        "unit": null,
+        "unitPrice": -8.0,
+        "totalPrice": -2400.0
+      },
+      {
+        "productCode": "5547500009",
+        "description": "התקנות",
+        "quantity": 1442.0,
+        "unit": null,
+        "unitPrice": 30.0,
+        "totalPrice": 43260.0
+      }
+    ],
+    "subtotal": 40860.0,
+    "vatAmount": 7354.8,
+    "totalAmount": 48214.8
+  },
+  {
+    "poNumber": "PO26001369",
+    "supplierName": "אבו רביע מוראד",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2026-03-02",
+    "lineItems": [
+      {
+        "productCode": "2837800007",
+        "description": "שפכטל אמריקאי מג'יק בונד טמבור 25 ק\"ג ( 36 יח' ב",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 54.0,
+        "totalPrice": 54.0
+      },
+      {
+        "productCode": "2838300008",
+        "description": "טיח גבס לבן 900  25 ק\"ג טמבור ( 40 יח' במשטח)",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 22.0,
+        "totalPrice": 22.0
+      },
+      {
+        "productCode": "5045600054",
+        "description": "סופרקריל לבן טמבור מגוון 18 ליטר ( יש לציין גוון",
+        "quantity": 2.0,
+        "unit": null,
+        "unitPrice": 210.0,
+        "totalPrice": 420.0
+      }
+    ],
+    "subtotal": 496.0,
+    "vatAmount": 89.28,
+    "totalAmount": 585.28
+  },
+  {
+    "poNumber": "PO26001448",
+    "supplierName": "יהודה יצוא ויבוא בינלאומי (1971) בע\"מ",
+    "projectName": "RIBBON HOPETOWN",
+    "orderDate": "2026-03-05",
+    "lineItems": [
+      {
+        "productCode": "2234600033",
+        "description": "תקרת מסטר B בהדבקה 60X120 גוון לבן (6 יח' בחבילה",
+        "quantity": 4.32,
+        "unit": null,
+        "unitPrice": 126.0,
+        "totalPrice": 544.32
+      },
+      {
+        "productCode": "2234600105",
+        "description": "תקרת פוקוס E-24 60/60",
+        "quantity": 14.4,
+        "unit": null,
+        "unitPrice": 70.0,
+        "totalPrice": 1008.0
+      },
+      {
+        "productCode": "5145700366",
+        "description": "פריט כללי-מ'ר",
+        "quantity": 14.4,
+        "unit": null,
+        "unitPrice": 70.0,
+        "totalPrice": 1008.0
+      }
+    ],
+    "subtotal": 2560.32,
+    "vatAmount": 460.86,
+    "totalAmount": 3021.18
+  },
+  {
+    "poNumber": "PO26001635",
+    "supplierName": "רום שינוע - שירותי תברואה בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-03-12",
+    "lineItems": [
+      {
+        "productCode": "4745000005",
+        "description": "פינוי פסולת/ מכולה 8 קוב",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 1100.0,
+        "totalPrice": 1100.0
+      }
+    ],
+    "subtotal": 1100.0,
+    "vatAmount": 198.0,
+    "totalAmount": 1298.0
+  },
+  {
+    "poNumber": "PO26001698",
+    "supplierName": "אינובייט בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-03-17",
+    "lineItems": [
+      {
+        "productCode": "5145700366",
+        "description": "פריט כללי-מ'ר",
+        "quantity": 5.5,
+        "unit": null,
+        "unitPrice": 185.0,
+        "totalPrice": 1017.5
+      }
+    ],
+    "subtotal": 1017.5,
+    "vatAmount": 183.15,
+    "totalAmount": 1200.65
+  },
+  {
+    "poNumber": "PO26001844",
+    "supplierName": "קובי פרופילים ונגישות בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-03-23",
+    "lineItems": [
+      {
+        "productCode": "5245800107",
+        "description": "פנל פולימרי גובה 6 ס\"מ",
+        "quantity": 22.5,
+        "unit": null,
+        "unitPrice": 6.5,
+        "totalPrice": 146.25
+      }
+    ],
+    "subtotal": 146.25,
+    "vatAmount": 26.32,
+    "totalAmount": 172.57
+  },
+  {
+    "poNumber": "PO26002272",
+    "supplierName": "יהודה יצוא ויבוא בינלאומי (1971) בע\"מ",
+    "projectName": "NSO בניין אלייד הרצליה",
+    "orderDate": "2026-04-15",
+    "lineItems": [
+      {
+        "productCode": "4444300316",
+        "description": "עוגן פליז 1/4",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 2.0,
+        "totalPrice": 100.0
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 1.0,
+        "unit": null,
+        "unitPrice": 3.5,
+        "totalPrice": 3.5
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 20.0,
+        "unit": null,
+        "unitPrice": 10.0,
+        "totalPrice": 200.0
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 1.0,
+        "totalPrice": 50.0
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 50.0,
+        "unit": null,
+        "unitPrice": 4.32,
+        "totalPrice": 216.0
+      },
+      {
+        "productCode": "5145700364",
+        "description": "פריט כללי - יח",
+        "quantity": 150.0,
+        "unit": null,
+        "unitPrice": 0.5,
+        "totalPrice": 75.0
+      }
+    ],
+    "subtotal": 644.5,
+    "vatAmount": 116.01,
+    "totalAmount": 760.51
+  }
+]
