@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<style>
+{{FONT_FACE_CSS}}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'NotoHebrew', 'Noto Sans Hebrew', Arial, sans-serif;
+  font-size: 12px;
+  padding: 30px 40px;
+  width: 794px;
+  min-height: 1123px;
+  background: #fff;
+  color: #1a1a1a;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-bottom: 3px solid #6a1b9a;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+.supplier-info { flex: 1; }
+.supplier-info h1 { font-size: 20px; color: #6a1b9a; margin-bottom: 4px; }
+.supplier-info .detail { font-size: 11px; color: #555; line-height: 1.6; }
+.doc-title-box {
+  text-align: center;
+  background: #6a1b9a;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 4px;
+}
+.doc-title-box h2 { font-size: 20px; margin-bottom: 2px; }
+.doc-title-box .doc-num { font-size: 14px; }
+.info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-bottom: 18px;
+}
+.info-card {
+  border: 1px solid #ce93d8;
+  border-radius: 4px;
+  padding: 10px 14px;
+  background: #faf0fc;
+}
+.info-card h4 {
+  font-size: 12px;
+  color: #6a1b9a;
+  margin-bottom: 6px;
+  border-bottom: 1px solid #ce93d8;
+  padding-bottom: 4px;
+}
+.info-card .field { font-size: 11px; line-height: 1.8; }
+.info-card .field-label { color: #777; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 14px; }
+thead th {
+  background: #6a1b9a;
+  color: white;
+  padding: 7px 5px;
+  font-size: 11px;
+  text-align: center;
+}
+tbody td {
+  padding: 6px 5px;
+  border-bottom: 1px solid #e0d5e8;
+  font-size: 11px;
+  text-align: center;
+}
+tbody tr:nth-child(even) { background: #faf0fc; }
+td.text-right { text-align: right; }
+.totals-section {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+.totals-box {
+  border: 2px solid #6a1b9a;
+  border-radius: 4px;
+  padding: 12px 20px;
+  min-width: 270px;
+}
+.totals-box .line {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 2;
+}
+.totals-box .grand {
+  font-weight: 700;
+  font-size: 15px;
+  border-top: 2px solid #6a1b9a;
+  padding-top: 5px;
+  margin-top: 5px;
+}
+.validity-section {
+  background: #f3e5f5;
+  border: 1px solid #ce93d8;
+  border-radius: 4px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+}
+.validity-section h4 {
+  font-size: 12px;
+  color: #6a1b9a;
+  margin-bottom: 6px;
+}
+.validity-section .term {
+  font-size: 11px;
+  line-height: 1.8;
+  color: #333;
+}
+.validity-section .term strong { color: #6a1b9a; }
+.notes-area {
+  font-size: 10px;
+  color: #666;
+  margin-bottom: 10px;
+}
+.footer {
+  margin-top: 20px;
+  font-size: 10px;
+  color: #999;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  padding-top: 8px;
+}
+.signatures {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.sig-block { text-align: center; width: 180px; }
+.sig-line {
+  border-top: 1px solid #333;
+  margin-top: 40px;
+  padding-top: 4px;
+  font-size: 10px;
+  color: #666;
+}
+</style>
+</head>
+<body>
+  <div class="header">
+    <div class="supplier-info">
+      <h1>{{supplierName}}</h1>
+      <div class="detail">{{supplierAddress}}</div>
+      <div class="detail">טל: {{supplierPhone}} | ע.מ/ח.פ: {{supplierBusinessId}}</div>
+    </div>
+    <div class="doc-title-box">
+      <h2>הצעת מחיר</h2>
+      <div class="doc-num">מס' {{documentNumber}}</div>
+    </div>
+  </div>
+
+  <div class="info-grid">
+    <div class="info-card">
+      <h4>לכבוד</h4>
+      <div class="field"><span class="field-label">שם: </span>{{customerName}}</div>
+      <div class="field"><span class="field-label">כתובת: </span>{{deliveryAddress}}</div>
+      <div class="field"><span class="field-label">פרויקט: </span>{{projectName}}</div>
+    </div>
+    <div class="info-card">
+      <h4>פרטי הצעה</h4>
+      <div class="field"><span class="field-label">תאריך: </span>{{documentDate}}</div>
+      <div class="field"><span class="field-label">מס' הזמנה: </span>{{orderReference}}</div>
+      <div class="field"><span class="field-label">הפניה: </span>{{quoteReference}}</div>
+    </div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:28px">שורה</th>
+        <th style="width:70px">מק"ט</th>
+        <th>תיאור פריט</th>
+        <th style="width:50px">כמות</th>
+        <th style="width:40px">יח'</th>
+        <th style="width:65px">מחיר יח'</th>
+        <th style="width:40px">הנחה</th>
+        <th style="width:70px">סה"כ</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{LINE_ITEMS_ROWS}}
+    </tbody>
+  </table>
+
+  <div class="totals-section">
+    <div class="totals-box">
+      <div class="line"><span>סה"כ לפני מע"מ:</span><span>₪{{subtotal}}</span></div>
+      <div class="line"><span>מע"מ (17%):</span><span>₪{{vatAmount}}</span></div>
+      <div class="line grand"><span>סה"כ:</span><span>₪{{totalAmount}}</span></div>
+    </div>
+  </div>
+
+  <div class="validity-section">
+    <h4>תנאים ותוקף</h4>
+    <div class="term"><strong>תוקף ההצעה:</strong> 30 יום מתאריך ההצעה</div>
+    <div class="term"><strong>תנאי תשלום:</strong> שוטף + 60</div>
+    <div class="term"><strong>אספקה:</strong> בהתאם לתיאום מראש</div>
+    <div class="term"><strong>המחירים:</strong> אינם כוללים מע"מ אלא אם צוין אחרת</div>
+  </div>
+
+  <div class="notes-area">{{notes}}</div>
+
+  <div class="signatures">
+    <div class="sig-block">
+      <div class="sig-line">חתימת הספק</div>
+    </div>
+    <div class="sig-block">
+      <div class="sig-line">אישור הלקוח</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    {{supplierName}} | {{supplierAddress}} | טל: {{supplierPhone}}
+  </div>
+</body>
+</html>

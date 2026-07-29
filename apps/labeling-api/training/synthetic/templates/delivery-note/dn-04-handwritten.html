@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<style>
+{{FONT_FACE_CSS}}
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'NotoHebrew', 'Noto Sans Hebrew', Arial, sans-serif;
+  font-size: 12px;
+  padding: 30px 40px;
+  width: 794px;
+  min-height: 1123px;
+  background: #fffef8;
+  color: #1a1a1a;
+}
+.handwritten {
+  font-family: 'Amatic SC', 'NotoHebrew', cursive;
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a3a6a;
+}
+.hw-slight-tilt-1 { transform: rotate(-1deg); display: inline-block; }
+.hw-slight-tilt-2 { transform: rotate(1deg); display: inline-block; }
+.hw-slight-tilt-3 { transform: rotate(2deg); display: inline-block; }
+.hw-slight-tilt-4 { transform: rotate(-0.5deg); display: inline-block; }
+.header {
+  text-align: center;
+  border: 2px solid #333;
+  padding: 12px 20px;
+  margin-bottom: 20px;
+}
+.header h1 { font-size: 18px; margin-bottom: 2px; }
+.header h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 6px;
+}
+.header .doc-num {
+  font-size: 14px;
+  margin-top: 4px;
+}
+.form-section {
+  margin-bottom: 20px;
+}
+.form-row {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 14px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+}
+.form-label {
+  font-size: 12px;
+  font-weight: 700;
+  min-width: 120px;
+  color: #333;
+}
+.form-value {
+  flex: 1;
+}
+.two-col {
+  display: flex;
+  gap: 30px;
+}
+.two-col .col { flex: 1; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+th {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 6px 5px;
+  border-bottom: 2px solid #333;
+  text-align: center;
+  background: #f5f0e0;
+}
+td {
+  padding: 8px 5px;
+  border-bottom: 1px solid #ddd;
+  font-size: 11px;
+  text-align: center;
+}
+td.description-cell {
+  text-align: right;
+}
+.totals-area {
+  margin-top: 15px;
+  padding: 10px 15px;
+  border: 1px solid #999;
+  width: 280px;
+}
+.totals-line {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 2.2;
+}
+.totals-grand {
+  font-weight: 700;
+  font-size: 14px;
+  border-top: 1px solid #333;
+  padding-top: 4px;
+  margin-top: 4px;
+}
+.signature-area {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.signature-box {
+  text-align: center;
+  width: 200px;
+}
+.signature-line {
+  border-top: 1px solid #333;
+  margin-top: 40px;
+  padding-top: 4px;
+  font-size: 10px;
+  color: #666;
+}
+.notes-box {
+  margin-top: 15px;
+  padding: 8px 12px;
+  border: 1px dashed #999;
+  font-size: 11px;
+  min-height: 40px;
+}
+.notes-label {
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>{{supplierName}}</h1>
+    <div style="font-size:10px; color:#555;">{{supplierAddress}} | טל: {{supplierPhone}} | ח.פ: {{supplierBusinessId}}</div>
+    <h2>תעודת משלוח</h2>
+    <div class="doc-num">מס' <span class="handwritten hw-slight-tilt-1">{{documentNumber}}</span></div>
+  </div>
+
+  <div class="two-col">
+    <div class="col">
+      <div class="form-section">
+        <div class="form-row">
+          <span class="form-label">שם לקוח:</span>
+          <span class="form-value handwritten hw-slight-tilt-2">{{customerName}}</span>
+        </div>
+        <div class="form-row">
+          <span class="form-label">כתובת אספקה:</span>
+          <span class="form-value handwritten hw-slight-tilt-3">{{deliveryAddress}}</span>
+        </div>
+        <div class="form-row">
+          <span class="form-label">פרויקט:</span>
+          <span class="form-value handwritten hw-slight-tilt-4">{{projectName}}</span>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="form-section">
+        <div class="form-row">
+          <span class="form-label">תאריך:</span>
+          <span class="form-value handwritten hw-slight-tilt-1">{{documentDate}}</span>
+        </div>
+        <div class="form-row">
+          <span class="form-label">הזמנת רכש:</span>
+          <span class="form-value handwritten hw-slight-tilt-2">{{poReference}}</span>
+        </div>
+        <div class="form-row">
+          <span class="form-label">מס' הזמנה:</span>
+          <span class="form-value handwritten hw-slight-tilt-3">{{orderReference}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:30px">שורה</th>
+        <th style="width:70px">מק"ט</th>
+        <th>תיאור פריט</th>
+        <th style="width:55px">כמות</th>
+        <th style="width:40px">יח'</th>
+        <th style="width:65px">מחיר יח'</th>
+        <th style="width:45px">הנחה</th>
+        <th style="width:70px">סה"כ</th>
+        <th style="width:65px">הערות</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{LINE_ITEMS_ROWS}}
+    </tbody>
+  </table>
+
+  <div class="totals-area">
+    <div class="totals-line"><span>סה"כ לפני מע"מ:</span><span class="handwritten">₪{{subtotal}}</span></div>
+    <div class="totals-line"><span>מע"מ (17%):</span><span class="handwritten">₪{{vatAmount}}</span></div>
+    <div class="totals-line totals-grand"><span>סה"כ לתשלום:</span><span class="handwritten">₪{{totalAmount}}</span></div>
+  </div>
+
+  <div class="notes-box">
+    <div class="notes-label">הערות:</div>
+    <span class="handwritten hw-slight-tilt-1">{{notes}}</span>
+  </div>
+
+  <div class="signature-area">
+    <div class="signature-box">
+      <div class="signature-line">חתימת מוסר</div>
+    </div>
+    <div class="signature-box">
+      <div class="signature-line">חתימת מקבל</div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+-- AlterEnum
+ALTER TYPE "OcrProvider" ADD VALUE 'GEMINI_FINETUNED';

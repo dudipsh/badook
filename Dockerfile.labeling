@@ -1,0 +1,27 @@
+FROM node:20-slim
+RUN apt-get update -y && apt-get install -y openssl graphicsmagick python3 python3-pip python3-venv && rm -rf /var/lib/apt/lists/*
+
+# Python venv for Vertex AI fine-tuning (used by training-runner → finetune_vertex.py)
+RUN python3 -m venv /opt/venv && /opt/venv/bin/pip install --no-cache-dir google-cloud-aiplatform
+ENV PATH="/opt/venv/bin:${PATH}"
+
+RUN corepack enable && corepack prepare pnpm@9 --activate
+WORKDIR /app
+
+# Copy workspace manifests + base tsconfig (ai-core's prepare script needs tsconfig.base.json)
+COPY pnpm-lock.yaml pnpm-workspace.yaml package.json .npmrc tsconfig.base.json ./
+COPY apps/labeling-api/package.json apps/labeling-api/
+# ai-core has "prepare: tsc" which runs during pnpm install — source must exist before install
+COPY packages/ai-core/ packages/ai-core/
+
+RUN pnpm install --filter @budapest/labeling-api...
+
+# Copy app source
+COPY apps/labeling-api/ apps/labeling-api/
+
+# Generate Prisma client and build
+RUN cd apps/labeling-api && npx prisma generate && npx nest build
+
+WORKDIR /app/apps/labeling-api
+EXPOSE 3002
+CMD ["sh", "-c", "npx prisma migrate deploy && node dist/main.js"]

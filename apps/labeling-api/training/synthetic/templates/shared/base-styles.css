@@ -1,0 +1,84 @@
+/* ─── Base Styles for Synthetic Document Templates ─────────────── */
+/* Include via {{BASE_STYLES}} placeholder in templates             */
+
+{{FONT_FACE_CSS}}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'NotoHebrew', 'Noto Sans Hebrew', Arial, sans-serif;
+  font-size: 12px;
+  direction: rtl;
+  color: #1a1a1a;
+  background: #fff;
+  line-height: 1.5;
+}
+
+/* ─── Table Fundamentals ──────────────────────────────────────── */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  direction: rtl;
+}
+
+th, td {
+  text-align: right;
+  padding: 6px 5px;
+  font-size: 11px;
+}
+
+th {
+  font-weight: 700;
+}
+
+/* ─── RTL Utilities ───────────────────────────────────────────── */
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.flex-rtl {
+  display: flex;
+  direction: rtl;
+}
+
+/* ─── Common Layout ───────────────────────────────────────────── */
+
+.meta-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  line-height: 1.8;
+}
+
+.meta-label {
+  color: #666;
+}
+
+.totals-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 2;
+}
+
+.totals-grand {
+  font-weight: 700;
+  font-size: 14px;
+  border-top: 2px solid currentColor;
+  padding-top: 4px;
+  margin-top: 4px;
+}

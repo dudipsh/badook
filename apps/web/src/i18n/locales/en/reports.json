@@ -1,0 +1,66 @@
+{
+  "title": "Reports",
+  "subtitle": "Generate and download formatted .xlsx spreadsheets for project data. Select a report and export instantly.",
+  "openBuilder": "Open Report Builder",
+  "back": "Back",
+  "exportXlsx": "Export Data .xlsx",
+  "expandFullscreen": "Expand Fullscreen",
+  "previewUnavailable": "Preview Unavailable",
+  "selectProjectFirst": "Select a project from the filter menu above to load the data.",
+  "selectVendorFirst": "Select a vendor from the filter menu above to load the data.",
+  "selectProject": "Select project...",
+  "selectVendor": "Select vendor...",
+  "allMonths": "All months",
+  "cards": {
+    "vendor": {
+      "title": "Vendor Report",
+      "description": "Generates a vendor report including work order amounts and monthly notes by selected project."
+    },
+    "poSummary": {
+      "title": "PO Summary",
+      "description": "Summary of purchase order (PO) numbers and amounts for a specific vendor in a given month."
+    },
+    "deliveryCerts": {
+      "title": "Delivery Certificates",
+      "description": "Summary of system receipt dates and delivery certificate numbers for a single vendor."
+    },
+    "budgetControl": {
+      "title": "Budget Control Table",
+      "description": "Dynamic interactive report for accounting: who transferred, paid to date, and calculate outstanding balances."
+    }
+  },
+  "columns": {
+    "vendorName": "Vendor / Contractor",
+    "poAmount": "PO Amount",
+    "notes": "Notes",
+    "poNumber": "PO Number",
+    "dcNumber": "DC Number",
+    "receiptDate": "Receipt Date",
+    "recipient": "Data Received (Who Transferred)",
+    "paidToDate": "In Accounting (Paid to Date)",
+    "finalInvoice": "Final Invoice (PO Amount)",
+    "remainingBalance": "Remaining Balance"
+  },
+  "placeholders": {
+    "whoTransferred": "Who transferred?...",
+    "amount": "0.00...",
+    "enterNote": "Enter project note...",
+    "additionalNotes": "Additional notes..."
+  },
+  "budgetSummary": {
+    "title": "Profit & Loss Summary (Project P&L)",
+    "revenue": "Revenue",
+    "contractAmount": "Contract Amount",
+    "exceptions": "Exceptions",
+    "totalRevenue": "Total Revenue",
+    "directExpenses": "Direct Expenses (POs)",
+    "totalVendorExpenses": "Total Vendor Expenses",
+    "grossProfit": "Gross Profit",
+    "overheads": "Overheads & Admin Expenses",
+    "salaryExpenses": "Salary Expenses",
+    "companyOverheads": "Company Overheads",
+    "totalOverheads": "Total Overheads",
+    "bottomLine": "Bottom Line (Net Profit)",
+    "profit": "Profit"
+  }
+}

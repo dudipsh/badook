@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "כלי תיוג מסמכים"
+  },
+  "pages": {
+    "sampleList": "רשימת דוגמאות",
+    "sampleEditor": "עורך דוגמה"
+  },
+  "buttons": {
+    "upload": "העלאה",
+    "save": "שמירה",
+    "cancel": "ביטול",
+    "delete": "מחיקה",
+    "verify": "אימות",
+    "reExtract": "חילוץ מחדש",
+    "selectModel": "בחר מודל",
+    "back": "חזרה",
+    "addRow": "הוסף שורה",
+    "removeRow": "הסר שורה",
+    "close": "סגור",
+    "uploading": "מעלה...",
+    "saving": "שומר...",
+    "verifying": "מאמת...",
+    "extracting": "מחלץ...",
+    "extractWithFinetuned": "חלץ עם מודל מאומן",
+    "extractingWithFinetuned": "מחלץ עם מודל מאומן..."
+  },
+  "status": {
+    "PENDING": "ממתין",
+    "AUTO_EXTRACTED": "חולץ אוטומטית",
+    "LABELED": "תויג",
+    "VERIFIED": "אומת"
+  },
+  "documentType": {
+    "DELIVERY_NOTE": "תעודת משלוח",
+    "INVOICE": "חשבונית",
+    "PURCHASE_ORDER": "הזמנת רכש"
+  },
+  "table": {
+    "fileName": "שם קובץ",
+    "type": "סוג",
+    "status": "סטטוס",
+    "confidence": "ביטחון",
+    "date": "תאריך",
+    "actions": "פעולות",
+    "noSamples": "אין דוגמאות להצגה",
+    "page": "עמוד",
+    "of": "מתוך"
+  },
+  "stats": {
+    "total": "סה\"כ",
+    "byStatus": "לפי סטטוס",
+    "byType": "לפי סוג"
+  },
+  "filters": {
+    "allStatuses": "כל הסטטוסים",
+    "allTypes": "כל הסוגים",
+    "search": "חיפוש...",
+    "status": "סטטוס",
+    "type": "סוג"
+  },
+  "upload": {
+    "title": "העלאת מסמך",
+    "dropzone": "גרור קבצים לכאן או לחץ לבחירה",
+    "selectType": "בחר סוג מסמך",
+    "fileSelected": "נבחר: {{name}}"
+  },
+  "form": {
+    "headerInfo": "פרטי כותרת",
+    "supplierInfo": "פרטי ספק",
+    "customerInfo": "פרטי לקוח",
+    "lineItems": "פריטים",
+    "totals": "סיכומים",
+    "documentNumber": "מספר מסמך",
+    "documentDate": "תאריך מסמך",
+    "deliveryDate": "תאריך משלוח",
+    "dueDate": "תאריך תשלום",
+    "orderDate": "תאריך הזמנה",
+    "expectedDelivery": "אספקה צפויה",
+    "deliveryAddress": "כתובת משלוח",
+    "projectName": "שם פרויקט",
+    "poReference": "הפניה להזמנת רכש",
+    "deliveryNoteReferences": "הפניות לתעודות משלוח",
+    "supplierName": "שם ספק",
+    "supplierAddress": "כתובת ספק",
+    "supplierPhone": "טלפון ספק",
+    "supplierBusinessId": "ח.פ. ספק",
+    "customerName": "שם לקוח",
+    "description": "תיאור",
+    "catalogNumber": "מק\"ט",
+    "quantity": "כמות",
+    "unit": "יחידה",
+    "unitPrice": "מחיר יחידה",
+    "totalPrice": "סה\"כ שורה",
+    "remarks": "הערות",
+    "subtotal": "סכום ביניים",
+    "vatRate": "אחוז מע\"מ",
+    "vatAmount": "סכום מע\"מ",
+    "totalAmount": "סה\"כ",
+    "notes": "הערות כלליות",
+    "receivedQuantity": "כמות שהתקבלה",
+    "handwrittenNotes": "הערות כתב יד",
+    "discountPercent": "אחוז הנחה",
+    "discountAmount": "סכום הנחה",
+    "priceBeforeDiscount": "מחיר לפני הנחה"
+  },
+  "editor": {
+    "documentViewer": "תצוגת מסמך",
+    "extraction": "נתונים שחולצו",
+    "gemini": "Gemini",
+    "groundTruth": "אמת מידה",
+    "pageOf": "עמוד {{current}} מתוך {{total}}",
+    "model": "מודל"
+  },
+  "toast": {
+    "uploadSuccess": "המסמך הועלה בהצלחה",
+    "uploadError": "שגיאה בהעלאת המסמך",
+    "saveSuccess": "הנתונים נשמרו בהצלחה",
+    "saveError": "שגיאה בשמירת הנתונים",
+    "verifySuccess": "הדוגמה אומתה בהצלחה",
+    "verifyError": "שגיאה באימות הדוגמה",
+    "reExtractSuccess": "החילוץ מחדש הצליח",
+    "reExtractError": "שגיאה בחילוץ מחדש",
+    "documentTypeUpdated": "סוג המסמך עודכן בהצלחה",
+    "documentTypeError": "שגיאה בעדכון סוג המסמך",
+    "deleteSuccess": "הדוגמה נמחקה בהצלחה",
+    "deleteError": "שגיאה במחיקת הדוגמה",
+    "loadError": "שגיאה בטעינת הנתונים"
+  }
+}

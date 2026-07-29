@@ -1,0 +1,66 @@
+{
+  "title": "דוחות",
+  "subtitle": "הפק והורד גיליונות .xlsx מעוצבים לנתוני הפרויקט. בחר דוח וייצא באותו הרגע.",
+  "openBuilder": "פתח מחולל דוחות",
+  "back": "חזור",
+  "exportXlsx": "ייצוא נתונים .xlsx",
+  "expandFullscreen": "הרחב מסך מלא",
+  "previewUnavailable": "תצוגה מקדימה לא זמינה",
+  "selectProjectFirst": "יש לבחור פרויקט מתפריט הסינון למעלה בכדי לטעון את הנתונים.",
+  "selectVendorFirst": "יש לבחור ספק מתפריט הסינון למעלה בכדי לטעון את הנתונים.",
+  "selectProject": "בחר פרויקט...",
+  "selectVendor": "בחר ספק...",
+  "allMonths": "כל החודשים",
+  "cards": {
+    "vendor": {
+      "title": "דוח ספקים",
+      "description": "מפיק דוח ספקים הכולל סכום הזמנת עבודה והערות חודשיות לפי פרויקט נבחר."
+    },
+    "poSummary": {
+      "title": "ריכוז הזמנות",
+      "description": "ריכוז מספרי הזמנות (PO) וסכומים עבור ספק ספציפי בחודש נתון."
+    },
+    "deliveryCerts": {
+      "title": "ריכוז תעודות משלוח",
+      "description": "ריכוז תאריכי קבלה במערכת ומספרי תעודות משלוח עבור ספק בודד."
+    },
+    "budgetControl": {
+      "title": "טבלת בקרה תקציבית",
+      "description": "דו\"ח אינטראקטיבי דינמי להנהלת חשבונות: מי העביר, שולם עד היום, וחישוב יתרות לתשלום."
+    }
+  },
+  "columns": {
+    "vendorName": "שם ספק / קבלן",
+    "poAmount": "סכום הזמנת עבודה",
+    "notes": "הערות",
+    "poNumber": "מס הזמנה PO",
+    "dcNumber": "מס תעודת משלוח",
+    "receiptDate": "תאריך קבלה במערכת",
+    "recipient": "קבלת נתונים ( מי העביר )",
+    "paidToDate": "קיים בהנ\"ח ( שולם עד היום )",
+    "finalInvoice": "חשבון סופי ( סכום הזמנת העבודה )",
+    "remainingBalance": "יתרה לתשלום"
+  },
+  "placeholders": {
+    "whoTransferred": "מי העביר?...",
+    "amount": "0.00...",
+    "enterNote": "הזן הערה לפרויקט...",
+    "additionalNotes": "הערות נוספות..."
+  },
+  "budgetSummary": {
+    "title": "תקציר רווח והפסד (P&L פרויקטלי)",
+    "revenue": "הכנסות",
+    "contractAmount": "סכום חוזה",
+    "exceptions": "חריגים",
+    "totalRevenue": "סה\"כ הכנסות",
+    "directExpenses": "הוצאות ישירות (POs)",
+    "totalVendorExpenses": "סך הוצאות ספקים",
+    "grossProfit": "רווח גולמי",
+    "overheads": "תקורות והוצאות הנהלה",
+    "salaryExpenses": "הוצאות שכר",
+    "companyOverheads": "תקורות חברה",
+    "totalOverheads": "סה\"כ תקורות",
+    "bottomLine": "שורה תחתונה (רווח נקי)",
+    "profit": "רווח"
+  }
+}

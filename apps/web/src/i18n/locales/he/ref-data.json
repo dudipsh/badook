@@ -1,0 +1,58 @@
+{
+  "title": "מאגרי אימון",
+  "description": "ניהול נתוני הייחוס ליצירת דאטה סינתטי לאימון המודל",
+  "tabs": {
+    "products": "מוצרים",
+    "suppliers": "ספקים",
+    "cities": "ישובים"
+  },
+  "stats": {
+    "suppliers": "ספקים",
+    "products": "מוצרים",
+    "cities": "ישובים"
+  },
+  "products": {
+    "name": "שם מוצר",
+    "category": "קטגוריה",
+    "unit": "יחידת מידה",
+    "avgPrice": "מחיר ממוצע",
+    "variants": "וריאנטים",
+    "commonVendors": "ספקים נפוצים",
+    "addProduct": "הוסף מוצר",
+    "editProduct": "ערוך מוצר",
+    "allCategories": "כל הקטגוריות",
+    "noProducts": "אין מוצרים להצגה",
+    "deleteConfirm": "למחוק את המוצר?"
+  },
+  "suppliers": {
+    "name": "שם ספק",
+    "categories": "קטגוריות",
+    "phone": "טלפון",
+    "address": "כתובת",
+    "addSupplier": "הוסף ספק",
+    "editSupplier": "ערוך ספק",
+    "allCategories": "כל הקטגוריות",
+    "noSuppliers": "אין ספקים להצגה",
+    "deleteConfirm": "למחוק את הספק?"
+  },
+  "cities": {
+    "name": "שם ישוב",
+    "englishName": "שם באנגלית",
+    "district": "נפה",
+    "council": "מועצה",
+    "code": "קוד",
+    "allDistricts": "כל הנפות",
+    "noCities": "אין ישובים להצגה"
+  },
+  "actions": {
+    "seed": "טען נתונים",
+    "export": "ייצא",
+    "import": "ייבוא CSV"
+  },
+  "pagination": {
+    "showing": "מציג",
+    "of": "מתוך",
+    "prev": "הקודם",
+    "next": "הבא"
+  }
+}

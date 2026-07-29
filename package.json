@@ -1,0 +1,47 @@
+{
+  "name": "budapest",
+  "private": true,
+  "scripts": {
+    "prisma:generate": "cd apps/labeling-api && npx prisma generate && cd ../api && npx prisma generate",
+    "dev:api": "pnpm --filter @budapest/api dev",
+    "dev:web": "pnpm --filter @budapest/web dev",
+    "dev": "pnpm --filter @budapest/api dev & pnpm --filter @budapest/web dev & wait",
+    "dev:labeling-api": "pnpm --filter @budapest/labeling-api dev",
+    "dev:labeling-web": "pnpm --filter @budapest/labeling-web dev",
+    "dev:labeling": "pnpm --filter @budapest/labeling-api dev & pnpm --filter @budapest/labeling-web dev & wait",
+    "start:all": "pnpm run prisma:generate && pnpm --filter @budapest/api exec nest start --watch & pnpm --filter @budapest/web exec vite & pnpm --filter @budapest/labeling-api exec nest start --watch & pnpm --filter @budapest/labeling-web exec vite --port 5174 & wait",
+    "stop:all": "lsof -ti:3001 | xargs kill -9 2>/dev/null; lsof -ti:3002 | xargs kill -9 2>/dev/null; lsof -ti:5173 | xargs kill -9 2>/dev/null; lsof -ti:5174 | xargs kill -9 2>/dev/null; echo 'All stopped'",
+    "build:api": "pnpm --filter @budapest/api build",
+    "build:web": "pnpm --filter @budapest/web build",
+    "build:labeling-api": "pnpm --filter @budapest/labeling-api build",
+    "build:labeling-web": "pnpm --filter @budapest/labeling-web build",
+    "build": "pnpm run prisma:generate && pnpm -r build",
+    "db:migrate": "pnpm --filter @budapest/api db:migrate",
+    "db:seed": "pnpm --filter @budapest/api db:seed",
+    "db:studio": "pnpm --filter @budapest/api db:studio",
+    "db:reset": "pnpm --filter @budapest/api db:reset",
+    "stop:api": "pnpm --filter @budapest/api stop",
+    "restart:api": "pnpm --filter @budapest/api stop && pnpm run prisma:generate && pnpm --filter @budapest/api db:push",
+    "lint": "pnpm -r lint",
+    "test": "pnpm --filter @budapest/api test",
+    "test:ci": "pnpm --filter @budapest/api test:ci"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "pnpm": {
+    "packageExtensions": {
+      "daisyui": {
+        "peerDependencies": {
+          "tailwindcss": ">=3"
+        }
+      }
+    }
+  },
+  "dependencies": {
+    "qrcode.react": "^4.2.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.1"
+  }
+}

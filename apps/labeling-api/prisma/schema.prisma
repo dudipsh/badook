@@ -1,0 +1,145 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma-client"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum DocumentType {
+  DELIVERY_NOTE
+  INVOICE
+  PURCHASE_ORDER
+}
+
+enum SampleStatus {
+  PENDING
+  AUTO_EXTRACTED
+  LABELED
+  VERIFIED
+}
+
+model Sample {
+  id               String       @id @default(cuid())
+  documentType     DocumentType @map("document_type")
+  status           SampleStatus @default(PENDING)
+  originalFileName String       @map("original_file_name")
+  filePath         String       @map("file_path")
+  pageCount        Int          @default(1) @map("page_count")
+
+  // Gemini extraction
+  geminiExtraction Json?  @map("gemini_extraction")
+  geminiConfidence Float? @map("gemini_confidence")
+  geminiTokens     Int?   @map("gemini_tokens")
+  geminiCostUsd    Float? @map("gemini_cost_usd")
+
+  // Fine-tuned model extraction (Vertex AI)
+  finetunedExtraction Json?  @map("qwen_extraction")
+  finetunedConfidence Float? @map("qwen_confidence")
+
+  // Human-corrected ground truth
+  groundTruth Json?     @map("ground_truth")
+  labeledAt   DateTime? @map("labeled_at")
+
+  // Metadata
+  tags  String[] @default([])
+  notes String?
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@index([status])
+  @@index([documentType, status])
+  @@map("samples")
+}
+
+model Export {
+  id           String        @id @default(cuid())
+  name         String
+  format       String        @default("vertex-ai")
+  documentType DocumentType? @map("document_type")
+  sampleCount  Int           @map("sample_count")
+  filePath     String?       @map("file_path")
+  createdAt    DateTime      @default(now()) @map("created_at")
+
+  @@map("exports")
+}
+
+// ─── Reference data for synthetic training ───
+
+model RefSupplier {
+  id         String   @id @default(cuid())
+  name       String   @unique
+  categories String[] @default([])
+  phone      String?
+  address    String?
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+
+  @@index([name])
+  @@map("ref_suppliers")
+}
+
+model RefProduct {
+  id            String   @id @default(cuid())
+  name          String
+  category      String
+  unit          String
+  avgPrice      Float    @map("avg_price")
+  variants      String[] @default([])
+  commonVendors String[] @default([]) @map("common_vendors")
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+
+  @@unique([name, category])
+  @@index([category])
+  @@index([name])
+  @@map("ref_products")
+}
+
+model RefCity {
+  id          String   @id @default(cuid())
+  code        Int      @unique
+  name        String
+  englishName String   @default("") @map("english_name")
+  district    String   @default("")
+  council     String   @default("")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  @@index([name])
+  @@index([district])
+  @@map("ref_cities")
+}
+
+// ─── Training jobs (Vertex AI fine-tuning) ───
+
+enum TrainingJobStatus {
+  PENDING
+  EXPORTING
+  TRAINING
+  SUCCEEDED
+  FAILED
+}
+
+model TrainingJob {
+  id                 String            @id @default(cuid())
+  status             TrainingJobStatus @default(PENDING)
+  baseModel          String            @default("gemini-2.0-flash-001") @map("base_model")
+  epochs             Int               @default(3)
+  sampleCount        Int?              @map("sample_count")
+  gcsTrainUri        String?           @map("gcs_train_uri")
+  vertexJobName      String?           @map("vertex_job_name")
+  tunedModelName     String?           @map("tuned_model_name")
+  tunedModelEndpoint String?           @map("tuned_model_endpoint")
+  error              String?
+  startedBy          String?           @map("started_by")
+  createdAt          DateTime          @default(now()) @map("created_at")
+  updatedAt          DateTime          @updatedAt @map("updated_at")
+  completedAt        DateTime?         @map("completed_at")
+
+  @@index([status])
+  @@index([createdAt])
+  @@map("training_jobs")
+}

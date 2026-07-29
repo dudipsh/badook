@@ -1,0 +1,9 @@
+{
+  "id": "002-duplicate-items",
+  "name": "פריטים כפולים וזיכויים",
+  "description": "פריטים שמופיעים מספר פעמים, כולל זיכוי סכומים",
+  "tags": ["duplicates", "credit"],
+  "documents": [],
+  "hasMocks": false,
+  "createdAt": "2026-03-13"
+}

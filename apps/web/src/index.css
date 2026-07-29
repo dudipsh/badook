@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+[dir="rtl"] body {
+  font-family: 'Heebo', Arial, Helvetica, sans-serif;
+}
+
+/* RTL utilities */
+[dir="rtl"] .rtl-flip {
+  transform: scaleX(-1);
+}
+
+.pdf-export .truncate {
+  overflow: visible !important;
+  text-overflow: unset !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes highlight-breath {
+  0% { opacity: 0; }
+  15% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.animate-highlight-breath {
+  animation: highlight-breath 2s ease-in-out forwards;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Matching Loader Modal ── */
+.matching-loader-scale-in {
+  animation: matching-loader-scale-in 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes matching-loader-scale-in {
+  from { opacity: 0; transform: scale(0.92) translateY(20px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+:root, [data-theme] {
+  --color-primary: #55c8e4;
+  --color-secondary: #8c5fa8;
+  --color-accent: #2d1b4e;
+  --btn-primary: #8c5fa8;
+  --btn-primary-hover: #7a4f96;
+  --btn-success: #10B981;
+  --btn-success-hover: #059669;
+  --btn-warning: #F59E0B;
+  --btn-warning-hover: #D97706;
+  --btn-error: #EF4444;
+  --btn-error-hover: #DC2626;
+  --btn-ghost-hover: #F3F4F6;
+  --rounded-btn: 0.25rem;
+  --rounded-box: 1rem;
+  --rounded-badge: 1.9rem;
+  --tab-radius: 0.5rem;
+}
+
+[data-theme="badook-dark"] {
+  --color-accent: #b794d9;
+  --btn-ghost-hover: #262626;
+}
+
+/* Match DaisyUI 5 btn-sm sizing (algiers uses DaisyUI 5) */
+.btn-sm {
+  font-size: 0.75rem !important;
+  height: 2rem !important;
+  min-height: 2rem !important;
+}
+
+@layer components {
+  .btn-primary {
+    font-weight: 600 !important;
+    transition: all 0.2s ease !important;
+  }
+  .btn-primary:hover {
+    filter: brightness(1.05) !important;
+  }
+}
+
+/* Evidence panel */
+.toggle-chip {
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 11px;
+  font-weight: 600;
+  border: 1.5px solid;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+.evidence-tab--active {
+  color: var(--color-primary);
+  background: white;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+
+.btn-primary {
+    color: #141414 !important;
+    background-color: #fff !important;
+    border: 1px solid #00000026 !important;
+    font-weight: 700 !important;
+    transition: all .2s cubic-bezier(.4, 0, .2, 1) !important;
+    box-shadow: 0 1px 2px #0000000d !important;
+}

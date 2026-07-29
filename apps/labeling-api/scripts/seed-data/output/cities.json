@@ -1,0 +1,8906 @@
+[
+  {
+    "code": 967,
+    "name": "אבו ג'ווייעד )שבט(",
+    "englishName": "ABU JUWEI'ID",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 472,
+    "name": "אבו גוש",
+    "englishName": "ABU GHOSH",
+    "district": "ירושלים",
+    "council": ""
+  },
+  {
+    "code": 473,
+    "name": "אבו סנאן",
+    "englishName": "ABU SINAN",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 935,
+    "name": "אבו סריחאן )שבט(",
+    "englishName": "ABU SUREIHAN",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 958,
+    "name": "אבו עבדון )שבט(",
+    "englishName": "ABU  ABDUN",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1042,
+    "name": "אבו עמאר )שבט(",
+    "englishName": "ABU  AMMAR",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 932,
+    "name": "אבו עמרה )שבט(",
+    "englishName": "ABU  AMRE",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 968,
+    "name": "אבו קורינאת )שבט(",
+    "englishName": "ABU QUREINAT",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1342,
+    "name": "אבו קרינאת )יישוב(",
+    "englishName": "ABU QUREINAT",
+    "district": "באר שבע",
+    "council": "נווה מדבר"
+  },
+  {
+    "code": 966,
+    "name": "אבו רובייעה )שבט(",
+    "englishName": "ABU RUBEI'A",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 961,
+    "name": "אבו רוקייק )שבט(",
+    "englishName": "ABU RUQAYYEQ",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1375,
+    "name": "אבו תלול",
+    "englishName": "ABU TULUL",
+    "district": "באר שבע",
+    "council": "נווה מדבר"
+  },
+  {
+    "code": 652,
+    "name": "אבטין",
+    "englishName": "IBTIN",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 1275,
+    "name": "אבטליון",
+    "englishName": "AVTALYON",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 679,
+    "name": "אביאל",
+    "englishName": "AVI'EL",
+    "district": "חדרה",
+    "council": "אלונה"
+  },
+  {
+    "code": 1115,
+    "name": "אביבים",
+    "englishName": "AVIVIM",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 819,
+    "name": "אביגדור",
+    "englishName": "AVIGEDOR",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 175,
+    "name": "אביחיל",
+    "englishName": "AVIHAYIL",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 2052,
+    "name": "אביטל",
+    "englishName": "AVITAL",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 1070,
+    "name": "אביעזר",
+    "englishName": "AVI'EZER",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1220,
+    "name": "אבירים",
+    "englishName": "ABBIRIM",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 182,
+    "name": "אבן יהודה",
+    "englishName": "EVEN YEHUDA",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 1081,
+    "name": "אבן מנחם",
+    "englishName": "EVEN MENAHEM",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 783,
+    "name": "אבן ספיר",
+    "englishName": "EVEN SAPPIR",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 400,
+    "name": "אבן שמואל",
+    "englishName": "EVEN SHEMU'EL",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 4011,
+    "name": "אבני איתן",
+    "englishName": "AVNE ETAN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 3793,
+    "name": "אבני חפץ",
+    "englishName": "AVNE HEFEZ",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 3786,
+    "name": "אבנת",
+    "englishName": "AVENAT",
+    "district": "ירדן )יריחו(",
+    "council": "מגילות ים המלח"
+  },
+  {
+    "code": 1311,
+    "name": "אבשלום",
+    "englishName": "AVSHALOM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 3759,
+    "name": "אדורה",
+    "englishName": "ADORA",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 113,
+    "name": "אדירים",
+    "englishName": "ADDIRIM",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 1068,
+    "name": "אדמית",
+    "englishName": "ADAMIT",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1123,
+    "name": "אדרת",
+    "englishName": "ADDERET",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 446,
+    "name": "אודים",
+    "englishName": "UDIM",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 4010,
+    "name": "אודם",
+    "englishName": "ODEM",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1046,
+    "name": "אוהד",
+    "englishName": "OHAD",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 2710,
+    "name": "אום אל-פחם",
+    "englishName": "UMM AL-FAHM",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 2024,
+    "name": "אום אל-קוטוף",
+    "englishName": "UMM AL-QUTUF",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 1358,
+    "name": "אום בטין",
+    "englishName": "UMM BATIN",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 1108,
+    "name": "אומן",
+    "englishName": "OMEN",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 680,
+    "name": "אומץ",
+    "englishName": "OMEZ",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 31,
+    "name": "אופקים",
+    "englishName": "OFAQIM",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1294,
+    "name": "אור הגנוז",
+    "englishName": "OR HAGANUZ",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 67,
+    "name": "אור הנר",
+    "englishName": "OR HANER",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 2400,
+    "name": "אור יהודה",
+    "englishName": "OR YEHUDA",
+    "district": "רמת גן",
+    "council": ""
+  },
+  {
+    "code": 1020,
+    "name": "אור עקיבא",
+    "englishName": "OR AQIVA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 780,
+    "name": "אורה",
+    "englishName": "ORA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 2012,
+    "name": "אורות",
+    "englishName": "OROT",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 4013,
+    "name": "אורטל",
+    "englishName": "ORTAL",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 403,
+    "name": "אורים",
+    "englishName": "URIM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 882,
+    "name": "אורנים",
+    "englishName": "ORANIM",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 3760,
+    "name": "אורנית",
+    "englishName": "ORANIT",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 278,
+    "name": "אושה",
+    "englishName": "USHA",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 565,
+    "name": "אזור",
+    "englishName": "AZOR",
+    "district": "חולון",
+    "council": ""
+  },
+  {
+    "code": 1157,
+    "name": "אחווה",
+    "englishName": "AHAWA",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 821,
+    "name": "אחוזם",
+    "englishName": "AHUZZAM",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 1330,
+    "name": "אחוזת ברק",
+    "englishName": "AHUZZAT BARAQ",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 785,
+    "name": "אחיהוד",
+    "englishName": "AHIHUD",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 850,
+    "name": "אחיטוב",
+    "englishName": "AHITUV",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 804,
+    "name": "אחיסמך",
+    "englishName": "AHISAMAKH",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 797,
+    "name": "אחיעזר",
+    "englishName": "AHI'EZER",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 965,
+    "name": "אטרש )שבט(",
+    "englishName": "ATRASH",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 338,
+    "name": "איבים",
+    "englishName": "IBBIM",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 716,
+    "name": "אייל",
+    "englishName": "EYAL",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 77,
+    "name": "איילת השחר",
+    "englishName": "AYYELET HASHAHAR",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 294,
+    "name": "אילון",
+    "englishName": "ELON",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1126,
+    "name": "אילות",
+    "englishName": "ELOT",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 49,
+    "name": "אילניה",
+    "englishName": "ILANIYYA",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 2600,
+    "name": "אילת",
+    "englishName": "ELAT",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1336,
+    "name": "אירוס",
+    "englishName": "IRUS",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 3762,
+    "name": "איתמר",
+    "englishName": "ITAMAR",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 37,
+    "name": "איתן",
+    "englishName": "ETAN",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 886,
+    "name": "איתנים",
+    "englishName": "ETANIM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 478,
+    "name": "אכסאל",
+    "englishName": "IKSAL",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 1359,
+    "name": "אל סייד",
+    "englishName": "AL SAYYID",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 1339,
+    "name": "אל-עזי",
+    "englishName": "AL-AZY",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 1316,
+    "name": "אל-עריאן",
+    "englishName": "AL-ARYAN",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 4003,
+    "name": "אל-רום",
+    "englishName": "EL-ROM",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1145,
+    "name": "אלומה",
+    "englishName": "ALUMMA",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 330,
+    "name": "אלומות",
+    "englishName": "ALUMMOT",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1182,
+    "name": "אלון הגליל",
+    "englishName": "ALLON HAGALIL",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 3579,
+    "name": "אלון מורה",
+    "englishName": "ELON MORE",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 3604,
+    "name": "אלון שבות",
+    "englishName": "ALLON SHEVUT",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 429,
+    "name": "אלוני אבא",
+    "englishName": "ALLONE ABBA",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 4017,
+    "name": "אלוני הבשן",
+    "englishName": "ALLONE HABASHAN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 868,
+    "name": "אלוני יצחק",
+    "englishName": "ALLONE YIZHAQ",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 285,
+    "name": "אלונים",
+    "englishName": "ALLONIM",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 4002,
+    "name": "אלי-עד",
+    "englishName": "ELI AL",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1365,
+    "name": "אליאב",
+    "englishName": "ELIAV",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 41,
+    "name": "אליכין",
+    "englishName": "ELYAKHIN",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 1248,
+    "name": "אליפז",
+    "englishName": "ELIFAZ",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 730,
+    "name": "אליפלט",
+    "englishName": "ELIFELET",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 682,
+    "name": "אליקים",
+    "englishName": "ELYAQIM",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 204,
+    "name": "אלישיב",
+    "englishName": "ELYASHIV",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 841,
+    "name": "אלישמע",
+    "englishName": "ELISHAMA",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 1125,
+    "name": "אלמגור",
+    "englishName": "ALMAGOR",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 3556,
+    "name": "אלמוג",
+    "englishName": "ALMOG",
+    "district": "ירדן )יריחו(",
+    "council": "מגילות ים המלח"
+  },
+  {
+    "code": 1309,
+    "name": "אלעד",
+    "englishName": "EL'AD",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 3618,
+    "name": "אלעזר",
+    "englishName": "EL'AZAR",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 3750,
+    "name": "אלפי מנשה",
+    "englishName": "ALFE MENASHE",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 603,
+    "name": "אלקוש",
+    "englishName": "ELQOSH",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 3560,
+    "name": "אלקנה",
+    "englishName": "ELQANA",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 772,
+    "name": "אמונים",
+    "englishName": "EMUNIM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 1064,
+    "name": "אמירים",
+    "englishName": "AMIRIM",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 1253,
+    "name": "אמנון",
+    "englishName": "AMNUN",
+    "district": "כנרת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 23,
+    "name": "אמציה",
+    "englishName": "AMAZYA",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 4012,
+    "name": "אניעם",
+    "englishName": "ANI'AM",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 960,
+    "name": "אסד )שבט(",
+    "englishName": "ASAD",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 3754,
+    "name": "אספר",
+    "englishName": "ASEFAR",
+    "district": "חברון",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 529,
+    "name": "אעבלין",
+    "englishName": "I'BILLIN",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 963,
+    "name": "אעצם )שבט(",
+    "englishName": "A'SAM",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 959,
+    "name": "אפיניש )שבט(",
+    "englishName": "AFEINISH",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 4301,
+    "name": "אפיק",
+    "englishName": "AFIQ",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 176,
+    "name": "אפיקים",
+    "englishName": "AFIQIM",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 313,
+    "name": "אפק",
+    "englishName": "AFEQ",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 3650,
+    "name": "אפרת",
+    "englishName": "EFRAT",
+    "district": "בית לחם",
+    "council": ""
+  },
+  {
+    "code": 701,
+    "name": "ארבל",
+    "englishName": "ARBEL",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 3598,
+    "name": "ארגמן",
+    "englishName": "ARGAMAN",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 714,
+    "name": "ארז",
+    "englishName": "EREZ",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 3570,
+    "name": "אריאל",
+    "englishName": "ARI'EL",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 1324,
+    "name": "ארסוף",
+    "englishName": "ARSUF",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 71,
+    "name": "אשבול",
+    "englishName": "ESHBOL",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 1276,
+    "name": "אשבל",
+    "englishName": "NAHAL ESHBAL",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 70,
+    "name": "אשדוד",
+    "englishName": "ASHDOD",
+    "district": "אשקלון",
+    "council": ""
+  },
+  {
+    "code": 199,
+    "name": "אשדות יעקב  )איחוד(",
+    "englishName": "ASHDOT YA'AQOV(IHUD)",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 188,
+    "name": "אשדות יעקב  )מאוחד(",
+    "englishName": "ASHDOT YA'AQOV(ME'UH",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1188,
+    "name": "אשחר",
+    "englishName": "ESHHAR",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 3722,
+    "name": "אשכולות",
+    "englishName": "ESHKOLOT",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 2021,
+    "name": "אשל הנשיא",
+    "englishName": "ESHEL HANASI",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 1152,
+    "name": "אשלים",
+    "englishName": "ASHALIM",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 7100,
+    "name": "אשקלון",
+    "englishName": "ASHQELON",
+    "district": "אשקלון",
+    "council": ""
+  },
+  {
+    "code": 1256,
+    "name": "אשרת",
+    "englishName": "ASHERAT",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 740,
+    "name": "אשתאול",
+    "englishName": "ESHTA'OL",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1298,
+    "name": "אתגר",
+    "englishName": "ETGAR",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 6000,
+    "name": "באקה אל-גרביה",
+    "englishName": "BAQA AL-GHARBIYYE",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 21,
+    "name": "באר אורה",
+    "englishName": "BE'ER ORA",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 1376,
+    "name": "באר גנים",
+    "englishName": "BEER GANNIM",
+    "district": "באר שבע",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 155,
+    "name": "באר טוביה",
+    "englishName": "BE'ER TUVEYA",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 2530,
+    "name": "באר יעקב",
+    "englishName": "BE'ER YA'AQOV",
+    "district": "רמלה",
+    "council": ""
+  },
+  {
+    "code": 1278,
+    "name": "באר מילכה",
+    "englishName": "BE'ER MILKA",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 9000,
+    "name": "באר שבע",
+    "englishName": "BE'ER SHEVA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 450,
+    "name": "בארות יצחק",
+    "englishName": "BE'EROT YIZHAQ",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 697,
+    "name": "בארותיים",
+    "englishName": "BE'EROTAYIM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 399,
+    "name": "בארי",
+    "englishName": "BE'ERI",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 559,
+    "name": "בוסתן הגליל",
+    "englishName": "BUSTAN HAGALIL",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 482,
+    "name": "בועיינה-נוג'ידאת",
+    "englishName": "BU'EINE-NUJEIDAT",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 4001,
+    "name": "בוקעאתא",
+    "englishName": "BUQ'ATA",
+    "district": "גולן",
+    "council": ""
+  },
+  {
+    "code": 698,
+    "name": "בורגתה",
+    "englishName": "BURGETA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 2043,
+    "name": "בחן",
+    "englishName": "BAHAN",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 762,
+    "name": "בטחה",
+    "englishName": "BITHA",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 234,
+    "name": "ביצרון",
+    "englishName": "BIZZARON",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 998,
+    "name": "ביר אל-מכסור",
+    "englishName": "BIR EL-MAKSUR",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1348,
+    "name": "ביר הדאג'",
+    "englishName": "BIR HADAGE",
+    "district": "באר שבע",
+    "council": "נווה מדבר"
+  },
+  {
+    "code": 368,
+    "name": "ביריה",
+    "englishName": "BIRIYYA",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 317,
+    "name": "בית אורן",
+    "englishName": "BET OREN",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 3574,
+    "name": "בית אל",
+    "englishName": "BET EL",
+    "district": "ראמאללה",
+    "council": ""
+  },
+  {
+    "code": 562,
+    "name": "בית אלעזרי",
+    "englishName": "BET EL'AZARI",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 95,
+    "name": "בית אלפא",
+    "englishName": "BET ALFA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 3652,
+    "name": "בית אריה",
+    "englishName": "BET ARYE",
+    "district": "ראמאללה",
+    "council": ""
+  },
+  {
+    "code": 1076,
+    "name": "בית ברל",
+    "englishName": "BET BERL",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 480,
+    "name": "בית ג'ן",
+    "englishName": "BEIT JANN",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 619,
+    "name": "בית גוברין",
+    "englishName": "BET GUVRIN",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 571,
+    "name": "בית גמליאל",
+    "englishName": "BET GAMLI'EL",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 466,
+    "name": "בית דגן",
+    "englishName": "BET DAGAN",
+    "district": "רמלה",
+    "council": ""
+  },
+  {
+    "code": 723,
+    "name": "בית הגדי",
+    "englishName": "BET HAGADDI",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 373,
+    "name": "בית הלוי",
+    "englishName": "BET HALEVI",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 322,
+    "name": "בית הלל",
+    "englishName": "BET HILLEL",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 572,
+    "name": "בית העמק",
+    "englishName": "BET HAEMEQ",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 3645,
+    "name": "בית הערבה",
+    "englishName": "BET HAARAVA",
+    "district": "ירדן )יריחו(",
+    "council": "מגילות ים המלח"
+  },
+  {
+    "code": 242,
+    "name": "בית השיטה",
+    "englishName": "BET HASHITTA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 353,
+    "name": "בית זיד",
+    "englishName": "BET ZEID",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 710,
+    "name": "בית זית",
+    "englishName": "BET ZAYIT",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 143,
+    "name": "בית זרע",
+    "englishName": "BET ZERA",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 3575,
+    "name": "בית חורון",
+    "englishName": "BET HORON",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 877,
+    "name": "בית חירות",
+    "englishName": "BET HERUT",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 2033,
+    "name": "בית חלקיה",
+    "englishName": "BET HILQIYYA",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 159,
+    "name": "בית חנן",
+    "englishName": "BET HANAN",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 800,
+    "name": "בית חנניה",
+    "englishName": "BET HANANYA",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 1050,
+    "name": "בית חשמונאי",
+    "englishName": "BET HASHMONAY",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 288,
+    "name": "בית יהושע",
+    "englishName": "BET YEHOSHUA",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 265,
+    "name": "בית יוסף",
+    "englishName": "BET YOSEF",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 200,
+    "name": "בית ינאי",
+    "englishName": "BET YANNAY",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 326,
+    "name": "בית יצחק-שער חפר",
+    "englishName": "BET YIZHAQ-SH. HEFER",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 430,
+    "name": "בית לחם הגלילית",
+    "englishName": "BET LEHEM HAGELILIT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 751,
+    "name": "בית מאיר",
+    "englishName": "BET ME'IR",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 784,
+    "name": "בית נחמיה",
+    "englishName": "BET NEHEMYA",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 16,
+    "name": "בית ניר",
+    "englishName": "BET NIR",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 672,
+    "name": "בית נקופה",
+    "englishName": "BET NEQOFA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 202,
+    "name": "בית עובד",
+    "englishName": "BET OVED",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 301,
+    "name": "בית עוזיאל",
+    "englishName": "BET UZZI'EL",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 756,
+    "name": "בית עזרא",
+    "englishName": "BET EZRA",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 604,
+    "name": "בית עריף",
+    "englishName": "BET ARIF",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 212,
+    "name": "בית צבי",
+    "englishName": "BET ZEVI",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 598,
+    "name": "בית קמה",
+    "englishName": "BET QAMA",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 365,
+    "name": "בית קשת",
+    "englishName": "BET QESHET",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 848,
+    "name": "בית רבן",
+    "englishName": "BET RABBAN",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 1162,
+    "name": "בית רימון",
+    "englishName": "BET RIMMON",
+    "district": "עפולה",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 9200,
+    "name": "בית שאן",
+    "englishName": "BET SHE'AN",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 2610,
+    "name": "בית שמש",
+    "englishName": "BET SHEMESH",
+    "district": "ירושלים",
+    "council": ""
+  },
+  {
+    "code": 248,
+    "name": "בית שערים",
+    "englishName": "BET SHE'ARIM",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 747,
+    "name": "בית שקמה",
+    "englishName": "BET SHIQMA",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 252,
+    "name": "ביתן אהרן",
+    "englishName": "BITAN AHARON",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 3780,
+    "name": "ביתר עילית",
+    "englishName": "BETAR ILLIT",
+    "district": "בית לחם",
+    "council": ""
+  },
+  {
+    "code": 94,
+    "name": "בלפוריה",
+    "englishName": "BALFURIYYA",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 760,
+    "name": "בן זכאי",
+    "englishName": "BEN ZAKKAY",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 712,
+    "name": "בן עמי",
+    "englishName": "BEN AMMI",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1084,
+    "name": "בן שמן )כפר נוער(",
+    "englishName": "BEN SHEMEN(K.NO'AR)",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 2013,
+    "name": "בן שמן )מושב(",
+    "englishName": "BEN SHEMEN (MOSHAV)",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 6100,
+    "name": "בני ברק",
+    "englishName": "BENE BERAQ",
+    "district": "רמת גן",
+    "council": ""
+  },
+  {
+    "code": 1368,
+    "name": "בני דקלים",
+    "englishName": "BNE DKALIM",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 592,
+    "name": "בני דרום",
+    "englishName": "BENE DAROM",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 386,
+    "name": "בני דרור",
+    "englishName": "BENE DEROR",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 4015,
+    "name": "בני יהודה",
+    "englishName": "BENE YEHUDA",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1363,
+    "name": "בני נצרים",
+    "englishName": "BENE NEZARIM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 448,
+    "name": "בני עטרות",
+    "englishName": "BENE ATAROT",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1066,
+    "name": "בני עי\"ש",
+    "englishName": "BENE AYISH",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 418,
+    "name": "בני ציון",
+    "englishName": "BENE ZIYYON",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 588,
+    "name": "בני ראם",
+    "englishName": "BENE RE'EM",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 685,
+    "name": "בניה",
+    "englishName": "BENAYA",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 9800,
+    "name": "בנימינה-גבעת עדה",
+    "englishName": "BINYAMINA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 1326,
+    "name": "בסמ\"ה",
+    "englishName": "BASMA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 944,
+    "name": "בסמת טבעון",
+    "englishName": "BASMAT TAB'UN",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 483,
+    "name": "בענה",
+    "englishName": "BI NE",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 389,
+    "name": "בצרה",
+    "englishName": "BAZRA",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 589,
+    "name": "בצת",
+    "englishName": "BEZET",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 864,
+    "name": "בקוע",
+    "englishName": "BEQOA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 3612,
+    "name": "בקעות",
+    "englishName": "BEQA'OT",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 823,
+    "name": "בר גיורא",
+    "englishName": "BAR GIYYORA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1191,
+    "name": "בר יוחאי",
+    "englishName": "BAR YOHAY",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 3744,
+    "name": "ברוכין",
+    "englishName": "BRUKHIN",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 428,
+    "name": "ברור חיל",
+    "englishName": "BEROR HAYIL",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 2060,
+    "name": "ברוש",
+    "englishName": "BEROSH",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 3710,
+    "name": "ברכה",
+    "englishName": "BERAKHA",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 746,
+    "name": "ברכיה",
+    "englishName": "BEREKHYA",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 667,
+    "name": "ברעם",
+    "englishName": "BAR'AM",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 141,
+    "name": "ברק",
+    "englishName": "BARAQ",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 617,
+    "name": "ברקאי",
+    "englishName": "BARQAY",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 3654,
+    "name": "ברקן",
+    "englishName": "BARQAN",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 2038,
+    "name": "ברקת",
+    "englishName": "BAREQET",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1323,
+    "name": "בת הדר",
+    "englishName": "BAT HADAR",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1361,
+    "name": "בת חן",
+    "englishName": "BAT HEN",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1319,
+    "name": "בת חפר",
+    "englishName": "BAT HEFER",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1401,
+    "name": "בת חצור",
+    "englishName": "BAT HAZOR",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 6200,
+    "name": "בת ים",
+    "englishName": "BAT YAM",
+    "district": "חולון",
+    "council": ""
+  },
+  {
+    "code": 3794,
+    "name": "בת עין",
+    "englishName": "BAT AYIN",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 33,
+    "name": "בת שלמה",
+    "englishName": "BAT SHELOMO",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 1292,
+    "name": "ג'דיידה-מכר",
+    "englishName": "JUDEIDE-MAKER",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 485,
+    "name": "ג'ולס",
+    "englishName": "JULIS",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 627,
+    "name": "ג'לג'וליה",
+    "englishName": "JALJULYE",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 976,
+    "name": "ג'נאביב )שבט(",
+    "englishName": "JUNNABIB",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 541,
+    "name": "ג'סר א-זרקא",
+    "englishName": "JISR AZ-ZARQA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 487,
+    "name": "ג'ש )גוש חלב(",
+    "englishName": "JISH(GUSH HALAV)",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 628,
+    "name": "ג'ת",
+    "englishName": "JAAT",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 872,
+    "name": "גאולי תימן",
+    "englishName": "GE'ULE TEMAN",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 379,
+    "name": "גאולים",
+    "englishName": "GE'ULIM",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 853,
+    "name": "גאליה",
+    "englishName": "GE'ALYA",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 352,
+    "name": "גבולות",
+    "englishName": "GEVULOT",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 424,
+    "name": "גבים",
+    "englishName": "GEVIM",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 86,
+    "name": "גבע",
+    "englishName": "GEVA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 3763,
+    "name": "גבע בנימין",
+    "englishName": "GEVA BINYAMIN",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 683,
+    "name": "גבע כרמל",
+    "englishName": "GEVA  KARMEL",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 2014,
+    "name": "גבעולים",
+    "englishName": "GIV'OLIM",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 3644,
+    "name": "גבעון החדשה",
+    "englishName": "GIV'ON HAHADASHA",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1344,
+    "name": "גבעות בר",
+    "englishName": "GEVA'OT BAR",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 1293,
+    "name": "גבעת אבני",
+    "englishName": "GIV'AT AVNI",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 1288,
+    "name": "גבעת אלה",
+    "englishName": "GIV'AT ELA",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 147,
+    "name": "גבעת ברנר",
+    "englishName": "GIV'AT BRENNER",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 870,
+    "name": "גבעת השלושה",
+    "englishName": "GIV'AT HASHELOSHA",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 3730,
+    "name": "גבעת זאב",
+    "englishName": "GIV'AT ZE'EV",
+    "district": "ראמאללה",
+    "council": ""
+  },
+  {
+    "code": 207,
+    "name": "גבעת ח\"ן",
+    "englishName": "GIV'AT HEN",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 2018,
+    "name": "גבעת חיים )איחוד(",
+    "englishName": "GIV'AT HAYYIM (IHUD)",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 173,
+    "name": "גבעת חיים )מאוחד(",
+    "englishName": "GIV'AT HAYYIM(ME'UHA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 4021,
+    "name": "גבעת יואב",
+    "englishName": "GIV'AT YO'AV",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 787,
+    "name": "גבעת יערים",
+    "englishName": "GIV'AT YE'ARIM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 919,
+    "name": "גבעת ישעיהו",
+    "englishName": "GIV'AT YESHA'YAHU",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 802,
+    "name": "גבעת כ\"ח",
+    "englishName": "GIV'AT KOAH",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 360,
+    "name": "גבעת ניל\"י",
+    "englishName": "GIV'AT NILI",
+    "district": "חדרה",
+    "council": "אלונה"
+  },
+  {
+    "code": 703,
+    "name": "גבעת עוז",
+    "englishName": "GIV'AT OZ",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 681,
+    "name": "גבעת שמואל",
+    "englishName": "GIV'AT SHEMU'EL",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 566,
+    "name": "גבעת שמש",
+    "englishName": "GIV'AT SHEMESH",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1077,
+    "name": "גבעת שפירא",
+    "englishName": "GIV'AT SHAPPIRA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 793,
+    "name": "גבעתי",
+    "englishName": "GIV'ATI",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 6300,
+    "name": "גבעתיים",
+    "englishName": "GIV'ATAYIM",
+    "district": "רמת גן",
+    "council": ""
+  },
+  {
+    "code": 342,
+    "name": "גברעם",
+    "englishName": "GEVAR'AM",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 133,
+    "name": "גבת",
+    "englishName": "GEVAT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 35,
+    "name": "גדות",
+    "englishName": "GADOT",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 145,
+    "name": "גדיש",
+    "englishName": "GADISH",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 442,
+    "name": "גדעונה",
+    "englishName": "GID'ONA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 2550,
+    "name": "גדרה",
+    "englishName": "GEDERA",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 852,
+    "name": "גונן",
+    "englishName": "GONEN",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 755,
+    "name": "גורן",
+    "englishName": "GOREN",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1219,
+    "name": "גורנות הגליל",
+    "englishName": "GORNOT HAGALIL",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 457,
+    "name": "גזית",
+    "englishName": "GAZIT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 370,
+    "name": "גזר",
+    "englishName": "GEZER",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 706,
+    "name": "גיאה",
+    "englishName": "GE'A",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 196,
+    "name": "גיבתון",
+    "englishName": "GIBBETON",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 1043,
+    "name": "גיזו",
+    "englishName": "GIZO",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1204,
+    "name": "גילון",
+    "englishName": "GILON",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 736,
+    "name": "גילת",
+    "englishName": "GILAT",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 262,
+    "name": "גינוסר",
+    "englishName": "GINNOSAR",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 92,
+    "name": "גיניגר",
+    "englishName": "GINNEGAR",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 863,
+    "name": "גינתון",
+    "englishName": "GINNATON",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1206,
+    "name": "גיתה",
+    "englishName": "GITTA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 3613,
+    "name": "גיתית",
+    "englishName": "GITTIT",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 393,
+    "name": "גלאון",
+    "englishName": "GAL'ON",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 3606,
+    "name": "גלגל",
+    "englishName": "GILGAL",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 346,
+    "name": "גליל ים",
+    "englishName": "GELIL YAM",
+    "district": "תל אביב",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 369,
+    "name": "גלעד )אבן יצחק(",
+    "englishName": "EVEN YIZHAQ(GAL'ED)",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 745,
+    "name": "גמזו",
+    "englishName": "GIMZO",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1072,
+    "name": "גן הדרום",
+    "englishName": "GAN HADAROM",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 225,
+    "name": "גן השומרון",
+    "englishName": "GAN HASHOMERON",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 239,
+    "name": "גן חיים",
+    "englishName": "GAN HAYYIM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 734,
+    "name": "גן יאשיה",
+    "englishName": "GAN YOSHIYYA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 166,
+    "name": "גן יבנה",
+    "englishName": "GAN YAVNE",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 1274,
+    "name": "גן נר",
+    "englishName": "GAN NER",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 311,
+    "name": "גן שורק",
+    "englishName": "GAN SOREQ",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 144,
+    "name": "גן שלמה",
+    "englishName": "GAN SHELOMO",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 72,
+    "name": "גן שמואל",
+    "englishName": "GAN SHEMU'EL",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 836,
+    "name": "גנות",
+    "englishName": "GANNOT",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 549,
+    "name": "גנות הדר",
+    "englishName": "GANNOT HADAR",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 1103,
+    "name": "גני הדר",
+    "englishName": "GANNE HADAR",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 1371,
+    "name": "גני טל",
+    "englishName": "GANNE TAL",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 862,
+    "name": "גני יוחנן",
+    "englishName": "GANNE YOHANAN",
+    "district": "רחובות",
+    "council": "גזר"
+  },
+  {
+    "code": 3823,
+    "name": "גני מודיעין",
+    "englishName": "GANNE MODIIN",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 218,
+    "name": "גני עם",
+    "englishName": "GANNE AM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 229,
+    "name": "גני תקווה",
+    "englishName": "GANNE TIQWA",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 842,
+    "name": "געש",
+    "englishName": "GA'ASH",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 463,
+    "name": "געתון",
+    "englishName": "GA'TON",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 39,
+    "name": "גפן",
+    "englishName": "GEFEN",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1129,
+    "name": "גרופית",
+    "englishName": "GEROFIT",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 4022,
+    "name": "גשור",
+    "englishName": "GESHUR",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 305,
+    "name": "גשר",
+    "englishName": "GESHER",
+    "district": "כנרת",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 574,
+    "name": "גשר הזיו",
+    "englishName": "GESHER HAZIW",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 340,
+    "name": "גת )קיבוץ(",
+    "englishName": "GAT(QIBBUZ)",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 128,
+    "name": "גת רימון",
+    "englishName": "GAT RIMMON",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 494,
+    "name": "דאלית אל-כרמל",
+    "englishName": "DALIYAT AL-KARMEL",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 146,
+    "name": "דבורה",
+    "englishName": "DEVORA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 489,
+    "name": "דבוריה",
+    "englishName": "DABBURYE",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 849,
+    "name": "דבירה",
+    "englishName": "DEVIRA",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 407,
+    "name": "דברת",
+    "englishName": "DAVERAT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 62,
+    "name": "דגניה א'",
+    "englishName": "DEGANYA ALEF",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 79,
+    "name": "דגניה ב'",
+    "englishName": "DEGANYA BET",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1067,
+    "name": "דוב\"ב",
+    "englishName": "DOVEV",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 3747,
+    "name": "דולב",
+    "englishName": "DOLEV",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 738,
+    "name": "דור",
+    "englishName": "DOR",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 336,
+    "name": "דורות",
+    "englishName": "DOROT",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 475,
+    "name": "דחי",
+    "englishName": "DAHI",
+    "district": "עפולה",
+    "council": "בוסתאן אל-מרג'"
+  },
+  {
+    "code": 490,
+    "name": "דייר אל-אסד",
+    "englishName": "DEIR AL-ASAD",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 492,
+    "name": "דייר חנא",
+    "englishName": "DEIR HANNA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 493,
+    "name": "דייר ראפאת",
+    "englishName": "DEIR RAFAT",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 2200,
+    "name": "דימונה",
+    "englishName": "DIMONA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 2063,
+    "name": "דישון",
+    "englishName": "DISHON",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 300,
+    "name": "דליה",
+    "englishName": "DALIYYA",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 431,
+    "name": "דלתון",
+    "englishName": "DALTON",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 1317,
+    "name": "דמיידה",
+    "englishName": "DEMEIDE",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 303,
+    "name": "דן",
+    "englishName": "DAN",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 302,
+    "name": "דפנה",
+    "englishName": "DAFNA",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 1241,
+    "name": "דקל",
+    "englishName": "DEQEL",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1349,
+    "name": "דריג'את",
+    "englishName": "DERIG'AT",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 702,
+    "name": "האון",
+    "englishName": "HAON",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 675,
+    "name": "הבונים",
+    "englishName": "HABONIM",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 356,
+    "name": "הגושרים",
+    "englishName": "HAGOSHERIM",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 191,
+    "name": "הדר עם",
+    "englishName": "HADAR AM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 9700,
+    "name": "הוד השרון",
+    "englishName": "HOD HASHARON",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 726,
+    "name": "הודיה",
+    "englishName": "HODIYYA",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1322,
+    "name": "הודיות",
+    "englishName": "HODAYOT",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 1169,
+    "name": "הוואשלה )שבט(",
+    "englishName": "HAWASHLA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 956,
+    "name": "הוזייל )שבט(",
+    "englishName": "HUZAYYEL",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1186,
+    "name": "הושעיה",
+    "englishName": "HOSHA'AYA",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 250,
+    "name": "הזורע",
+    "englishName": "HAZOREA",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 307,
+    "name": "הזורעים",
+    "englishName": "HAZORE'IM",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 434,
+    "name": "החותרים",
+    "englishName": "HAHOTERIM",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 684,
+    "name": "היוגב",
+    "englishName": "HAYOGEV",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 1208,
+    "name": "הילה",
+    "englishName": "HILLA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 377,
+    "name": "המעפיל",
+    "englishName": "HAMA'PIL",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 677,
+    "name": "הסוללים",
+    "englishName": "HASOLELIM",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 423,
+    "name": "העוגן",
+    "englishName": "HAOGEN",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 3769,
+    "name": "הר אדר",
+    "englishName": "HAR ADAR",
+    "district": "ראמאללה",
+    "council": ""
+  },
+  {
+    "code": 3603,
+    "name": "הר גילה",
+    "englishName": "HAR GILLO",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 1261,
+    "name": "הר עמשא",
+    "englishName": "HAR AMASA",
+    "district": "באר שבע",
+    "council": "תמר"
+  },
+  {
+    "code": 464,
+    "name": "הראל",
+    "englishName": "HAR'EL",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1249,
+    "name": "הרדוף",
+    "englishName": "HARDUF",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 6400,
+    "name": "הרצליה",
+    "englishName": "HERZELIYYA",
+    "district": "תל אביב",
+    "council": ""
+  },
+  {
+    "code": 1203,
+    "name": "הררית",
+    "englishName": "HARARIT",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 3639,
+    "name": "ורד יריחו",
+    "englishName": "WERED YERIHO",
+    "district": "ירדן )יריחו(",
+    "council": "מגילות ים המלח"
+  },
+  {
+    "code": 1133,
+    "name": "ורדון",
+    "englishName": "WARDON",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 2742,
+    "name": "זבארגה )שבט(",
+    "englishName": "ZABARGA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 815,
+    "name": "זבדיאל",
+    "englishName": "ZAVDI'EL",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 44,
+    "name": "זוהר",
+    "englishName": "ZOHAR",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 584,
+    "name": "זיקים",
+    "englishName": "ZIQIM",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 788,
+    "name": "זיתן",
+    "englishName": "ZETAN",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 9300,
+    "name": "זכרון יעקב",
+    "englishName": "ZIKHRON YA'AQOV",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 799,
+    "name": "זכריה",
+    "englishName": "ZEKHARYA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1290,
+    "name": "זמר",
+    "englishName": "ZEMER",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 1065,
+    "name": "זמרת",
+    "englishName": "ZIMRAT",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 816,
+    "name": "זנוח",
+    "englishName": "ZANOAH",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 2064,
+    "name": "זרועה",
+    "englishName": "ZERU'A",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 975,
+    "name": "זרזיר",
+    "englishName": "ZARZIR",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 818,
+    "name": "זרחיה",
+    "englishName": "ZERAHYA",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 1321,
+    "name": "ח'ואלד",
+    "englishName": "KHAWALED",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 986,
+    "name": "ח'ואלד )שבט(",
+    "englishName": "KHAWALED",
+    "district": "נצרת",
+    "council": "זבולון"
+  },
+  {
+    "code": 235,
+    "name": "חבצלת השרון",
+    "englishName": "HAVAZZELET HASHARON",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1110,
+    "name": "חבר",
+    "englishName": "HEVER",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 3400,
+    "name": "חברון",
+    "englishName": "",
+    "district": "חברון",
+    "council": ""
+  },
+  {
+    "code": 717,
+    "name": "חגור",
+    "englishName": "HAGOR",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 3764,
+    "name": "חגי",
+    "englishName": "HAGGAI",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 205,
+    "name": "חגלה",
+    "englishName": "HOGLA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 4026,
+    "name": "חד-נס",
+    "englishName": "HAD-NES",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 618,
+    "name": "חדיד",
+    "englishName": "HADID",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 6500,
+    "name": "חדרה",
+    "englishName": "HADERA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 948,
+    "name": "חוג'ייראת )ד'הרה(",
+    "englishName": "HUJEIRAT (DAHRA)",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 160,
+    "name": "חולדה",
+    "englishName": "HULDA",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 6600,
+    "name": "חולון",
+    "englishName": "HOLON",
+    "district": "חולון",
+    "council": ""
+  },
+  {
+    "code": 1239,
+    "name": "חולית",
+    "englishName": "HOLIT",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 253,
+    "name": "חולתה",
+    "englishName": "HULATA",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 662,
+    "name": "חוסן",
+    "englishName": "HOSEN",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1332,
+    "name": "חוסנייה",
+    "englishName": "HUSSNIYYA",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 115,
+    "name": "חופית",
+    "englishName": "HOFIT",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 374,
+    "name": "חוקוק",
+    "englishName": "HUQOQ",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1303,
+    "name": "חורה",
+    "englishName": "HURA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 496,
+    "name": "חורפיש",
+    "englishName": "HURFEISH",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 355,
+    "name": "חורשים",
+    "englishName": "HORESHIM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 1047,
+    "name": "חזון",
+    "englishName": "HAZON",
+    "district": "כנרת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 219,
+    "name": "חיבת ציון",
+    "englishName": "HIBBAT ZIYYON",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 3643,
+    "name": "חיננית",
+    "englishName": "HINNANIT",
+    "district": "ג'נין",
+    "council": "שומרון"
+  },
+  {
+    "code": 4000,
+    "name": "חיפה",
+    "englishName": "HAIFA",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 162,
+    "name": "חירות",
+    "englishName": "HERUT",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 1272,
+    "name": "חלוץ",
+    "englishName": "HALUZ",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 820,
+    "name": "חלץ",
+    "englishName": "HELEZ",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 993,
+    "name": "חמאם",
+    "englishName": "HAMAM",
+    "district": "כנרת",
+    "council": "אל-בטוף"
+  },
+  {
+    "code": 801,
+    "name": "חמד",
+    "englishName": "HEMED",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 343,
+    "name": "חמדיה",
+    "englishName": "HAMADYA",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 3646,
+    "name": "חמדת",
+    "englishName": "NAHAL HEMDAT",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 3609,
+    "name": "חמרה",
+    "englishName": "HAMRA",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 807,
+    "name": "חניאל",
+    "englishName": "HANNI'EL",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 280,
+    "name": "חניתה",
+    "englishName": "HANITA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1257,
+    "name": "חנתון",
+    "englishName": "HANNATON",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 4005,
+    "name": "חספין",
+    "englishName": "HASPIN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 363,
+    "name": "חפץ חיים",
+    "englishName": "HAFEZ HAYYIM",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 90,
+    "name": "חפצי-בה",
+    "englishName": "HEFZI-BAH",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 700,
+    "name": "חצב",
+    "englishName": "HAZAV",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 13,
+    "name": "חצבה",
+    "englishName": "HAZEVA",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 2034,
+    "name": "חצור הגלילית",
+    "englishName": "HAZOR HAGELILIT",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 406,
+    "name": "חצור-אשדוד",
+    "englishName": "HAZOR-ASHDOD",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 1409,
+    "name": "חצר בארותיים",
+    "englishName": "HAZAR BE'EROTAYIM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1402,
+    "name": "חצרות חולדה",
+    "englishName": "HAZROT HULDA",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 1404,
+    "name": "חצרות יסף",
+    "englishName": "HAZROT YASAF",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1405,
+    "name": "חצרות כ\"ח",
+    "englishName": "HAZROT KOAH",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 397,
+    "name": "חצרים",
+    "englishName": "HAZERIM",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 422,
+    "name": "חרב לאת",
+    "englishName": "HEREV LE'ET",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1024,
+    "name": "חרוצים",
+    "englishName": "HARUZIM",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 1247,
+    "name": "חריש",
+    "englishName": "HARISH",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 3717,
+    "name": "חרמש",
+    "englishName": "HERMESH",
+    "district": "ג'נין",
+    "council": "שומרון"
+  },
+  {
+    "code": 1209,
+    "name": "חרשים",
+    "englishName": "HARASHIM",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 3770,
+    "name": "חשמונאים",
+    "englishName": "HASHMONA'IM",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 6700,
+    "name": "טבריה",
+    "englishName": "TIBERIAS",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 962,
+    "name": "טובא-זנגריה",
+    "englishName": "TUBA-ZANGARIYYE",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 498,
+    "name": "טורעאן",
+    "englishName": "TUR'AN",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 2730,
+    "name": "טייבה",
+    "englishName": "TAYIBE",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 497,
+    "name": "טייבה )בעמק(",
+    "englishName": "TAYIBE(BAEMEQ)",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 2720,
+    "name": "טירה",
+    "englishName": "TIRE",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 663,
+    "name": "טירת יהודה",
+    "englishName": "TIRAT YEHUDA",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 2100,
+    "name": "טירת כרמל",
+    "englishName": "TIRAT KARMEL",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 268,
+    "name": "טירת צבי",
+    "englishName": "TIRAT ZEVI",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 462,
+    "name": "טל שחר",
+    "englishName": "TAL SHAHAR",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1181,
+    "name": "טל-אל",
+    "englishName": "TAL-EL",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1177,
+    "name": "טללים",
+    "englishName": "TELALIM",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 3788,
+    "name": "טלמון",
+    "englishName": "TALMON",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 8900,
+    "name": "טמרה",
+    "englishName": "TAMRA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 547,
+    "name": "טמרה )יזרעאל(",
+    "englishName": "TAMRA (YIZRE'EL)",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 3743,
+    "name": "טנא",
+    "englishName": "TENE",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 1214,
+    "name": "טפחות",
+    "englishName": "TEFAHOT",
+    "district": "כנרת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 1295,
+    "name": "יאנוח-ג'ת",
+    "englishName": "YANUH-JAT",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1232,
+    "name": "יבול",
+    "englishName": "YEVUL",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 46,
+    "name": "יבנאל",
+    "englishName": "YAVNE'EL",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 2660,
+    "name": "יבנה",
+    "englishName": "YAVNE",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 96,
+    "name": "יגור",
+    "englishName": "YAGUR",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 798,
+    "name": "יגל",
+    "englishName": "YAGEL",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 577,
+    "name": "יד בנימין",
+    "englishName": "YAD BINYAMIN",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 1134,
+    "name": "יד השמונה",
+    "englishName": "YAD HASHEMONA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 758,
+    "name": "יד חנה",
+    "englishName": "YAD HANNA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 358,
+    "name": "יד מרדכי",
+    "englishName": "YAD MORDEKHAY",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 775,
+    "name": "יד נתן",
+    "englishName": "YAD NATAN",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 64,
+    "name": "יד רמב\"ם",
+    "englishName": "YAD RAMBAM",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 1144,
+    "name": "ידידה",
+    "englishName": "YEDIDA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 9400,
+    "name": "יהוד-מונוסון",
+    "englishName": "YEHUD-MONOSON",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 1158,
+    "name": "יהל",
+    "englishName": "YAHEL",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 2009,
+    "name": "יובל",
+    "englishName": "YUVAL",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 1226,
+    "name": "יובלים",
+    "englishName": "YUVALIM",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1112,
+    "name": "יודפת",
+    "englishName": "YODEFAT",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 4007,
+    "name": "יונתן",
+    "englishName": "YONATAN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 803,
+    "name": "יושיביה",
+    "englishName": "YOSHIVYA",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 452,
+    "name": "יזרעאל",
+    "englishName": "YIZRE'EL",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 409,
+    "name": "יחיעם",
+    "englishName": "YEHI'AM",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 866,
+    "name": "יטבתה",
+    "englishName": "YOTVATA",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 3607,
+    "name": "ייט\"ב",
+    "englishName": "YITAV",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 811,
+    "name": "יכיני",
+    "englishName": "YAKHINI",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 753,
+    "name": "ינוב",
+    "englishName": "YANUV",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 2011,
+    "name": "ינון",
+    "englishName": "YINNON",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 29,
+    "name": "יסוד המעלה",
+    "englishName": "YESUD HAMA'ALA",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 440,
+    "name": "יסודות",
+    "englishName": "YESODOT",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 575,
+    "name": "יסעור",
+    "englishName": "YAS'UR",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1138,
+    "name": "יעד",
+    "englishName": "YA'AD",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1117,
+    "name": "יעל",
+    "englishName": "YA'EL",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 1044,
+    "name": "יעף",
+    "englishName": "YE'AF",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 795,
+    "name": "יערה",
+    "englishName": "YA'ARA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 499,
+    "name": "יפיע",
+    "englishName": "YAFI",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 3566,
+    "name": "יפית",
+    "englishName": "YAFIT",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 134,
+    "name": "יפעת",
+    "englishName": "YIF'AT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 453,
+    "name": "יפתח",
+    "englishName": "YIFTAH",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 3749,
+    "name": "יצהר",
+    "englishName": "YIZHAR",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 759,
+    "name": "יציץ",
+    "englishName": "YAZIZ",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 417,
+    "name": "יקום",
+    "englishName": "YAQUM",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 3647,
+    "name": "יקיר",
+    "englishName": "YAQIR",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 241,
+    "name": "יקנעם )מושבה(",
+    "englishName": "YOQNE'AM(MOSHAVA)",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 240,
+    "name": "יקנעם עילית",
+    "englishName": "YOQNE'AM ILLIT",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 623,
+    "name": "יראון",
+    "englishName": "YIR'ON",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 2026,
+    "name": "ירדנה",
+    "englishName": "YARDENA",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 831,
+    "name": "ירוחם",
+    "englishName": "YEROHAM",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 3000,
+    "name": "ירושלים",
+    "englishName": "JERUSALEM",
+    "district": "ירושלים",
+    "council": ""
+  },
+  {
+    "code": 718,
+    "name": "ירחיב",
+    "englishName": "YARHIV",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 502,
+    "name": "ירכא",
+    "englishName": "YIRKA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 183,
+    "name": "ירקונה",
+    "englishName": "YARQONA",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 916,
+    "name": "ישע",
+    "englishName": "YESHA",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 805,
+    "name": "ישעי",
+    "englishName": "YISH'I",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 828,
+    "name": "ישרש",
+    "englishName": "YASHRESH",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 1227,
+    "name": "יתד",
+    "englishName": "YATED",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1329,
+    "name": "יתיר",
+    "englishName": "",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 504,
+    "name": "כאבול",
+    "englishName": "KABUL",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 505,
+    "name": "כאוכב אבו אל-היג'א",
+    "englishName": "KAOKAB ABU AL-HIJA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 576,
+    "name": "כברי",
+    "englishName": "KABRI",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 371,
+    "name": "כדורי",
+    "englishName": "KADOORIE",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 1338,
+    "name": "כדיתה",
+    "englishName": "KADDITA",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 3564,
+    "name": "כוכב השחר",
+    "englishName": "KOKHAV HASHAHAR",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1224,
+    "name": "כוכב יאיר",
+    "englishName": "KOKHAV YA'IR",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 3779,
+    "name": "כוכב יעקב",
+    "englishName": "KOKHAV YA'AQOV",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 824,
+    "name": "כוכב מיכאל",
+    "englishName": "KOKHAV MIKHA'EL",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1252,
+    "name": "כורזים",
+    "englishName": "KORAZIM",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 1210,
+    "name": "כחל",
+    "englishName": "KAHAL",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 1367,
+    "name": "כחלה",
+    "englishName": "KOCHLEA",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 840,
+    "name": "כיסופים",
+    "englishName": "KISSUFIM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1153,
+    "name": "כישור",
+    "englishName": "KISHOR",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1183,
+    "name": "כליל",
+    "englishName": "KELIL",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1229,
+    "name": "כלנית",
+    "englishName": "KALLANIT",
+    "district": "כנרת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 1331,
+    "name": "כמאנה",
+    "englishName": "",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1291,
+    "name": "כמהין",
+    "englishName": "KEMEHIN",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 1201,
+    "name": "כמון",
+    "englishName": "KAMMON",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 2006,
+    "name": "כנות",
+    "englishName": "KANNOT",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 4028,
+    "name": "כנף",
+    "englishName": "KANAF",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 63,
+    "name": "כנרת )מושבה(",
+    "englishName": "KINNERET(MOSHAVA)",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 57,
+    "name": "כנרת )קבוצה(",
+    "englishName": "KINNERET(QEVUZA)",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1059,
+    "name": "כסיפה",
+    "englishName": "KUSEIFE",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 859,
+    "name": "כסלון",
+    "englishName": "KESALON",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1296,
+    "name": "כסרא-סמיע",
+    "englishName": "KISRA-SUMEI",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 978,
+    "name": "כעביה-טבאש-חג'אג'רה",
+    "englishName": "KA'ABIYYE-TABBASH-HA",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 857,
+    "name": "כפר אביב",
+    "englishName": "KEFAR AVIV",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 3638,
+    "name": "כפר אדומים",
+    "englishName": "KEFAR ADUMMIM",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 364,
+    "name": "כפר אוריה",
+    "englishName": "KEFAR URIYYA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 690,
+    "name": "כפר אחים",
+    "englishName": "KEFAR AHIM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 220,
+    "name": "כפר ביאליק",
+    "englishName": "KEFAR BIALIK",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 177,
+    "name": "כפר ביל\"ו",
+    "englishName": "KEFAR BILU",
+    "district": "רחובות",
+    "council": "גזר"
+  },
+  {
+    "code": 357,
+    "name": "כפר בלום",
+    "englishName": "KEFAR BLUM",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 2010,
+    "name": "כפר בן נון",
+    "englishName": "KEFAR BIN NUN",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 633,
+    "name": "כפר ברא",
+    "englishName": "KAFAR BARA",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 132,
+    "name": "כפר ברוך",
+    "englishName": "KEFAR BARUKH",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 106,
+    "name": "כפר גדעון",
+    "englishName": "KEFAR GID'ON",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 427,
+    "name": "כפר גלים",
+    "englishName": "KEFAR GALLIM",
+    "district": "חיפה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 310,
+    "name": "כפר גליקסון",
+    "englishName": "KEFAR GLIKSON",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 76,
+    "name": "כפר גלעדי",
+    "englishName": "KEFAR GIL'ADI",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 707,
+    "name": "כפר דניאל",
+    "englishName": "KEFAR DANIYYEL",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 3796,
+    "name": "כפר האורנים",
+    "englishName": "KEFAR HAORANIM",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 192,
+    "name": "כפר החורש",
+    "englishName": "KEFAR HAHORESH",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 254,
+    "name": "כפר המכבי",
+    "englishName": "KEFAR HAMAKKABI",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 582,
+    "name": "כפר הנגיד",
+    "englishName": "KEFAR HANAGID",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 890,
+    "name": "כפר הנוער הדתי",
+    "englishName": "KEFAR HANO'AR HADATI",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 443,
+    "name": "כפר הנשיא",
+    "englishName": "KEFAR HANASI",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 187,
+    "name": "כפר הס",
+    "englishName": "KEFAR HESS",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 217,
+    "name": "כפר הרא\"ה",
+    "englishName": "KEFAR HARO'E",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 888,
+    "name": "כפר הרי\"ף",
+    "englishName": "KEFAR HARIF",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 190,
+    "name": "כפר ויתקין",
+    "englishName": "KEFAR VITKIN",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 320,
+    "name": "כפר ורבורג",
+    "englishName": "KEFAR WARBURG",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 1263,
+    "name": "כפר ורדים",
+    "englishName": "KEFAR WERADIM",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1325,
+    "name": "כפר זוהרים",
+    "englishName": "KEFAR ZOHARIM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 786,
+    "name": "כפר זיתים",
+    "englishName": "KEFAR ZETIM",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 696,
+    "name": "כפר חב\"ד",
+    "englishName": "KEFAR HABAD",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 609,
+    "name": "כפר חושן",
+    "englishName": "KEFAR HOSHEN",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 255,
+    "name": "כפר חיטים",
+    "englishName": "KEFAR HITTIM",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 193,
+    "name": "כפר חיים",
+    "englishName": "KEFAR HAYYIM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1297,
+    "name": "כפר חנניה",
+    "englishName": "KEFAR HANANYA",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 112,
+    "name": "כפר חסידים א'",
+    "englishName": "KEFAR HASIDIM ALEF",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 889,
+    "name": "כפר חסידים ב'",
+    "englishName": "KEFAR HASIDIM BET",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 4004,
+    "name": "כפר חרוב",
+    "englishName": "KEFAR HARUV",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 673,
+    "name": "כפר טרומן",
+    "englishName": "KEFAR TRUMAN",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 507,
+    "name": "כפר יאסיף",
+    "englishName": "KAFAR YASIF",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 233,
+    "name": "כפר ידידיה",
+    "englishName": "YEDIDYA",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 140,
+    "name": "כפר יהושע",
+    "englishName": "KEFAR YEHOSHUA",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 168,
+    "name": "כפר יונה",
+    "englishName": "KEFAR YONA",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 85,
+    "name": "כפר יחזקאל",
+    "englishName": "KEFAR YEHEZQEL",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 170,
+    "name": "כפר יעבץ",
+    "englishName": "KEFAR YA'BEZ",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 508,
+    "name": "כפר כמא",
+    "englishName": "KAFAR KAMA",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 509,
+    "name": "כפר כנא",
+    "englishName": "KAFAR KANNA",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 387,
+    "name": "כפר מונש",
+    "englishName": "KEFAR MONASH",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1095,
+    "name": "כפר מימון",
+    "englishName": "KEFAR MAYMON",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 98,
+    "name": "כפר מל\"ל",
+    "englishName": "KEFAR MALAL",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 510,
+    "name": "כפר מנדא",
+    "englishName": "KAFAR MANDA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 274,
+    "name": "כפר מנחם",
+    "englishName": "KEFAR MENAHEM",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 297,
+    "name": "כפר מסריק",
+    "englishName": "KEFAR MASARYK",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 512,
+    "name": "כפר מצר",
+    "englishName": "KAFAR MISR",
+    "district": "נצרת",
+    "council": "בוסתאן אל-מרג'"
+  },
+  {
+    "code": 764,
+    "name": "כפר מרדכי",
+    "englishName": "KEFAR MORDEKHAY",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 316,
+    "name": "כפר נטר",
+    "englishName": "KEFAR NETTER",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 345,
+    "name": "כפר סאלד",
+    "englishName": "KEFAR SZOLD",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 6900,
+    "name": "כפר סבא",
+    "englishName": "KEFAR SAVA",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 107,
+    "name": "כפר סילבר",
+    "englishName": "KEFAR SILVER",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 249,
+    "name": "כפר סירקין",
+    "englishName": "KEFAR SIRKIN",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 875,
+    "name": "כפר עבודה",
+    "englishName": "KEFAR AVODA",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 845,
+    "name": "כפר עזה",
+    "englishName": "KEFAR AZZA",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 3488,
+    "name": "כפר עציון",
+    "englishName": "KEFAR EZYON",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 189,
+    "name": "כפר פינס",
+    "englishName": "KEFAR PINES",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 634,
+    "name": "כפר קאסם",
+    "englishName": "KAFAR QASEM",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 388,
+    "name": "כפר קיש",
+    "englishName": "KEFAR KISH",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 654,
+    "name": "כפר קרע",
+    "englishName": "KAFAR QARA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 579,
+    "name": "כפר ראש הנקרה",
+    "englishName": "KEFAR ROSH HANIQRA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1130,
+    "name": "כפר רוזנואלד )זרעית(",
+    "englishName": "KEFAR ROZENWALD(ZAR.",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 295,
+    "name": "כפר רופין",
+    "englishName": "KEFAR RUPPIN",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 1166,
+    "name": "כפר רות",
+    "englishName": "KEFAR RUT",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 605,
+    "name": "כפר שמאי",
+    "englishName": "KEFAR SHAMMAY",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 743,
+    "name": "כפר שמואל",
+    "englishName": "KEFAR SHEMU'EL",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 267,
+    "name": "כפר שמריהו",
+    "englishName": "KEFAR SHEMARYAHU",
+    "district": "תל אביב",
+    "council": ""
+  },
+  {
+    "code": 47,
+    "name": "כפר תבור",
+    "englishName": "KEFAR TAVOR",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 3572,
+    "name": "כפר תפוח",
+    "englishName": "KEFAR TAPPUAH",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 38,
+    "name": "כרי דשא",
+    "englishName": "KARE DESHE",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1285,
+    "name": "כרכום",
+    "englishName": "KARKOM",
+    "district": "כנרת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 664,
+    "name": "כרם בן זמרה",
+    "englishName": "KEREM BEN ZIMRA",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 88,
+    "name": "כרם בן שמן",
+    "englishName": "KEREM BEN SHEMEN",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1094,
+    "name": "כרם יבנה )ישיבה(",
+    "englishName": "KEREM YAVNE(YESHIVA)",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 580,
+    "name": "כרם מהר\"ל",
+    "englishName": "KEREM MAHARAL",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 1085,
+    "name": "כרם שלום",
+    "englishName": "KEREM SHALOM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1264,
+    "name": "כרמי יוסף",
+    "englishName": "KARME YOSEF",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 3766,
+    "name": "כרמי צור",
+    "englishName": "KARME ZUR",
+    "district": "חברון",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 1374,
+    "name": "כרמי קטיף",
+    "englishName": "KARME QATIF",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 1139,
+    "name": "כרמיאל",
+    "englishName": "KARMI'EL",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 768,
+    "name": "כרמיה",
+    "englishName": "KARMIYYA",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1198,
+    "name": "כרמים",
+    "englishName": "KERAMIM",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 3656,
+    "name": "כרמל",
+    "englishName": "KARMEL",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 0,
+    "name": "לא רשום",
+    "englishName": "",
+    "district": "לא ידוע",
+    "council": ""
+  },
+  {
+    "code": 1207,
+    "name": "לבון",
+    "englishName": "LAVON",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 585,
+    "name": "לביא",
+    "englishName": "LAVI",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 1230,
+    "name": "לבנים",
+    "englishName": "LIVNIM",
+    "district": "כנרת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 2023,
+    "name": "להב",
+    "englishName": "LAHAV",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 380,
+    "name": "להבות הבשן",
+    "englishName": "LAHAVOT HABASHAN",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 715,
+    "name": "להבות חביבה",
+    "englishName": "LAHAVOT HAVIVA",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 1271,
+    "name": "להבים",
+    "englishName": "LEHAVIM",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 7000,
+    "name": "לוד",
+    "englishName": "LOD",
+    "district": "רמלה",
+    "council": ""
+  },
+  {
+    "code": 52,
+    "name": "לוזית",
+    "englishName": "LUZIT",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 595,
+    "name": "לוחמי הגיטאות",
+    "englishName": "LOHAME HAGETA'OT",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1171,
+    "name": "לוטם",
+    "englishName": "LOTEM",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1255,
+    "name": "לוטן",
+    "englishName": "LOTAN",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 674,
+    "name": "לימן",
+    "englishName": "LIMAN",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 24,
+    "name": "לכיש",
+    "englishName": "LAKHISH",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 1310,
+    "name": "לפיד",
+    "englishName": "LAPPID",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1173,
+    "name": "לפידות",
+    "englishName": "LAPPIDOT",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1060,
+    "name": "לקיה",
+    "englishName": "LAQYE",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 2055,
+    "name": "מאור",
+    "englishName": "MA'OR",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 102,
+    "name": "מאיר שפיה",
+    "englishName": "ME'IR SHEFEYA",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 771,
+    "name": "מבוא ביתר",
+    "englishName": "MEVO BETAR",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 3569,
+    "name": "מבוא דותן",
+    "englishName": "MEVO DOTAN",
+    "district": "ג'נין",
+    "council": "שומרון"
+  },
+  {
+    "code": 3709,
+    "name": "מבוא חורון",
+    "englishName": "MEVO HORON",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 4204,
+    "name": "מבוא חמה",
+    "englishName": "MEVO HAMMA",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1141,
+    "name": "מבוא מודיעים",
+    "englishName": "MEVO MODI'IM",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1318,
+    "name": "מבואות ים",
+    "englishName": "MEVO'OT YAM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1080,
+    "name": "מבועים",
+    "englishName": "MABBU'IM",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 829,
+    "name": "מבטחים",
+    "englishName": "MIVTAHIM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 573,
+    "name": "מבקיעים",
+    "englishName": "MAVQI'IM",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1015,
+    "name": "מבשרת ציון",
+    "englishName": "MEVASSERET ZIYYON",
+    "district": "ירושלים",
+    "council": ""
+  },
+  {
+    "code": 516,
+    "name": "מג'ד אל-כרום",
+    "englishName": "MAJD AL-KURUM",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 4201,
+    "name": "מג'דל שמס",
+    "englishName": "MAJDAL SHAMS",
+    "district": "גולן",
+    "council": ""
+  },
+  {
+    "code": 481,
+    "name": "מגאר",
+    "englishName": "MUGHAR",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 689,
+    "name": "מגדים",
+    "englishName": "MEGADIM",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 65,
+    "name": "מגדל",
+    "englishName": "MIGDAL",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 874,
+    "name": "מגדל העמק",
+    "englishName": "MIGDAL HAEMEQ",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 3561,
+    "name": "מגדל עוז",
+    "englishName": "MIGDAL OZ",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 3751,
+    "name": "מגדלים",
+    "englishName": "MIGDALIM",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 586,
+    "name": "מגידו",
+    "englishName": "MEGIDDO",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 375,
+    "name": "מגל",
+    "englishName": "MAGGAL",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 695,
+    "name": "מגן",
+    "englishName": "MAGEN",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1155,
+    "name": "מגן שאול",
+    "englishName": "MAGEN SHA'UL",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 722,
+    "name": "מגשימים",
+    "englishName": "MAGSHIMIM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 2029,
+    "name": "מדרך עוז",
+    "englishName": "MIDRAKH OZ",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 1140,
+    "name": "מדרשת בן גוריון",
+    "englishName": "MIDRESHET BEN GURION",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 897,
+    "name": "מדרשת רופין",
+    "englishName": "MIDRESHET RUPPIN",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 3797,
+    "name": "מודיעין עילית",
+    "englishName": "MODI'IN ILLIT",
+    "district": "ראמאללה",
+    "council": ""
+  },
+  {
+    "code": 1200,
+    "name": "מודיעין-מכבים-רעות",
+    "englishName": "MODI'IN-MAKKABBIM-RE",
+    "district": "רמלה",
+    "council": ""
+  },
+  {
+    "code": 269,
+    "name": "מולדת",
+    "englishName": "MOLEDET",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 208,
+    "name": "מוצא עילית",
+    "englishName": "MOZA ILLIT",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 635,
+    "name": "מוקייבלה",
+    "englishName": "MUQEIBLE",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 1163,
+    "name": "מורן",
+    "englishName": "MORAN",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1178,
+    "name": "מורשת",
+    "englishName": "MORESHET",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 606,
+    "name": "מזור",
+    "englishName": "MAZOR",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 28,
+    "name": "מזכרת בתיה",
+    "englishName": "MAZKERET BATYA",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 104,
+    "name": "מזרע",
+    "englishName": "MIZRA",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 517,
+    "name": "מזרעה",
+    "englishName": "MAZRA'A",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 3599,
+    "name": "מחולה",
+    "englishName": "MEHOLA",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 1411,
+    "name": "מחנה הילה",
+    "englishName": "MAHANE HILLA",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 1418,
+    "name": "מחנה טלי",
+    "englishName": "MAHANE TALI",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 1413,
+    "name": "מחנה יהודית",
+    "englishName": "MAHANE YEHUDIT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 1416,
+    "name": "מחנה יוכבד",
+    "englishName": "MAHANE YOKHVED",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 1415,
+    "name": "מחנה יפה",
+    "englishName": "MAHANE YAFA",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 1196,
+    "name": "מחנה יתיר",
+    "englishName": "MAHANE YATTIR",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1414,
+    "name": "מחנה מרים",
+    "englishName": "MAHANE MIRYAM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 1412,
+    "name": "מחנה תל נוף",
+    "englishName": "MAHANE TEL NOF",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 308,
+    "name": "מחניים",
+    "englishName": "MAHANAYIM",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 776,
+    "name": "מחסיה",
+    "englishName": "MAHSEYA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 43,
+    "name": "מטולה",
+    "englishName": "METULA",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 822,
+    "name": "מטע",
+    "englishName": "MATTA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1128,
+    "name": "מי עמי",
+    "englishName": "ME AMMI",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 2054,
+    "name": "מיטב",
+    "englishName": "METAV",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 649,
+    "name": "מייסר",
+    "englishName": "MEISER",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 4019,
+    "name": "מיצר",
+    "englishName": "MEZAR",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1282,
+    "name": "מירב",
+    "englishName": "MERAV",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 607,
+    "name": "מירון",
+    "englishName": "MERON",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 731,
+    "name": "מישר",
+    "englishName": "MESHAR",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 1268,
+    "name": "מיתר",
+    "englishName": "METAR",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 3614,
+    "name": "מכורה",
+    "englishName": "MEKHORA",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 1343,
+    "name": "מכחול",
+    "englishName": "MAKCHUL",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 382,
+    "name": "מכמורת",
+    "englishName": "MIKHMORET",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1202,
+    "name": "מכמנים",
+    "englishName": "MIKHMANNIM",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 164,
+    "name": "מלאה",
+    "englishName": "MELE'A",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 2044,
+    "name": "מלילות",
+    "englishName": "MELILOT",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 596,
+    "name": "מלכיה",
+    "englishName": "MALKIYYA",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 1154,
+    "name": "מלכישוע",
+    "englishName": "MALKISHUA",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 2030,
+    "name": "מנוחה",
+    "englishName": "MENUHA",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 1174,
+    "name": "מנוף",
+    "englishName": "MANOF",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1205,
+    "name": "מנות",
+    "englishName": "MANOT",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 48,
+    "name": "מנחמיה",
+    "englishName": "MENAHEMYA",
+    "district": "כנרת",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 347,
+    "name": "מנרה",
+    "englishName": "MENNARA",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 994,
+    "name": "מנשית זבדה",
+    "englishName": "MANSHIYYET ZABDA",
+    "district": "נצרת",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 1258,
+    "name": "מסד",
+    "englishName": "MASSAD",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 263,
+    "name": "מסדה",
+    "englishName": "MASSADA",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 298,
+    "name": "מסילות",
+    "englishName": "MESILLOT",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 742,
+    "name": "מסילת ציון",
+    "englishName": "MESILLAT ZIYYON",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 748,
+    "name": "מסלול",
+    "englishName": "MASLUL",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 4203,
+    "name": "מסעדה",
+    "englishName": "MAS'ADE",
+    "district": "גולן",
+    "council": ""
+  },
+  {
+    "code": 939,
+    "name": "מסעודין אל-עזאזמה",
+    "englishName": "MAS'UDIN AL-'AZAZME",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 197,
+    "name": "מעברות",
+    "englishName": "MA'BAROT",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1082,
+    "name": "מעגלים",
+    "englishName": "MA'GALIM",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 678,
+    "name": "מעגן",
+    "englishName": "MA'AGAN",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 694,
+    "name": "מעגן מיכאל",
+    "englishName": "MA'AGAN MIKHA'EL",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 272,
+    "name": "מעוז חיים",
+    "englishName": "MA'OZ HAYYIM",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 3657,
+    "name": "מעון",
+    "englishName": "MA'ON",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 570,
+    "name": "מעונה",
+    "englishName": "ME'ONA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 518,
+    "name": "מעיליא",
+    "englishName": "MI'ELYA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 416,
+    "name": "מעין ברוך",
+    "englishName": "MA'YAN BARUKH",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 290,
+    "name": "מעין צבי",
+    "englishName": "MA'YAN ZEVI",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 3616,
+    "name": "מעלה אדומים",
+    "englishName": "MA'ALE ADUMMIM",
+    "district": "בית לחם",
+    "council": ""
+  },
+  {
+    "code": 3608,
+    "name": "מעלה אפרים",
+    "englishName": "MA'ALE EFRAYIM",
+    "district": "ירדן )יריחו(",
+    "council": ""
+  },
+  {
+    "code": 1127,
+    "name": "מעלה גלבוע",
+    "englishName": "MA'ALE GILBOA",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 4008,
+    "name": "מעלה גמלא",
+    "englishName": "MA'ALE GAMLA",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 286,
+    "name": "מעלה החמישה",
+    "englishName": "MA'ALE HAHAMISHA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 3752,
+    "name": "מעלה לבונה",
+    "englishName": "MA'ALE LEVONA",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 3651,
+    "name": "מעלה מכמש",
+    "englishName": "MA'ALE MIKHMAS",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1327,
+    "name": "מעלה עירון",
+    "englishName": "MA'ALE IRON",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 3653,
+    "name": "מעלה עמוס",
+    "englishName": "MA'ALE AMOS",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 3637,
+    "name": "מעלה שומרון",
+    "englishName": "MA'ALE SHOMERON",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 1063,
+    "name": "מעלות-תרשיחא",
+    "englishName": "MA'ALOT-TARSHIHA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 344,
+    "name": "מענית",
+    "englishName": "MA'ANIT",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 230,
+    "name": "מעש",
+    "englishName": "MA'AS",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 668,
+    "name": "מפלסים",
+    "englishName": "MEFALLESIM",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 3745,
+    "name": "מצדות יהודה",
+    "englishName": "MEZADOT YEHUDA",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 325,
+    "name": "מצובה",
+    "englishName": "MAZZUVA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 757,
+    "name": "מצליח",
+    "englishName": "MAZLIAH",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 58,
+    "name": "מצפה",
+    "englishName": "MIZPA",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 1222,
+    "name": "מצפה אבי\"ב",
+    "englishName": "MIZPE AVIV",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1370,
+    "name": "מצפה אילן",
+    "englishName": "MITSPE ILAN",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 3576,
+    "name": "מצפה יריחו",
+    "englishName": "MIZPE YERIHO",
+    "district": "ירדן )יריחו(",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1190,
+    "name": "מצפה נטופה",
+    "englishName": "MIZPE NETOFA",
+    "district": "עפולה",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 99,
+    "name": "מצפה רמון",
+    "englishName": "MIZPE RAMON",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 3610,
+    "name": "מצפה שלם",
+    "englishName": "MIZPE SHALEM",
+    "district": "ירדן )יריחו(",
+    "council": "מגילות ים המלח"
+  },
+  {
+    "code": 648,
+    "name": "מצר",
+    "englishName": "MEZER",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 22,
+    "name": "מקווה ישראל",
+    "englishName": "MIQWE YISRA'EL",
+    "district": "חולון",
+    "council": ""
+  },
+  {
+    "code": 843,
+    "name": "מרגליות",
+    "englishName": "MARGALIYYOT",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 4101,
+    "name": "מרום גולן",
+    "englishName": "MEROM GOLAN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1340,
+    "name": "מרחב עם",
+    "englishName": "MERHAV AM",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 97,
+    "name": "מרחביה )מושב(",
+    "englishName": "MERHAVYA(MOSHAV)",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 66,
+    "name": "מרחביה )קיבוץ(",
+    "englishName": "MERHAVYA(QIBBUZ)",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 1098,
+    "name": "מרכז שפירא",
+    "englishName": "MERKAZ SHAPPIRA",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 421,
+    "name": "משאבי שדה",
+    "englishName": "MASH'ABBE SADE",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 765,
+    "name": "משגב דב",
+    "englishName": "MISGAV DOV",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 378,
+    "name": "משגב עם",
+    "englishName": "MISGAV AM",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 520,
+    "name": "משהד",
+    "englishName": "MESHHED",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 3605,
+    "name": "משואה",
+    "englishName": "MASSU'A",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 620,
+    "name": "משואות יצחק",
+    "englishName": "MASSUOT YIZHAQ",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 3785,
+    "name": "משכיות",
+    "englishName": "MASKIYYOT",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 670,
+    "name": "משמר איילון",
+    "englishName": "MISHMAR AYYALON",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 563,
+    "name": "משמר דוד",
+    "englishName": "MISHMAR DAWID",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 732,
+    "name": "משמר הירדן",
+    "englishName": "MISHMAR HAYARDEN",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 395,
+    "name": "משמר הנגב",
+    "englishName": "MISHMAR HANEGEV",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 130,
+    "name": "משמר העמק",
+    "englishName": "MISHMAR HAEMEQ",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 729,
+    "name": "משמר השבעה",
+    "englishName": "MISHMAR HASHIV'A",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 194,
+    "name": "משמר השרון",
+    "englishName": "MISHMAR HASHARON",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 213,
+    "name": "משמרות",
+    "englishName": "MISHMAROT",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 425,
+    "name": "משמרת",
+    "englishName": "MISHMERET",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 791,
+    "name": "משען",
+    "englishName": "MASH'EN",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1315,
+    "name": "מתן",
+    "englishName": "MATTAN",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 1184,
+    "name": "מתת",
+    "englishName": "MATTAT",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 3648,
+    "name": "מתתיהו",
+    "englishName": "MATTITYAHU",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 4551,
+    "name": "נאות גולן",
+    "englishName": "NE'OT GOLAN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1124,
+    "name": "נאות הכיכר",
+    "englishName": "NE'OT HAKIKKAR",
+    "district": "באר שבע",
+    "council": "תמר"
+  },
+  {
+    "code": 408,
+    "name": "נאות מרדכי",
+    "englishName": "NE'OT MORDEKHAY",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 1197,
+    "name": "נאות סמדר",
+    "englishName": "SHIZZAFON",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 524,
+    "name": "נאעורה",
+    "englishName": "NA'URA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 396,
+    "name": "נבטים",
+    "englishName": "NEVATIM",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 315,
+    "name": "נגבה",
+    "englishName": "NEGBA",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 3724,
+    "name": "נגוהות",
+    "englishName": "NEGOHOT",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 309,
+    "name": "נהורה",
+    "englishName": "NEHORA",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 80,
+    "name": "נהלל",
+    "englishName": "NAHALAL",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 9100,
+    "name": "נהריה",
+    "englishName": "NAHARIYYA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 4304,
+    "name": "נוב",
+    "englishName": "NOV",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 55,
+    "name": "נוגה",
+    "englishName": "NOGAH",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 3573,
+    "name": "נוה צוף",
+    "englishName": "NEVE TSUF",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1366,
+    "name": "נווה",
+    "englishName": "NAVE",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 926,
+    "name": "נווה אבות",
+    "englishName": "NEWE AVOT",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 590,
+    "name": "נווה אור",
+    "englishName": "NEWE UR",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 4303,
+    "name": "נווה אטי\"ב",
+    "englishName": "NEWE ATIV",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 405,
+    "name": "נווה אילן",
+    "englishName": "NEWE ILAN",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 296,
+    "name": "נווה איתן",
+    "englishName": "NEWE ETAN",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 3725,
+    "name": "נווה דניאל",
+    "englishName": "NEWE DANIYYEL",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 1057,
+    "name": "נווה זוהר",
+    "englishName": "NEWE ZOHAR",
+    "district": "באר שבע",
+    "council": "תמר"
+  },
+  {
+    "code": 1314,
+    "name": "נווה זיו",
+    "englishName": "NEWE ZIV",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1279,
+    "name": "נווה חריף",
+    "englishName": "NEWE HARIF",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 312,
+    "name": "נווה ים",
+    "englishName": "NEWE YAM",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 686,
+    "name": "נווה ימין",
+    "englishName": "NEWE YAMIN",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 858,
+    "name": "נווה ירק",
+    "englishName": "NEWE YARAQ",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 827,
+    "name": "נווה מבטח",
+    "englishName": "NEWE MIVTAH",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 1071,
+    "name": "נווה מיכאל",
+    "englishName": "NEWE MIKHA'EL",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1259,
+    "name": "נווה שלום",
+    "englishName": "NEWE SHALOM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 15,
+    "name": "נועם",
+    "englishName": "NO'AM",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 1333,
+    "name": "נוף איילון",
+    "englishName": "NOF AYYALON",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 1061,
+    "name": "נוף הגליל",
+    "englishName": "NOF HAGALIL",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 3790,
+    "name": "נופים",
+    "englishName": "NOFIM",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 1284,
+    "name": "נופית",
+    "englishName": "NOFIT",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 257,
+    "name": "נופך",
+    "englishName": "NOFEKH",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 3726,
+    "name": "נוקדים",
+    "englishName": "NOQEDIM",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 447,
+    "name": "נורדיה",
+    "englishName": "NORDIYYA",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 833,
+    "name": "נורית",
+    "englishName": "NURIT",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 59,
+    "name": "נחושה",
+    "englishName": "NEHUSHA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 844,
+    "name": "נחל עוז",
+    "englishName": "NAHAL OZ",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 2045,
+    "name": "נחלה",
+    "englishName": "NAHALA",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 3767,
+    "name": "נחליאל",
+    "englishName": "NAHALI'EL",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 449,
+    "name": "נחלים",
+    "englishName": "NEHALIM",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 809,
+    "name": "נחם",
+    "englishName": "NAHAM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 522,
+    "name": "נחף",
+    "englishName": "NAHEF",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 433,
+    "name": "נחשולים",
+    "englishName": "NAHSHOLIM",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 777,
+    "name": "נחשון",
+    "englishName": "NAHSHON",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 705,
+    "name": "נחשונים",
+    "englishName": "NAHSHONIM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 1147,
+    "name": "נטועה",
+    "englishName": "NETU'A",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 4014,
+    "name": "נטור",
+    "englishName": "NATUR",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1369,
+    "name": "נטע",
+    "englishName": "NETA",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 174,
+    "name": "נטעים",
+    "englishName": "NETA'IM",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 1254,
+    "name": "נטף",
+    "englishName": "NATAF",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 523,
+    "name": "ניין",
+    "englishName": "NEIN",
+    "district": "עפולה",
+    "council": "בוסתאן אל-מרג'"
+  },
+  {
+    "code": 3655,
+    "name": "ניל\"י",
+    "englishName": "NILI",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 351,
+    "name": "ניצן",
+    "englishName": "NIZZAN",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1419,
+    "name": "ניצן ב'",
+    "englishName": "NIZZAN B",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 1195,
+    "name": "ניצנה )קהילת חינוך(",
+    "englishName": "NIZZANA (QEHILAT HIN",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 1280,
+    "name": "ניצני סיני",
+    "englishName": "NIZZANE SINAY",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 851,
+    "name": "ניצני עוז",
+    "englishName": "NIZZANE OZ",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 359,
+    "name": "ניצנים",
+    "englishName": "NIZZANIM",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 808,
+    "name": "ניר אליהו",
+    "englishName": "NIR ELIYYAHU",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 553,
+    "name": "ניר בנים",
+    "englishName": "NIR BANIM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 720,
+    "name": "ניר גלים",
+    "englishName": "NIR GALLIM",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 256,
+    "name": "ניר דוד )תל עמל(",
+    "englishName": "NIR DAWID (TEL AMAL)",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 11,
+    "name": "ניר ח\"ן",
+    "englishName": "NIR HEN",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 165,
+    "name": "ניר יפה",
+    "englishName": "NIR YAFE",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 402,
+    "name": "ניר יצחק",
+    "englishName": "NIR YIZHAQ",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 699,
+    "name": "ניר ישראל",
+    "englishName": "NIR YISRA'EL",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 2047,
+    "name": "ניר משה",
+    "englishName": "NIR MOSHE",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 69,
+    "name": "ניר עוז",
+    "englishName": "NIR OZ",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 348,
+    "name": "ניר עם",
+    "englishName": "NIR AM",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 769,
+    "name": "ניר עציון",
+    "englishName": "NIR EZYON",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 2048,
+    "name": "ניר עקיבא",
+    "englishName": "NIR AQIVA",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 331,
+    "name": "ניר צבי",
+    "englishName": "NIR ZEVI",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 602,
+    "name": "נירים",
+    "englishName": "NIRIM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1236,
+    "name": "נירית",
+    "englishName": "NIRIT",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 4035,
+    "name": "נמרוד",
+    "englishName": "NIMROD",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 825,
+    "name": "נס הרים",
+    "englishName": "NES HARIM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1143,
+    "name": "נס עמים",
+    "englishName": "NES AMMIM",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 7200,
+    "name": "נס ציונה",
+    "englishName": "NES ZIYYONA",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 186,
+    "name": "נעורים",
+    "englishName": "NE'URIM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 3787,
+    "name": "נעלה",
+    "englishName": "NA'ALE",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 3713,
+    "name": "נעמ\"ה",
+    "englishName": "NAAMA",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 158,
+    "name": "נען",
+    "englishName": "NA'AN",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 3620,
+    "name": "נערן",
+    "englishName": "NA'ARAN",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 1041,
+    "name": "נצאצרה )שבט(",
+    "englishName": "NASASRA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1372,
+    "name": "נצר חזני",
+    "englishName": "NEZER HAZZANI",
+    "district": "רחובות",
+    "council": "נחל שורק"
+  },
+  {
+    "code": 435,
+    "name": "נצר סרני",
+    "englishName": "NEZER SERENI",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 7300,
+    "name": "נצרת",
+    "englishName": "NAZARETH",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 2500,
+    "name": "נשר",
+    "englishName": "NESHER",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 3555,
+    "name": "נתיב הגדוד",
+    "englishName": "NETIV HAGEDUD",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 693,
+    "name": "נתיב הל\"ה",
+    "englishName": "NETIV HALAMED-HE",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1242,
+    "name": "נתיב העשרה",
+    "englishName": "NETIV HAASARA",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 792,
+    "name": "נתיב השיירה",
+    "englishName": "NETIV HASHAYYARA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 246,
+    "name": "נתיבות",
+    "englishName": "NETIVOT",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 7400,
+    "name": "נתניה",
+    "englishName": "NETANYA",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 525,
+    "name": "סאג'ור",
+    "englishName": "SAJUR",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 578,
+    "name": "סאסא",
+    "englishName": "SASA",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 587,
+    "name": "סביון",
+    "englishName": "SAVYON",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 2046,
+    "name": "סגולה",
+    "englishName": "SEGULA",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 942,
+    "name": "סואעד )חמרייה(",
+    "englishName": "SAWA'ID(HAMRIYYE)",
+    "district": "עכו",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 989,
+    "name": "סואעד )כמאנה( )שבט(",
+    "englishName": "SAWA'ID (KAMANE)",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 526,
+    "name": "סולם",
+    "englishName": "SULAM",
+    "district": "עפולה",
+    "council": "בוסתאן אל-מרג'"
+  },
+  {
+    "code": 3756,
+    "name": "סוסיה",
+    "englishName": "SUSEYA",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 1238,
+    "name": "סופה",
+    "englishName": "SUFA",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 7500,
+    "name": "סח'נין",
+    "englishName": "SAKHNIN",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1170,
+    "name": "סייד )שבט(",
+    "englishName": "SAYYID",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1245,
+    "name": "סלמה",
+    "englishName": "SALLAMA",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 3567,
+    "name": "סלעית",
+    "englishName": "SAL'IT",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 1156,
+    "name": "סמר",
+    "englishName": "SAMAR",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 3777,
+    "name": "סנסנה",
+    "englishName": "",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 419,
+    "name": "סעד",
+    "englishName": "SA'AD",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 1360,
+    "name": "סעוה",
+    "englishName": "SA'WA",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 454,
+    "name": "סער",
+    "englishName": "SA'AR",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1176,
+    "name": "ספיר",
+    "englishName": "SAPPIR",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 610,
+    "name": "סתריה",
+    "englishName": "SITRIYYA",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 4501,
+    "name": "ע'ג'ר",
+    "englishName": "GHAJAR",
+    "district": "גולן",
+    "council": ""
+  },
+  {
+    "code": 892,
+    "name": "עבדון",
+    "englishName": "AVDON",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 376,
+    "name": "עברון",
+    "englishName": "EVRON",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 794,
+    "name": "עגור",
+    "englishName": "AGUR",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1199,
+    "name": "עדי",
+    "englishName": "ADI",
+    "district": "עכו",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 2035,
+    "name": "עדנים",
+    "englishName": "ADANIM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 826,
+    "name": "עוזה",
+    "englishName": "UZA",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 528,
+    "name": "עוזייר",
+    "englishName": "UZEIR",
+    "district": "נצרת",
+    "council": "אל-בטוף"
+  },
+  {
+    "code": 737,
+    "name": "עולש",
+    "englishName": "OLESH",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 666,
+    "name": "עומר",
+    "englishName": "OMER",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 810,
+    "name": "עופר",
+    "englishName": "OFER",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 3617,
+    "name": "עופרה",
+    "englishName": "OFRA",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 32,
+    "name": "עוצם",
+    "englishName": "OZEM",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 957,
+    "name": "עוקבי )בנו עוקבה(",
+    "englishName": "UQBI (BANU UQBA)",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 328,
+    "name": "עזוז",
+    "englishName": "EZUZ",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 1149,
+    "name": "עזר",
+    "englishName": "EZER",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 837,
+    "name": "עזריאל",
+    "englishName": "AZRI'EL",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 711,
+    "name": "עזריה",
+    "englishName": "AZARYA",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 817,
+    "name": "עזריקם",
+    "englishName": "AZRIQAM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 969,
+    "name": "עטאוונה )שבט(",
+    "englishName": "ATAWNE",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 3658,
+    "name": "עטרת",
+    "englishName": "ATERET",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1175,
+    "name": "עידן",
+    "englishName": "IDDAN",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 530,
+    "name": "עיילבון",
+    "englishName": "EILABUN",
+    "district": "כנרת",
+    "council": ""
+  },
+  {
+    "code": 156,
+    "name": "עיינות",
+    "englishName": "AYANOT",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 511,
+    "name": "עילוט",
+    "englishName": "ILUT",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 687,
+    "name": "עין איילה",
+    "englishName": "EN AYYALA",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 546,
+    "name": "עין אל-אסד",
+    "englishName": "EIN AL-ASAD",
+    "district": "עכו",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 273,
+    "name": "עין גב",
+    "englishName": "EN GEV",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 2042,
+    "name": "עין גדי",
+    "englishName": "EN GEDI",
+    "district": "באר שבע",
+    "council": "תמר"
+  },
+  {
+    "code": 436,
+    "name": "עין דור",
+    "englishName": "EN DOR",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 1240,
+    "name": "עין הבשור",
+    "englishName": "EN HABESOR",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 74,
+    "name": "עין הוד",
+    "englishName": "EN HOD",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 167,
+    "name": "עין החורש",
+    "englishName": "EN HAHORESH",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 289,
+    "name": "עין המפרץ",
+    "englishName": "EN HAMIFRAZ",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 383,
+    "name": "עין הנצי\"ב",
+    "englishName": "EN HANAZIV",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 367,
+    "name": "עין העמק",
+    "englishName": "EN HAEMEQ",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 270,
+    "name": "עין השופט",
+    "englishName": "EN HASHOFET",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 676,
+    "name": "עין השלושה",
+    "englishName": "EN HASHELOSHA",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 157,
+    "name": "עין ורד",
+    "englishName": "EN WERED",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 4503,
+    "name": "עין זיוון",
+    "englishName": "EN ZIWAN",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1320,
+    "name": "עין חוד",
+    "englishName": "EIN HOD",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 1053,
+    "name": "עין חצבה",
+    "englishName": "EN HAZEVA",
+    "district": "באר שבע",
+    "council": "תמר"
+  },
+  {
+    "code": 89,
+    "name": "עין חרוד )איחוד(",
+    "englishName": "EN HAROD (IHUD)",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 82,
+    "name": "עין חרוד )מאוחד(",
+    "englishName": "EN HAROD(ME'UHAD)",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 806,
+    "name": "עין יהב",
+    "englishName": "EN YAHAV",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 813,
+    "name": "עין יעקב",
+    "englishName": "EN YA'AQOV",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1056,
+    "name": "עין כרם-בי\"ס חקלאי",
+    "englishName": "EN KAREM-B.S.HAQLA'I",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 426,
+    "name": "עין כרמל",
+    "englishName": "EN KARMEL",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 532,
+    "name": "עין מאהל",
+    "englishName": "EIN MAHEL",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 521,
+    "name": "עין נקובא",
+    "englishName": "EIN NAQQUBA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 223,
+    "name": "עין עירון",
+    "englishName": "EN IRON",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 622,
+    "name": "עין צורים",
+    "englishName": "EN ZURIM",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 4502,
+    "name": "עין קנייא",
+    "englishName": "EIN QINIYYE",
+    "district": "גולן",
+    "council": ""
+  },
+  {
+    "code": 514,
+    "name": "עין ראפה",
+    "englishName": "EIN RAFA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 139,
+    "name": "עין שמר",
+    "englishName": "EN SHEMER",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 880,
+    "name": "עין שריד",
+    "englishName": "EN SARID",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 1251,
+    "name": "עין תמר",
+    "englishName": "EN TAMAR",
+    "district": "באר שבע",
+    "council": "תמר"
+  },
+  {
+    "code": 871,
+    "name": "עינת",
+    "englishName": "ENAT",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 1187,
+    "name": "עיר אובות",
+    "englishName": "IR OVOT",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 7600,
+    "name": "עכו",
+    "englishName": "AKKO",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1146,
+    "name": "עלומים",
+    "englishName": "ALUMIM",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 3765,
+    "name": "עלי",
+    "englishName": "ELI",
+    "district": "שכם",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 3727,
+    "name": "עלי זהב",
+    "englishName": "ALE ZAHAV",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 688,
+    "name": "עלמה",
+    "englishName": "ALMA",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 3715,
+    "name": "עלמון",
+    "englishName": "ALMON",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1212,
+    "name": "עמוקה",
+    "englishName": "AMUQQA",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 3824,
+    "name": "עמיחי",
+    "englishName": "AMMIHAY",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 779,
+    "name": "עמינדב",
+    "englishName": "AMMINADAV",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 385,
+    "name": "עמיעד",
+    "englishName": "AMMI'AD",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 318,
+    "name": "עמיעוז",
+    "englishName": "AMMI'OZ",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 773,
+    "name": "עמיקם",
+    "englishName": "AMMIQAM",
+    "district": "חדרה",
+    "council": "אלונה"
+  },
+  {
+    "code": 319,
+    "name": "עמיר",
+    "englishName": "AMIR",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 3660,
+    "name": "עמנואל",
+    "englishName": "IMMANU'EL",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 708,
+    "name": "עמקה",
+    "englishName": "AMQA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 3712,
+    "name": "ענב",
+    "englishName": "ENAV",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 534,
+    "name": "עספיא",
+    "englishName": "ISIFYA",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 7700,
+    "name": "עפולה",
+    "englishName": "AFULA",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 3778,
+    "name": "עץ אפרים",
+    "englishName": "EZ EFRAYIM",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 917,
+    "name": "עצמון שגב",
+    "englishName": "ATSMON-SEGEV",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 531,
+    "name": "עראבה",
+    "englishName": "ARRABE",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1246,
+    "name": "עראמשה",
+    "englishName": "ARAMSHA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1335,
+    "name": "ערב אל נעים",
+    "englishName": "ARRAB AL NAIM",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 2560,
+    "name": "ערד",
+    "englishName": "ARAD",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 593,
+    "name": "ערוגות",
+    "englishName": "ARUGOT",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 637,
+    "name": "ערערה",
+    "englishName": "AR'ARA",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 1192,
+    "name": "ערערה-בנגב",
+    "englishName": "AR'ARA-BANEGEV",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 591,
+    "name": "עשרת",
+    "englishName": "ASERET",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 53,
+    "name": "עתלית",
+    "englishName": "ATLIT",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 3748,
+    "name": "עתניאל",
+    "englishName": "OTNI'EL",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 1151,
+    "name": "פארן",
+    "englishName": "PARAN",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 3768,
+    "name": "פדואל",
+    "englishName": "PEDU'EL",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 750,
+    "name": "פדויים",
+    "englishName": "PEDUYIM",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 838,
+    "name": "פדיה",
+    "englishName": "PEDAYA",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 1104,
+    "name": "פוריה - כפר עבודה",
+    "englishName": "PORIYYA-KEFAR AVODA",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1105,
+    "name": "פוריה - נווה עובד",
+    "englishName": "PORIYYA-NEWE OVED",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1313,
+    "name": "פוריה עילית",
+    "englishName": "PORIYYA ILLIT",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 537,
+    "name": "פוריידיס",
+    "englishName": "FUREIDIS",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 767,
+    "name": "פורת",
+    "englishName": "PORAT",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 749,
+    "name": "פטיש",
+    "englishName": "PATTISH",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 1185,
+    "name": "פלך",
+    "englishName": "PELEKH",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 597,
+    "name": "פלמחים",
+    "englishName": "PALMAHIM",
+    "district": "רחובות",
+    "council": "גן רווה"
+  },
+  {
+    "code": 3723,
+    "name": "פני חבר",
+    "englishName": "PENE HEVER",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 3659,
+    "name": "פסגות",
+    "englishName": "PESAGOT",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 535,
+    "name": "פסוטה",
+    "englishName": "FASSUTA",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 2059,
+    "name": "פעמי תש\"ז",
+    "englishName": "PA'AME TASHAZ",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 3615,
+    "name": "פצאל",
+    "englishName": "PEZA'EL",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 536,
+    "name": "פקיעין )בוקייעה(",
+    "englishName": "PEQI'IN (BUQEI'A)",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 281,
+    "name": "פקיעין חדשה",
+    "englishName": "PEQI'IN HADASHA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 7800,
+    "name": "פרדס חנה-כרכור",
+    "englishName": "PARDES HANNA-KARKUR",
+    "district": "חדרה",
+    "council": ""
+  },
+  {
+    "code": 171,
+    "name": "פרדסיה",
+    "englishName": "PARDESIYYA",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 599,
+    "name": "פרוד",
+    "englishName": "PAROD",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 2053,
+    "name": "פרזון",
+    "englishName": "PERAZON",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 1231,
+    "name": "פרי גן",
+    "englishName": "PERI GAN",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 7900,
+    "name": "פתח תקווה",
+    "englishName": "PETAH TIQWA",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 839,
+    "name": "פתחיה",
+    "englishName": "PETAHYA",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 413,
+    "name": "צאלים",
+    "englishName": "ZE'ELIM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1180,
+    "name": "צביה",
+    "englishName": "ZVIYYA",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1213,
+    "name": "צבעון",
+    "englishName": "ZIV'ON",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 465,
+    "name": "צובה",
+    "englishName": "ZOVA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1136,
+    "name": "צוחר",
+    "englishName": "ZOHAR",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 1111,
+    "name": "צופיה",
+    "englishName": "ZOFIYYA",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 3791,
+    "name": "צופים",
+    "englishName": "ZUFIN",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 198,
+    "name": "צופית",
+    "englishName": "ZOFIT",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 1150,
+    "name": "צופר",
+    "englishName": "ZOFAR",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 1102,
+    "name": "צוקי ים",
+    "englishName": "SHOSHANNAT HAAMAQIM(",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 1262,
+    "name": "צוקים",
+    "englishName": "MAHANE BILDAD",
+    "district": "באר שבע",
+    "council": "הערבה התיכונה"
+  },
+  {
+    "code": 1113,
+    "name": "צור הדסה",
+    "englishName": "ZUR HADASSA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1345,
+    "name": "צור יצחק",
+    "englishName": "ZUR YIZHAQ",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 276,
+    "name": "צור משה",
+    "englishName": "ZUR MOSHE",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 1148,
+    "name": "צור נתן",
+    "englishName": "ZUR NATAN",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 774,
+    "name": "צוריאל",
+    "englishName": "ZURI'EL",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1221,
+    "name": "צורית",
+    "englishName": "ZURIT",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 613,
+    "name": "ציפורי",
+    "englishName": "ZIPPORI",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 796,
+    "name": "צלפון",
+    "englishName": "ZELAFON",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 636,
+    "name": "צנדלה",
+    "englishName": "SANDALA",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 594,
+    "name": "צפריה",
+    "englishName": "ZAFRIYYA",
+    "district": "רמלה",
+    "council": "שדות דן"
+  },
+  {
+    "code": 1079,
+    "name": "צפרירים",
+    "englishName": "ZAFRIRIM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 8000,
+    "name": "צפת",
+    "englishName": "ZEFAT",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 612,
+    "name": "צרופה",
+    "englishName": "ZERUFA",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 567,
+    "name": "צרעה",
+    "englishName": "ZOR'A",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1234,
+    "name": "קבועה )שבט(",
+    "englishName": "QABBO'A",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 334,
+    "name": "קבוצת יבנה",
+    "englishName": "QEVUZAT YAVNE",
+    "district": "רחובות",
+    "council": "חבל יבנה"
+  },
+  {
+    "code": 3557,
+    "name": "קדומים",
+    "englishName": "QEDUMIM",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 195,
+    "name": "קדימה-צורן",
+    "englishName": "QADIMA-ZORAN",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 392,
+    "name": "קדמה",
+    "englishName": "QEDMA",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 4025,
+    "name": "קדמת צבי",
+    "englishName": "QIDMAT ZEVI",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 3781,
+    "name": "קדר",
+    "englishName": "QEDAR",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 615,
+    "name": "קדרון",
+    "englishName": "QIDRON",
+    "district": "רחובות",
+    "council": "ברנר"
+  },
+  {
+    "code": 1211,
+    "name": "קדרים",
+    "englishName": "QADDARIM",
+    "district": "כנרת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 964,
+    "name": "קודייראת א-צאנע)שבט(",
+    "englishName": "QUDEIRAT AS-SANI",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 972,
+    "name": "קוואעין )שבט(",
+    "englishName": "QAWA'IN",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 766,
+    "name": "קוממיות",
+    "englishName": "QOMEMIYYUT",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 1179,
+    "name": "קורנית",
+    "englishName": "QORANIT",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 1052,
+    "name": "קטורה",
+    "englishName": "QETURA",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 1167,
+    "name": "קיסריה",
+    "englishName": "QESARIYYA",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 414,
+    "name": "קלחים",
+    "englishName": "QELAHIM",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 3601,
+    "name": "קליה",
+    "englishName": "QALYA",
+    "district": "ירדן )יריחו(",
+    "council": "מגילות ים המלח"
+  },
+  {
+    "code": 638,
+    "name": "קלנסווה",
+    "englishName": "QALANSAWE",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 4024,
+    "name": "קלע",
+    "englishName": "QELA",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 1243,
+    "name": "קציר",
+    "englishName": "QAZIR",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 1347,
+    "name": "קצר א-סר",
+    "englishName": "",
+    "district": "באר שבע",
+    "council": "נווה מדבר"
+  },
+  {
+    "code": 4100,
+    "name": "קצרין",
+    "englishName": "QAZRIN",
+    "district": "גולן",
+    "council": ""
+  },
+  {
+    "code": 2620,
+    "name": "קרית אונו",
+    "englishName": "QIRYAT ONO",
+    "district": "רמת גן",
+    "council": ""
+  },
+  {
+    "code": 3611,
+    "name": "קרית ארבע",
+    "englishName": "QIRYAT ARBA",
+    "district": "חברון",
+    "council": ""
+  },
+  {
+    "code": 6800,
+    "name": "קרית אתא",
+    "englishName": "QIRYAT ATTA",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 9500,
+    "name": "קרית ביאליק",
+    "englishName": "QIRYAT BIALIK",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 2630,
+    "name": "קרית גת",
+    "englishName": "QIRYAT GAT",
+    "district": "אשקלון",
+    "council": ""
+  },
+  {
+    "code": 2300,
+    "name": "קרית טבעון",
+    "englishName": "QIRYAT TIV'ON",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 9600,
+    "name": "קרית ים",
+    "englishName": "QIRYAT YAM",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 1137,
+    "name": "קרית יערים",
+    "englishName": "QIRYAT YE'ARIM",
+    "district": "ירושלים",
+    "council": ""
+  },
+  {
+    "code": 2039,
+    "name": "קרית יערים)מוסד(",
+    "englishName": "QIRYAT YE'ARIM(INSTI",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 8200,
+    "name": "קרית מוצקין",
+    "englishName": "QIRYAT MOTZKIN",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 1034,
+    "name": "קרית מלאכי",
+    "englishName": "QIRYAT MAL'AKHI",
+    "district": "אשקלון",
+    "council": ""
+  },
+  {
+    "code": 3746,
+    "name": "קרית נטפים",
+    "englishName": "QIRYAT NETAFIM",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 78,
+    "name": "קרית ענבים",
+    "englishName": "QIRYAT ANAVIM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 469,
+    "name": "קרית עקרון",
+    "englishName": "QIRYAT EQRON",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 412,
+    "name": "קרית שלמה",
+    "englishName": "QIRYAT SHELOMO",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 2800,
+    "name": "קרית שמונה",
+    "englishName": "QIRYAT SHEMONA",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 3640,
+    "name": "קרני שומרון",
+    "englishName": "QARNE SHOMERON",
+    "district": "טול כרם",
+    "council": ""
+  },
+  {
+    "code": 4006,
+    "name": "קשת",
+    "englishName": "QESHET",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 543,
+    "name": "ראמה",
+    "englishName": "RAME",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1334,
+    "name": "ראס אל-עין",
+    "englishName": "RAS AL-EIN",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 990,
+    "name": "ראס עלי",
+    "englishName": "RAS ALI",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 2640,
+    "name": "ראש העין",
+    "englishName": "ROSH HAAYIN",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 26,
+    "name": "ראש פינה",
+    "englishName": "ROSH PINNA",
+    "district": "צפת",
+    "council": ""
+  },
+  {
+    "code": 3602,
+    "name": "ראש צורים",
+    "englishName": "ROSH ZURIM",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 8300,
+    "name": "ראשון לציון",
+    "englishName": "RISHON LEZIYYON",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 3795,
+    "name": "רבבה",
+    "englishName": "REVAVA",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 564,
+    "name": "רבדים",
+    "englishName": "REVADIM",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 354,
+    "name": "רביבים",
+    "englishName": "REVIVIM",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 1225,
+    "name": "רביד",
+    "englishName": "RAVID",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 390,
+    "name": "רגבה",
+    "englishName": "REGBA",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 444,
+    "name": "רגבים",
+    "englishName": "REGAVIM",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 1161,
+    "name": "רהט",
+    "englishName": "RAHAT",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 2051,
+    "name": "רווחה",
+    "englishName": "REWAHA",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 2016,
+    "name": "רוויה",
+    "englishName": "REWAYA",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 1341,
+    "name": "רוח מדבר",
+    "englishName": "RUAH MIDBAR",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 362,
+    "name": "רוחמה",
+    "englishName": "RUHAMA",
+    "district": "אשקלון",
+    "council": "שער הנגב"
+  },
+  {
+    "code": 539,
+    "name": "רומאנה",
+    "englishName": "RUMMANE",
+    "district": "נצרת",
+    "council": "אל-בטוף"
+  },
+  {
+    "code": 997,
+    "name": "רומת הייב",
+    "englishName": "RUMAT HEIB",
+    "district": "נצרת",
+    "council": "אל-בטוף"
+  },
+  {
+    "code": 3619,
+    "name": "רועי",
+    "englishName": "RO'I",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 3782,
+    "name": "רותם",
+    "englishName": "ROTEM",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 854,
+    "name": "רחוב",
+    "englishName": "REHOV",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 8400,
+    "name": "רחובות",
+    "englishName": "REHOVOT",
+    "district": "רחובות",
+    "council": ""
+  },
+  {
+    "code": 3822,
+    "name": "רחלים",
+    "englishName": "REHELIM",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 540,
+    "name": "ריחאניה",
+    "englishName": "REIHANIYYE",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 3568,
+    "name": "ריחן",
+    "englishName": "REHAN",
+    "district": "ג'נין",
+    "council": "שומרון"
+  },
+  {
+    "code": 542,
+    "name": "ריינה",
+    "englishName": "REINE",
+    "district": "נצרת",
+    "council": ""
+  },
+  {
+    "code": 3565,
+    "name": "רימונים",
+    "englishName": "RIMMONIM",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 616,
+    "name": "רינתיה",
+    "englishName": "RINNATYA",
+    "district": "פתח תקווה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 922,
+    "name": "רכסים",
+    "englishName": "REKHASIM",
+    "district": "חיפה",
+    "council": ""
+  },
+  {
+    "code": 1069,
+    "name": "רם-און",
+    "englishName": "RAM-ON",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 4702,
+    "name": "רמות",
+    "englishName": "RAMOT",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 206,
+    "name": "רמות השבים",
+    "englishName": "RAMOT HASHAVIM",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 735,
+    "name": "רמות מאיר",
+    "englishName": "RAMOT ME'IR",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 445,
+    "name": "רמות מנשה",
+    "englishName": "RAMOT MENASHE",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 372,
+    "name": "רמות נפתלי",
+    "englishName": "RAMOT NAFTALI",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 8500,
+    "name": "רמלה",
+    "englishName": "RAMLA",
+    "district": "רמלה",
+    "council": ""
+  },
+  {
+    "code": 8600,
+    "name": "רמת גן",
+    "englishName": "RAMAT GAN",
+    "district": "רמת גן",
+    "council": ""
+  },
+  {
+    "code": 135,
+    "name": "רמת דוד",
+    "englishName": "RAMAT DAWID",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 184,
+    "name": "רמת הכובש",
+    "englishName": "RAMAT HAKOVESH",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 335,
+    "name": "רמת השופט",
+    "englishName": "RAMAT HASHOFET",
+    "district": "עפולה",
+    "council": "מגידו"
+  },
+  {
+    "code": 2650,
+    "name": "רמת השרון",
+    "englishName": "RAMAT HASHARON",
+    "district": "תל אביב",
+    "council": ""
+  },
+  {
+    "code": 178,
+    "name": "רמת יוחנן",
+    "englishName": "RAMAT YOHANAN",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 122,
+    "name": "רמת ישי",
+    "englishName": "RAMAT YISHAY",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 4701,
+    "name": "רמת מגשימים",
+    "englishName": "RAMAT MAGSHIMIM",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 339,
+    "name": "רמת צבי",
+    "englishName": "RAMAT ZEVI",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 460,
+    "name": "רמת רזיאל",
+    "englishName": "RAMAT RAZI'EL",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 127,
+    "name": "רמת רחל",
+    "englishName": "RAMAT RAHEL",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 789,
+    "name": "רנן",
+    "englishName": "RANNEN",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 713,
+    "name": "רעים",
+    "englishName": "RE'IM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 8700,
+    "name": "רעננה",
+    "englishName": "RA'ANANA",
+    "district": "פתח תקווה",
+    "council": ""
+  },
+  {
+    "code": 1228,
+    "name": "רקפת",
+    "englishName": "RAQEFET",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 247,
+    "name": "רשפון",
+    "englishName": "RISHPON",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 437,
+    "name": "רשפים",
+    "englishName": "RESHAFIM",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 1260,
+    "name": "רתמים",
+    "englishName": "RETAMIM",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 324,
+    "name": "שאר ישוב",
+    "englishName": "SHE'AR YASHUV",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 1377,
+    "name": "שבי דרום",
+    "englishName": "SHAVE DAROM",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 282,
+    "name": "שבי ציון",
+    "englishName": "SHAVE ZIYYON",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 3571,
+    "name": "שבי שומרון",
+    "englishName": "SHAVE SHOMERON",
+    "district": "שכם",
+    "council": "שומרון"
+  },
+  {
+    "code": 913,
+    "name": "שבלי - אום אל-גנם",
+    "englishName": "SHIBLI",
+    "district": "עפולה",
+    "council": ""
+  },
+  {
+    "code": 1286,
+    "name": "שגב-שלום",
+    "englishName": "SEGEV-SHALOM",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 721,
+    "name": "שדה אילן",
+    "englishName": "SEDE ILAN",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 304,
+    "name": "שדה אליהו",
+    "englishName": "SEDE ELIYYAHU",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 861,
+    "name": "שדה אליעזר",
+    "englishName": "SEDE ELI'EZER",
+    "district": "צפת",
+    "council": "מבואות החרמון"
+  },
+  {
+    "code": 885,
+    "name": "שדה בוקר",
+    "englishName": "SEDE BOQER",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 36,
+    "name": "שדה דוד",
+    "englishName": "SEDE DAWID",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 284,
+    "name": "שדה ורבורג",
+    "englishName": "SEDE WARBURG",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 293,
+    "name": "שדה יואב",
+    "englishName": "SEDE YO'AV",
+    "district": "אשקלון",
+    "council": "יואב"
+  },
+  {
+    "code": 142,
+    "name": "שדה יעקב",
+    "englishName": "SEDE YA'AQOV",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 2008,
+    "name": "שדה יצחק",
+    "englishName": "SEDE YIZHAQ",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 18,
+    "name": "שדה משה",
+    "englishName": "SEDE MOSHE",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 259,
+    "name": "שדה נחום",
+    "englishName": "SEDE NAHUM",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 329,
+    "name": "שדה נחמיה",
+    "englishName": "SEDE NEHEMYA",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 1058,
+    "name": "שדה ניצן",
+    "englishName": "SEDE NIZZAN",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 739,
+    "name": "שדה עוזיהו",
+    "englishName": "SEDE UZZIYYAHU",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 2049,
+    "name": "שדה צבי",
+    "englishName": "SEDE ZEVI",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 327,
+    "name": "שדות ים",
+    "englishName": "SEDOT YAM",
+    "district": "חדרה",
+    "council": "חוף הכרמל"
+  },
+  {
+    "code": 27,
+    "name": "שדות מיכה",
+    "englishName": "SEDOT MIKHA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1223,
+    "name": "שדי אברהם",
+    "englishName": "SEDE AVRAHAM",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 2015,
+    "name": "שדי חמד",
+    "englishName": "SEDE HEMED",
+    "district": "פתח תקווה",
+    "council": "דרום השרון"
+  },
+  {
+    "code": 2057,
+    "name": "שדי תרומות",
+    "englishName": "SEDE TERUMOT",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 555,
+    "name": "שדמה",
+    "englishName": "SHEDEMA",
+    "district": "רחובות",
+    "council": "גדרות"
+  },
+  {
+    "code": 306,
+    "name": "שדמות דבורה",
+    "englishName": "SHADMOT DEVORA",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 3578,
+    "name": "שדמות מחולה",
+    "englishName": "SHADMOT MEHOLA",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 1031,
+    "name": "שדרות",
+    "englishName": "SEDEROT",
+    "district": "אשקלון",
+    "council": ""
+  },
+  {
+    "code": 741,
+    "name": "שואבה",
+    "englishName": "SHO'EVA",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 761,
+    "name": "שובה",
+    "englishName": "SHUVA",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 394,
+    "name": "שובל",
+    "englishName": "SHOVAL",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 1304,
+    "name": "שוהם",
+    "englishName": "SHOHAM",
+    "district": "רמלה",
+    "council": ""
+  },
+  {
+    "code": 614,
+    "name": "שומרה",
+    "englishName": "SHOMERA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 1265,
+    "name": "שומריה",
+    "englishName": "SHOMERIYYA",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 415,
+    "name": "שוקדה",
+    "englishName": "SHOQEDA",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 456,
+    "name": "שורש",
+    "englishName": "SHORESH",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 1235,
+    "name": "שורשים",
+    "englishName": "SHORASHIM",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 224,
+    "name": "שושנת העמקים",
+    "englishName": "SHOSHANNAT HAAMAQIM",
+    "district": "השרון",
+    "council": "עמק חפר"
+  },
+  {
+    "code": 527,
+    "name": "שזור",
+    "englishName": "SHEZOR",
+    "district": "עכו",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 7,
+    "name": "שחר",
+    "englishName": "SHAHAR",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 1266,
+    "name": "שחרות",
+    "englishName": "SHAHARUT",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 865,
+    "name": "שיבולים",
+    "englishName": "SHIBBOLIM",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 1267,
+    "name": "שיטים",
+    "englishName": "NAHAL SHITTIM",
+    "district": "באר שבע",
+    "council": "חבל אילות"
+  },
+  {
+    "code": 658,
+    "name": "שייח' דנון",
+    "englishName": "SHEIKH DANNUN",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 3641,
+    "name": "שילה",
+    "englishName": "SHILO",
+    "district": "ראמאללה",
+    "council": "מטה בנימין"
+  },
+  {
+    "code": 1165,
+    "name": "שילת",
+    "englishName": "SHILAT",
+    "district": "רמלה",
+    "council": "חבל מודיעין"
+  },
+  {
+    "code": 1160,
+    "name": "שכניה",
+    "englishName": "SHEKHANYA",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 873,
+    "name": "שלווה",
+    "englishName": "SHALWA",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 1373,
+    "name": "שלווה במדבר",
+    "englishName": "SHALVA BAMIDBAR",
+    "district": "באר שבע",
+    "council": "רמת נגב"
+  },
+  {
+    "code": 439,
+    "name": "שלוחות",
+    "englishName": "SHELUHOT",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 812,
+    "name": "שלומי",
+    "englishName": "SHELOMI",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1364,
+    "name": "שלומית",
+    "englishName": "SHLOMIT",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 366,
+    "name": "שמיר",
+    "englishName": "SHAMIR",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 3784,
+    "name": "שמעה",
+    "englishName": "SHIM'A",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 432,
+    "name": "שמרת",
+    "englishName": "SHAMERAT",
+    "district": "עכו",
+    "council": "מטה אשר"
+  },
+  {
+    "code": 1337,
+    "name": "שמשית",
+    "englishName": "SHIMSHIT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 1287,
+    "name": "שני",
+    "englishName": "SHANI",
+    "district": "באר שבע",
+    "council": "הר חברון"
+  },
+  {
+    "code": 1132,
+    "name": "שניר",
+    "englishName": "SENIR",
+    "district": "צפת",
+    "council": "הגליל העליון"
+  },
+  {
+    "code": 538,
+    "name": "שעב",
+    "englishName": "SHA'AB",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 1299,
+    "name": "שעורים",
+    "englishName": "SE'ORIM",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 4009,
+    "name": "שעל",
+    "englishName": "SHA'AL",
+    "district": "גולן",
+    "council": "גולן"
+  },
+  {
+    "code": 856,
+    "name": "שעלבים",
+    "englishName": "SHA'ALVIM",
+    "district": "רמלה",
+    "council": "גזר"
+  },
+  {
+    "code": 661,
+    "name": "שער אפרים",
+    "englishName": "SHA'AR EFRAYIM",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 264,
+    "name": "שער הגולן",
+    "englishName": "SHA'AR HAGOLAN",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 237,
+    "name": "שער העמקים",
+    "englishName": "SHA'AR HAAMAQIM",
+    "district": "חיפה",
+    "council": "זבולון"
+  },
+  {
+    "code": 921,
+    "name": "שער מנשה",
+    "englishName": "SHA'AR MENASHE",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 3720,
+    "name": "שערי תקווה",
+    "englishName": "SHA'ARE TIQWA",
+    "district": "טול כרם",
+    "council": "שומרון"
+  },
+  {
+    "code": 232,
+    "name": "שפיים",
+    "englishName": "SHEFAYIM",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 692,
+    "name": "שפיר",
+    "englishName": "SHAFIR",
+    "district": "אשקלון",
+    "council": "שפיר"
+  },
+  {
+    "code": 846,
+    "name": "שפר",
+    "englishName": "SHEFER",
+    "district": "צפת",
+    "council": "מרום הגליל"
+  },
+  {
+    "code": 8800,
+    "name": "שפרעם",
+    "englishName": "SHEFAR'AM",
+    "district": "עכו",
+    "council": ""
+  },
+  {
+    "code": 3649,
+    "name": "שקד",
+    "englishName": "SHAQED",
+    "district": "ג'נין",
+    "council": "שומרון"
+  },
+  {
+    "code": 1233,
+    "name": "שקף",
+    "englishName": "SHEQEF",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 292,
+    "name": "שרונה",
+    "englishName": "SHARONA",
+    "district": "כנרת",
+    "council": "הגליל התחתון"
+  },
+  {
+    "code": 1114,
+    "name": "שריגים )לי-און(",
+    "englishName": "LI-ON",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 126,
+    "name": "שריד",
+    "englishName": "SARID",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 398,
+    "name": "שרשרת",
+    "englishName": "SHARSHERET",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 1045,
+    "name": "שתולה",
+    "englishName": "SHETULA",
+    "district": "עכו",
+    "council": "מעלה יוסף"
+  },
+  {
+    "code": 763,
+    "name": "שתולים",
+    "englishName": "SHETULIM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 2062,
+    "name": "תאשור",
+    "englishName": "TE'ASHUR",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 2061,
+    "name": "תדהר",
+    "englishName": "TIDHAR",
+    "district": "באר שבע",
+    "council": "בני שמעון"
+  },
+  {
+    "code": 1172,
+    "name": "תובל",
+    "englishName": "TUVAL",
+    "district": "עכו",
+    "council": "משגב"
+  },
+  {
+    "code": 3558,
+    "name": "תומר",
+    "englishName": "TOMER",
+    "district": "ירדן )יריחו(",
+    "council": "ערבות הירדן"
+  },
+  {
+    "code": 1083,
+    "name": "תושיה",
+    "englishName": "TUSHIYYA",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 163,
+    "name": "תימורים",
+    "englishName": "TIMMORIM",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 10,
+    "name": "תירוש",
+    "englishName": "TIROSH",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 5000,
+    "name": "תל אביב - יפו",
+    "englishName": "TEL AVIV - YAFO",
+    "district": "תל אביב",
+    "council": ""
+  },
+  {
+    "code": 84,
+    "name": "תל יוסף",
+    "englishName": "TEL YOSEF",
+    "district": "עפולה",
+    "council": "הגלבוע"
+  },
+  {
+    "code": 287,
+    "name": "תל יצחק",
+    "englishName": "TEL YIZHAQ",
+    "district": "השרון",
+    "council": "חוף השרון"
+  },
+  {
+    "code": 154,
+    "name": "תל מונד",
+    "englishName": "TEL MOND",
+    "district": "השרון",
+    "council": ""
+  },
+  {
+    "code": 103,
+    "name": "תל עדשים",
+    "englishName": "TEL ADASHIM",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 719,
+    "name": "תל קציר",
+    "englishName": "TEL QAZIR",
+    "district": "כנרת",
+    "council": "עמק הירדן"
+  },
+  {
+    "code": 1054,
+    "name": "תל שבע",
+    "englishName": "TEL SHEVA",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1283,
+    "name": "תל תאומים",
+    "englishName": "TEL TE'OMIM",
+    "district": "עפולה",
+    "council": "עמק המעיינות"
+  },
+  {
+    "code": 3719,
+    "name": "תלם",
+    "englishName": "TELEM",
+    "district": "חברון",
+    "council": "הר חברון"
+  },
+  {
+    "code": 1051,
+    "name": "תלמי אליהו",
+    "englishName": "TALME ELIYYAHU",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 2003,
+    "name": "תלמי אלעזר",
+    "englishName": "TALME EL'AZAR",
+    "district": "חדרה",
+    "council": "מנשה"
+  },
+  {
+    "code": 2050,
+    "name": "תלמי ביל\"ו",
+    "englishName": "TALME BILU",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 1237,
+    "name": "תלמי יוסף",
+    "englishName": "TALME YOSEF",
+    "district": "באר שבע",
+    "council": "אשכול"
+  },
+  {
+    "code": 727,
+    "name": "תלמי יחיאל",
+    "englishName": "TALME YEHI'EL",
+    "district": "אשקלון",
+    "council": "באר טוביה"
+  },
+  {
+    "code": 744,
+    "name": "תלמי יפה",
+    "englishName": "TALME YAFE",
+    "district": "אשקלון",
+    "council": "חוף אשקלון"
+  },
+  {
+    "code": 814,
+    "name": "תלמים",
+    "englishName": "TELAMIM",
+    "district": "אשקלון",
+    "council": "לכיש"
+  },
+  {
+    "code": 1244,
+    "name": "תמרת",
+    "englishName": "TIMRAT",
+    "district": "עפולה",
+    "council": "עמק יזרעאל"
+  },
+  {
+    "code": 2002,
+    "name": "תנובות",
+    "englishName": "TENUVOT",
+    "district": "השרון",
+    "council": "לב השרון"
+  },
+  {
+    "code": 752,
+    "name": "תעוז",
+    "englishName": "TA'OZ",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  },
+  {
+    "code": 709,
+    "name": "תפרח",
+    "englishName": "TIFRAH",
+    "district": "באר שבע",
+    "council": "מרחבים"
+  },
+  {
+    "code": 665,
+    "name": "תקומה",
+    "englishName": "TEQUMA",
+    "district": "באר שבע",
+    "council": "שדות נגב"
+  },
+  {
+    "code": 3563,
+    "name": "תקוע",
+    "englishName": "TEQOA",
+    "district": "בית לחם",
+    "council": "גוש עציון"
+  },
+  {
+    "code": 970,
+    "name": "תראבין א-צאנע )שבט(",
+    "englishName": "TARABIN AS-SANI",
+    "district": "באר שבע",
+    "council": ""
+  },
+  {
+    "code": 1346,
+    "name": "תראבין א-צאנע)ישוב(",
+    "englishName": "TARABIN AS-SANI",
+    "district": "באר שבע",
+    "council": "אל קסום"
+  },
+  {
+    "code": 778,
+    "name": "תרום",
+    "englishName": "TARUM",
+    "district": "ירושלים",
+    "council": "מטה יהודה"
+  }
+]

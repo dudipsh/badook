@@ -1,0 +1,31 @@
+{
+  "name": "@budapest/ai-core",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "jsonrepair": "^3.13.3"
+  },
+  "peerDependencies": {
+    "@google-cloud/vertexai": "^1.12.0",
+    "@google/generative-ai": "^0.24.1",
+    "openai": "^4.70.0",
+    "sharp": "^0.33.0"
+  },
+  "peerDependenciesMeta": {
+    "openai": { "optional": true }
+  },
+  "devDependencies": {
+    "@google-cloud/vertexai": "^1.12.0",
+    "@google/generative-ai": "^0.24.1",
+    "openai": "^4.70.0",
+    "sharp": "^0.33.0",
+    "typescript": "^5.6.0"
+  }
+}

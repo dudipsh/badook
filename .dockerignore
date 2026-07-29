@@ -1,0 +1,25 @@
+node_modules
+**/node_modules
+**/dist
+.git
+apps/web
+
+# Never bake secrets into an image layer
+.env*
+!.env.example
+!**/.env.example
+**/.env
+**/.env.*
+!**/.env*.example
+gcp-key.json
+*service-account*.json
+*credentials*.json
+*.pem
+*.key
+*.p12
+
+# Local-only artefacts
+debug-logs
+temp
+uploads
+coverage

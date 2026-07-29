@@ -1,0 +1,9 @@
+{
+  "id": "003-partial-delivery",
+  "name": "משלוח חלקי",
+  "description": "תעודת משלוח עם פחות פריטים מההזמנה",
+  "tags": ["partial", "delivery"],
+  "documents": [],
+  "hasMocks": false,
+  "createdAt": "2026-03-13"
+}

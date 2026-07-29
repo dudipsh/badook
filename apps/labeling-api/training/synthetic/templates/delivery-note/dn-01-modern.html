@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<style>
+{{FONT_FACE_CSS}}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'NotoHebrew', 'Noto Sans Hebrew', Arial, sans-serif;
+  font-size: 12px;
+  padding: 30px 40px;
+  width: 794px;
+  min-height: 1123px;
+  background: #fff;
+  color: #1a1a1a;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-bottom: 3px solid #1a5276;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+.supplier-info { flex: 1; }
+.supplier-info h1 { font-size: 22px; color: #1a5276; margin-bottom: 4px; }
+.supplier-info .detail { font-size: 11px; color: #555; line-height: 1.6; }
+.doc-title-box {
+  text-align: center;
+  background: #1a5276;
+  color: white;
+  padding: 8px 25px;
+  border-radius: 4px;
+}
+.doc-title-box h2 { font-size: 18px; margin-bottom: 2px; }
+.doc-title-box .doc-num { font-size: 14px; }
+.meta-section { display: flex; gap: 30px; margin-bottom: 18px; }
+.meta-box {
+  flex: 1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px 14px;
+}
+.meta-box h3 {
+  font-size: 12px;
+  color: #1a5276;
+  margin-bottom: 6px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 4px;
+}
+.meta-box .row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  line-height: 1.8;
+}
+.meta-box .label { color: #666; }
+table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+thead th {
+  background: #1a5276;
+  color: white;
+  padding: 7px 5px;
+  font-size: 11px;
+  font-weight: 700;
+  text-align: center;
+}
+tbody td {
+  padding: 6px 5px;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 11px;
+}
+tbody tr:nth-child(even) { background: #f7f9fc; }
+.totals-section {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-start;
+}
+.totals-box {
+  border: 1px solid #1a5276;
+  border-radius: 4px;
+  padding: 10px 20px;
+  min-width: 250px;
+}
+.totals-box .row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 2;
+}
+.totals-box .total-row {
+  font-weight: 700;
+  font-size: 14px;
+  border-top: 2px solid #1a5276;
+  padding-top: 4px;
+  margin-top: 4px;
+}
+.footer {
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+  font-size: 10px;
+  color: #888;
+  display: flex;
+  justify-content: space-between;
+}
+</style>
+</head>
+<body>
+  <div class="header">
+    <div class="supplier-info">
+      <h1>{{supplierName}}</h1>
+      <div class="detail">{{supplierAddress}}</div>
+      <div class="detail">טל: {{supplierPhone}} | ח.פ: {{supplierBusinessId}}</div>
+    </div>
+    <div class="doc-title-box">
+      <h2>תעודת משלוח</h2>
+      <div class="doc-num">מס' {{documentNumber}}</div>
+    </div>
+  </div>
+
+  <div class="meta-section">
+    <div class="meta-box">
+      <h3>פרטי לקוח</h3>
+      <div class="row"><span class="label">לכבוד:</span> <span>{{customerName}}</span></div>
+      <div class="row"><span class="label">כתובת אספקה:</span> <span>{{deliveryAddress}}</span></div>
+      <div class="row"><span class="label">פרויקט:</span> <span>{{projectName}}</span></div>
+    </div>
+    <div class="meta-box">
+      <h3>פרטי מסמך</h3>
+      <div class="row"><span class="label">תאריך:</span> <span>{{documentDate}}</span></div>
+      <div class="row"><span class="label">הזמנת רכש:</span> <span>{{poReference}}</span></div>
+      <div class="row"><span class="label">מס' הזמנה:</span> <span>{{orderReference}}</span></div>
+    </div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:30px">שורה</th>
+        <th style="width:75px">מק"ט</th>
+        <th>תיאור פריט</th>
+        <th style="width:55px">כמות</th>
+        <th style="width:45px">יח'</th>
+        <th style="width:70px">מחיר יח'</th>
+        <th style="width:45px">הנחה</th>
+        <th style="width:75px">סה"כ</th>
+        <th style="width:70px">הערות</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{LINE_ITEMS_ROWS}}
+    </tbody>
+  </table>
+
+  <div class="totals-section">
+    <div class="totals-box">
+      <div class="row"><span>סה"כ לפני מע"מ:</span> <span>₪{{subtotal}}</span></div>
+      <div class="row"><span>מע"מ (17%):</span> <span>₪{{vatAmount}}</span></div>
+      <div class="row total-row"><span>סה"כ לתשלום:</span> <span>₪{{totalAmount}}</span></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span>{{notes}}</span>
+    <span>חתימת מקבל: _______________</span>
+  </div>
+</body>
+</html>

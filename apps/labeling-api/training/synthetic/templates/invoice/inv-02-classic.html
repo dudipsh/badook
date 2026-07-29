@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<style>
+{{FONT_FACE_CSS}}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'NotoHebrew', 'Noto Sans Hebrew', Arial, sans-serif;
+  font-size: 10px;
+  padding: 15px 20px;
+  width: 794px;
+  min-height: 1123px;
+  background: #fff;
+  color: #000;
+}
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #000;
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+}
+.header-row h1 { font-size: 13px; }
+.header-row .doc-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.supplier-line {
+  font-size: 9px;
+  color: #333;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+.fields-block {
+  border: 1px solid #999;
+  padding: 4px 6px;
+  margin-bottom: 6px;
+  font-size: 9px;
+}
+.fields-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2px 12px;
+}
+.field-item {
+  line-height: 1.6;
+}
+.field-label {
+  font-weight: 700;
+  color: #333;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 6px;
+}
+th, td {
+  border: 1px solid #999;
+  padding: 2px 3px;
+  font-size: 9px;
+  text-align: center;
+}
+th {
+  background: #e0e0e0;
+  font-weight: 700;
+  font-size: 9px;
+}
+td.text-right { text-align: right; }
+.totals-block {
+  border: 1px solid #999;
+  padding: 4px 8px;
+  width: 250px;
+  font-size: 9px;
+}
+.totals-line {
+  display: flex;
+  justify-content: space-between;
+  line-height: 1.8;
+}
+.totals-line.grand {
+  font-weight: 700;
+  border-top: 1px solid #000;
+  padding-top: 2px;
+  margin-top: 2px;
+  font-size: 10px;
+}
+.dn-section {
+  margin-top: 6px;
+  font-size: 9px;
+  border-top: 1px solid #999;
+  padding-top: 4px;
+}
+.footer {
+  margin-top: 8px;
+  font-size: 8px;
+  color: #666;
+  text-align: center;
+  border-top: 1px solid #ccc;
+  padding-top: 4px;
+}
+</style>
+</head>
+<body>
+  <div class="header-row">
+    <h1>{{supplierName}}</h1>
+    <span class="doc-title">חשבונית מס מס' {{documentNumber}}</span>
+  </div>
+
+  <div class="supplier-line">
+    {{supplierAddress}} | טל: {{supplierPhone}} | ע.מ/ח.פ: {{supplierBusinessId}}
+  </div>
+
+  <div class="fields-block">
+    <div class="fields-grid">
+      <div class="field-item"><span class="field-label">לכבוד: </span>{{customerName}}</div>
+      <div class="field-item"><span class="field-label">תאריך: </span>{{documentDate}}</div>
+      <div class="field-item"><span class="field-label">מועד פירעון: </span>{{dueDate}}</div>
+      <div class="field-item"><span class="field-label">כתובת: </span>{{deliveryAddress}}</div>
+      <div class="field-item"><span class="field-label">הזמנת רכש: </span>{{poReference}}</div>
+      <div class="field-item"><span class="field-label">הצעת מחיר: </span>{{quoteReference}}</div>
+      <div class="field-item"><span class="field-label">פרויקט: </span>{{projectName}}</div>
+    </div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:22px">#</th>
+        <th style="width:60px">מק"ט</th>
+        <th>תיאור</th>
+        <th style="width:40px">כמות</th>
+        <th style="width:30px">יח'</th>
+        <th style="width:55px">מחיר יח'</th>
+        <th style="width:35px">הנחה%</th>
+        <th style="width:55px">סה"כ שורה</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{LINE_ITEMS_ROWS}}
+    </tbody>
+  </table>
+
+  <div class="totals-block">
+    <div class="totals-line"><span>סה"כ:</span><span>₪{{subtotal}}</span></div>
+    <div class="totals-line"><span>מע"מ 17%:</span><span>₪{{vatAmount}}</span></div>
+    <div class="totals-line grand"><span>סה"כ לתשלום:</span><span>₪{{totalAmount}}</span></div>
+  </div>
+
+  <div class="dn-section">
+    <span class="field-label">ת. משלוח: </span>{{deliveryNoteReferences}}
+  </div>
+
+  <div class="footer">
+    {{supplierName}} | ע.מ: {{supplierBusinessId}} | {{notes}}
+  </div>
+</body>
+</html>

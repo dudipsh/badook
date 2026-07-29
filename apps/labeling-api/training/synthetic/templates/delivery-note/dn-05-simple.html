@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<style>
+{{FONT_FACE_CSS}}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: Arial, 'NotoHebrew', sans-serif;
+  font-size: 12px;
+  padding: 20px 30px;
+  width: 794px;
+  min-height: 1123px;
+  background: #fff;
+  color: #000;
+}
+h1 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+.doc-info {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.basic-info {
+  font-size: 11px;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+th, td {
+  border: 1px solid #999;
+  padding: 4px 5px;
+  font-size: 11px;
+  text-align: center;
+}
+th {
+  background: #f0f0f0;
+  font-weight: 700;
+}
+td.text-right {
+  text-align: right;
+}
+.totals {
+  font-size: 11px;
+  line-height: 1.8;
+  margin-top: 8px;
+}
+.totals .row {
+  display: flex;
+  gap: 10px;
+}
+.totals .label {
+  min-width: 130px;
+}
+.totals .grand {
+  font-weight: 700;
+}
+.notes-line {
+  margin-top: 10px;
+  font-size: 10px;
+  color: #555;
+}
+</style>
+</head>
+<body>
+  <h1>{{supplierName}}</h1>
+  <div class="doc-info">תעודת משלוח מס': {{documentNumber}} | תאריך: {{documentDate}}</div>
+
+  <div class="basic-info">
+    לכבוד: {{customerName}}<br>
+    כתובת: {{deliveryAddress}}<br>
+    פרויקט: {{projectName}}<br>
+    הזמנת רכש: {{poReference}}
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:25px">#</th>
+        <th style="width:65px">מק"ט</th>
+        <th>תיאור פריט</th>
+        <th style="width:50px">כמות</th>
+        <th style="width:40px">יח'</th>
+        <th style="width:60px">מחיר יח'</th>
+        <th style="width:40px">הנחה</th>
+        <th style="width:65px">סה"כ</th>
+        <th style="width:55px">הערות</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{LINE_ITEMS_ROWS}}
+    </tbody>
+  </table>
+
+  <div class="totals">
+    <div class="row"><span class="label">סה"כ לפני מע"מ:</span><span>₪{{subtotal}}</span></div>
+    <div class="row"><span class="label">מע"מ (17%):</span><span>₪{{vatAmount}}</span></div>
+    <div class="row grand"><span class="label">סה"כ לתשלום:</span><span>₪{{totalAmount}}</span></div>
+  </div>
+
+  <div class="notes-line">{{notes}}</div>
+</body>
+</html>

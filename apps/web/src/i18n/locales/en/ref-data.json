@@ -1,0 +1,58 @@
+{
+  "title": "Training Data",
+  "description": "Manage reference data for synthetic training data generation",
+  "tabs": {
+    "products": "Products",
+    "suppliers": "Suppliers",
+    "cities": "Cities"
+  },
+  "stats": {
+    "suppliers": "Suppliers",
+    "products": "Products",
+    "cities": "Cities"
+  },
+  "products": {
+    "name": "Product Name",
+    "category": "Category",
+    "unit": "Unit",
+    "avgPrice": "Avg Price",
+    "variants": "Variants",
+    "commonVendors": "Common Vendors",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "allCategories": "All Categories",
+    "noProducts": "No products to display",
+    "deleteConfirm": "Delete this product?"
+  },
+  "suppliers": {
+    "name": "Supplier Name",
+    "categories": "Categories",
+    "phone": "Phone",
+    "address": "Address",
+    "addSupplier": "Add Supplier",
+    "editSupplier": "Edit Supplier",
+    "allCategories": "All Categories",
+    "noSuppliers": "No suppliers to display",
+    "deleteConfirm": "Delete this supplier?"
+  },
+  "cities": {
+    "name": "City Name",
+    "englishName": "English Name",
+    "district": "District",
+    "council": "Council",
+    "code": "Code",
+    "allDistricts": "All Districts",
+    "noCities": "No cities to display"
+  },
+  "actions": {
+    "seed": "Load Data",
+    "export": "Export",
+    "import": "Import CSV"
+  },
+  "pagination": {
+    "showing": "Showing",
+    "of": "of",
+    "prev": "Previous",
+    "next": "Next"
+  }
+}

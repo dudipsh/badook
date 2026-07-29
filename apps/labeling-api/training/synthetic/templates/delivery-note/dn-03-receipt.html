@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+<meta charset="UTF-8">
+<style>
+{{FONT_FACE_CSS}}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Courier New', 'NotoHebrew', monospace;
+  font-size: 11px;
+  padding: 10px 12px;
+  width: 400px;
+  background: #fff;
+  color: #000;
+}
+.center { text-align: center; }
+.separator { text-align: center; letter-spacing: 1px; margin: 4px 0; }
+.separator-double { text-align: center; letter-spacing: 1px; margin: 6px 0; }
+h1 {
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2px;
+}
+h2 {
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2px;
+}
+.info-line {
+  font-size: 10px;
+  text-align: center;
+  line-height: 1.5;
+}
+.field-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  line-height: 1.8;
+}
+.item-table {
+  width: 100%;
+  margin: 4px 0;
+}
+.item-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  line-height: 1.6;
+  padding: 1px 0;
+}
+.item-desc {
+  flex: 1;
+  text-align: right;
+}
+.item-qty { width: 50px; text-align: center; }
+.item-price { width: 65px; text-align: left; }
+.item-header {
+  font-weight: 700;
+  border-bottom: 1px dashed #000;
+  padding-bottom: 2px;
+  margin-bottom: 2px;
+}
+.total-line {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  line-height: 1.8;
+}
+.total-grand {
+  font-weight: 700;
+  font-size: 13px;
+}
+.footer-text {
+  font-size: 9px;
+  text-align: center;
+  margin-top: 6px;
+  line-height: 1.5;
+}
+</style>
+</head>
+<body>
+  <h1>{{supplierName}}</h1>
+  <div class="info-line">{{supplierAddress}}</div>
+  <div class="info-line">טל: {{supplierPhone}} | ח.פ: {{supplierBusinessId}}</div>
+
+  <div class="separator-double">========================================</div>
+  <h2>תעודת משלוח</h2>
+  <div class="center" style="font-size:12px; font-weight:700;">מס' {{documentNumber}}</div>
+  <div class="separator-double">========================================</div>
+
+  <div class="field-row"><span>לכבוד:</span><span>{{customerName}}</span></div>
+  <div class="field-row"><span>תאריך:</span><span>{{documentDate}}</span></div>
+  <div class="field-row"><span>כתובת:</span><span>{{deliveryAddress}}</span></div>
+  <div class="field-row"><span>פרויקט:</span><span>{{projectName}}</span></div>
+  <div class="field-row"><span>הזמנה:</span><span>{{poReference}}</span></div>
+
+  <div class="separator">----------------------------------------</div>
+
+  <div class="item-table">
+    <div class="item-row item-header">
+      <span class="item-desc">פריט</span>
+      <span class="item-qty">כמות</span>
+      <span class="item-price">סה"כ</span>
+    </div>
+    {{LINE_ITEMS_ROWS}}
+  </div>
+
+  <div class="separator">----------------------------------------</div>
+
+  <div class="total-line"><span>סה"כ לפני מע"מ:</span><span>₪{{subtotal}}</span></div>
+  <div class="total-line"><span>מע"מ (17%):</span><span>₪{{vatAmount}}</span></div>
+  <div class="separator">----------------------------------------</div>
+  <div class="total-line total-grand"><span>סה"כ:</span><span>₪{{totalAmount}}</span></div>
+
+  <div class="separator-double">========================================</div>
+
+  <div class="footer-text">{{notes}}</div>
+  <div class="footer-text" style="margin-top:8px;">חתימה: _______________</div>
+  <div class="footer-text">תודה רבה!</div>
+</body>
+</html>

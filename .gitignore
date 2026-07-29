@@ -1,0 +1,63 @@
+node_modules/
+dist/
+*.log
+uploads/
+.DS_Store
+coverage/
+.turbo/
+/temp
+
+# Secrets — ignore every .env variant, allow only the committed templates
+.env*
+!.env.example
+!.env*.example
+!.env.example.*
+
+# Credentials & keys
+gcp-key.json
+*service-account*.json
+*credentials*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+
+# Scanned / uploaded business documents — never commit real customer paperwork
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.xlsx
+*.xls
+*.csv
+!apps/web/public/**
+!apps/labeling-web/public/**
+!docs/**/*.png
+
+# IDE
+.vscode/
+.idea/
+
+# Prisma
+apps/api/prisma/migrations/**/migration_lock.toml
+apps/labeling-api/src/generated/
+
+# Test data folders (local scan testing)
+apps/api/test-data/*/
+apps/api/test-docs/
+
+# Test fixtures built from real customer paperwork — keep local only
+apps/api/test-fixtures/chains/*/documents/
+apps/api/test-fixtures/chains/*/mocks/
+apps/api/test-fixtures/chains/*/expected/
+apps/api/test-fixtures/results/
+
+# Synthetic training data
+apps/labeling-api/training/synthetic/output/
+apps/labeling-api/training/synthetic/poc-output/
+apps/labeling-api/output/
+debug-logs

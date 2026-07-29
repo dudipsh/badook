@@ -1,0 +1,896 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  SUPER_ADMIN
+  ADMIN
+  ACCOUNTANT
+  FIELD_WORKER
+  CONTRACTOR
+}
+
+enum SystemMessageLevel {
+  INFO
+  WARNING
+  CRITICAL
+}
+
+enum OcrProvider {
+  OPENAI
+  GEMINI
+  GEMINI_FINETUNED
+  BADOOK
+}
+
+enum CompanyStatus {
+  ACTIVE
+  SUSPENDED
+  DELETED
+}
+
+enum IntegrationType {
+  GMAIL
+  WHATSAPP
+  OUTLOOK
+}
+
+enum IntegrationStatus {
+  CONNECTED
+  DISCONNECTED
+  ERROR
+}
+
+enum JobStatus {
+  PENDING
+  RUNNING
+  COMPLETED
+  FAILED
+}
+
+enum ChatRole {
+  USER
+  ASSISTANT
+}
+
+enum ChatAttachmentType {
+  IMAGE
+}
+
+enum ChatProvider {
+  OPENAI
+  GEMINI
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  passwordHash  String?   @map("password_hash")
+  name          String
+  role          UserRole  @default(ACCOUNTANT)
+  companyId     String?   @map("company_id")
+  company       Company?  @relation(fields: [companyId], references: [id])
+  language      String    @default("he")
+  isActive      Boolean   @default(true) @map("is_active")
+  createdAt     DateTime  @default(now()) @map("created_at")
+  updatedAt     DateTime  @updatedAt @map("updated_at")
+
+  deliveryNotes  DeliveryNote[]  @relation("CreatedByUser")
+  approvals      DeliveryNote[]  @relation("ApprovedByUser")
+  purchaseOrders PurchaseOrder[]
+  invoices       Invoice[]
+  resolvedMatches ThreeWayMatch[]
+  feedbacks       ItemMatchFeedback[] @relation("FeedbackByUser")
+  processingJobs  ProcessingJob[]
+  lineItemEdits   LineItemAuditLog[]
+  chatConversations ChatConversation[]
+
+  @@map("users")
+}
+
+// Audit log of login attempts (OAuth) and impersonations. Audit fields
+// (userId / impersonatedById) are plain ids, not enforced relations.
+model LoginEvent {
+  id               String   @id @default(cuid())
+  userId           String?  @map("user_id")
+  email            String
+  provider         String
+  success          Boolean  @default(true)
+  impersonatedById String?  @map("impersonated_by_id")
+  ip               String?
+  userAgent        String?  @map("user_agent")
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  @@index([createdAt])
+  @@index([email])
+  @@map("login_events")
+}
+
+// System-wide broadcast messages shown to all users via a banner.
+model SystemMessage {
+  id          String             @id @default(cuid())
+  title       String
+  body        String
+  level       SystemMessageLevel @default(INFO)
+  isActive    Boolean            @default(true) @map("is_active")
+  startsAt    DateTime?          @map("starts_at")
+  endsAt      DateTime?          @map("ends_at")
+  createdById String?            @map("created_by_id")
+  createdAt   DateTime           @default(now()) @map("created_at")
+  updatedAt   DateTime           @updatedAt @map("updated_at")
+
+  @@index([isActive])
+  @@map("system_messages")
+}
+
+model Company {
+  id            String        @id @default(cuid())
+  name          String
+  businessId    String?       @unique @map("business_id")
+  address       String?
+  phone         String?
+  email         String?
+  status        CompanyStatus @default(ACTIVE)
+  deletedAt     DateTime?     @map("deleted_at")
+  createdAt     DateTime      @default(now()) @map("created_at")
+  updatedAt     DateTime      @updatedAt @map("updated_at")
+
+  users          User[]
+  suppliers      Supplier[]
+  projects       Project[]
+  deliveryNotes  DeliveryNote[]
+  purchaseOrders PurchaseOrder[]
+  invoices       Invoice[]
+  matches        ThreeWayMatch[]
+  feedbacks      ItemMatchFeedback[]
+  apiUsageLogs   ApiUsageLog[]
+  processingJobs ProcessingJob[]
+  emailScanLogs  EmailScanLog[]
+  whatsappMessageLogs WhatsAppMessageLog[]
+  whatsappAllowedPhones WhatsAppAllowedPhone[]
+  whatsappDeliverySessions WhatsAppDeliverySession[]
+
+  settings       CompanySettings?
+  scanSettings   CompanyScanSettings?
+  integrations   CompanyIntegration[]
+  chatConversations ChatConversation[]
+  aiSettings        AICompanySettings?
+  aiQuotaUsage      AIQuotaUsage[]
+
+  @@map("companies")
+}
+
+// Per-company AI control: model, token budgets, attachment limits, monthly quota.
+model AICompanySettings {
+  id                       String   @id @default(cuid())
+  companyId                String   @unique @map("company_id")
+  company                  Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  enabled                  Boolean  @default(true)
+  defaultModel             String   @default("gemini-2.5-flash") @map("default_model")
+  fileModel                String?  @map("file_model")
+  maxContextTokens         Int      @default(100000) @map("max_context_tokens")
+  thinkingBudget           Int      @default(24576)  @map("thinking_budget")
+  maxOutputTokens          Int      @default(2048)   @map("max_output_tokens")
+  monthlyQueryQuota        Int      @default(1000)   @map("monthly_query_quota")
+  maxAttachmentsPerMessage Int      @default(5)      @map("max_attachments_per_message")
+  maxAttachmentSizeMb      Int      @default(12)     @map("max_attachment_size_mb")
+  autoFilterLargeFiles     Boolean  @default(true)   @map("auto_filter_large_files")
+  createdAt                DateTime @default(now())  @map("created_at")
+  updatedAt                DateTime @updatedAt       @map("updated_at")
+
+  @@map("ai_company_settings")
+}
+
+// Soft per-company usage counters, partitioned by month ("2026-06").
+model AIQuotaUsage {
+  id          String   @id @default(cuid())
+  companyId   String   @map("company_id")
+  company     Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  yearMonth   String   @map("year_month")
+  queriesUsed Int      @default(0) @map("queries_used")
+  tokensIn    Int      @default(0) @map("tokens_in")
+  tokensOut   Int      @default(0) @map("tokens_out")
+  costUsd     Decimal  @default(0) @db.Decimal(10, 6) @map("cost_usd")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt      @map("updated_at")
+
+  @@unique([companyId, yearMonth])
+  @@map("ai_quota_usage")
+}
+
+model CompanySettings {
+  id              String   @id @default(cuid())
+  companyId       String   @unique @map("company_id")
+  company         Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  maxUploadSizeMb Int      @default(20) @map("max_upload_size_mb")
+  defaultVatRate  Float    @default(18) @map("default_vat_rate")
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+
+  @@map("company_settings")
+}
+
+model CompanyScanSettings {
+  id                String      @id @default(cuid())
+  companyId         String      @unique @map("company_id")
+  company           Company     @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  ocrProvider           OcrProvider @default(GEMINI) @map("ocr_provider")
+  ocrAutoFixesEnabled   Boolean     @default(true) @map("ocr_auto_fixes_enabled")
+  scanDaysBack          Int         @default(7) @map("scan_days_back")
+  scanSent          Boolean     @default(true) @map("scan_sent")
+  blockedEmailRules Json        @default("[]") @map("blocked_email_rules")
+  createdAt         DateTime    @default(now()) @map("created_at")
+  updatedAt         DateTime    @updatedAt @map("updated_at")
+
+  @@map("company_scan_settings")
+}
+
+model CompanyIntegration {
+  id            String            @id @default(cuid())
+  companyId     String            @map("company_id")
+  company       Company           @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  type          IntegrationType
+  slot          Int               @default(1)
+  status        IntegrationStatus @default(DISCONNECTED)
+  externalId    String?           @map("external_id")
+  credentials   String?
+  config        Json?
+  scanDaysBack  Int               @default(7) @map("scan_days_back")
+  scanSent      Boolean           @default(true) @map("scan_sent")
+  lastScannedAt DateTime?         @map("last_scanned_at")
+  connectedAt   DateTime?         @map("connected_at")
+  errorMessage  String?           @map("error_message")
+  createdAt     DateTime          @default(now()) @map("created_at")
+  updatedAt     DateTime          @updatedAt @map("updated_at")
+
+  @@unique([companyId, slot])
+  @@index([type, externalId])
+  @@index([status, lastScannedAt])
+  @@map("company_integrations")
+}
+
+model Supplier {
+  id            String    @id @default(cuid())
+  name          String
+  businessId    String?   @map("business_id")
+  contactName   String?   @map("contact_name")
+  phone         String?
+  email         String?
+  address       String?
+  aliases       String[]  @default([])
+  companyId     String    @map("company_id")
+  company       Company   @relation(fields: [companyId], references: [id])
+  createdAt     DateTime  @default(now()) @map("created_at")
+  updatedAt     DateTime  @updatedAt @map("updated_at")
+
+  deliveryNotes  DeliveryNote[]
+  purchaseOrders PurchaseOrder[]
+  invoices       Invoice[]
+
+  @@unique([name, companyId])
+  @@index([businessId])
+  @@map("suppliers")
+}
+
+model Project {
+  id            String    @id @default(cuid())
+  name          String
+  address       String?
+  isArchived    Boolean   @default(false) @map("is_archived")
+  companyId     String    @map("company_id")
+  company       Company   @relation(fields: [companyId], references: [id])
+  createdAt     DateTime  @default(now()) @map("created_at")
+  updatedAt     DateTime  @updatedAt @map("updated_at")
+
+  deliveryNotes  DeliveryNote[]
+  purchaseOrders PurchaseOrder[]
+  invoices       Invoice[]
+  addresses      ProjectAddress[]
+
+  @@unique([name, companyId])
+  @@map("projects")
+}
+
+model ProjectAddress {
+  id        String   @id @default(cuid())
+  projectId String   @map("project_id")
+  project   Project  @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  address   String
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@unique([projectId, address])
+  @@index([address])
+  @@map("project_addresses")
+}
+
+enum DocumentType {
+  DELIVERY_NOTE
+  INVOICE
+  PURCHASE_ORDER
+}
+
+enum DeliveryNoteStatus {
+  PENDING
+  PARSED
+  PARSE_FAILED
+  REVIEWED
+  APPROVED
+  REJECTED
+}
+
+enum DeliveryNoteSource {
+  EMAIL
+  MOBILE
+  MANUAL
+}
+
+model DeliveryNote {
+  id                String              @id @default(cuid())
+  noteNumber        String?             @map("note_number")
+  supplierName      String              @map("supplier_name")
+  supplierId        String?             @map("supplier_id")
+  supplier          Supplier?           @relation(fields: [supplierId], references: [id])
+  projectId         String?             @map("project_id")
+  project           Project?            @relation(fields: [projectId], references: [id])
+  companyId         String              @map("company_id")
+  company           Company             @relation(fields: [companyId], references: [id])
+  deliveryDate      DateTime?           @map("delivery_date")
+  totalAmount       Decimal?            @map("total_amount") @db.Decimal(12, 2)
+  currency          String              @default("ILS")
+  vatAmount         Decimal?            @map("vat_amount") @db.Decimal(12, 2)
+  status            DeliveryNoteStatus  @default(PENDING)
+  source            DeliveryNoteSource
+  originalFileUrl     String              @map("original_file_url")
+  originalFileUrlHq   String?             @map("original_file_url_hq")
+  originalFileName    String?             @map("original_file_name")
+  parsedData          Json?               @map("parsed_data")
+  parsingConfidence   Float?              @map("parsing_confidence")
+  notes             String?
+  approvedAt        DateTime?           @map("approved_at")
+  approvedById      String?             @map("approved_by_id")
+  approvedBy        User?               @relation("ApprovedByUser", fields: [approvedById], references: [id])
+  createdById       String?             @map("created_by_id")
+  createdBy         User?               @relation("CreatedByUser", fields: [createdById], references: [id])
+  emailScanLogId    String?             @map("email_scan_log_id")
+  emailScanLog      EmailScanLog?       @relation(fields: [emailScanLogId], references: [id])
+  whatsappMessageLogId String?          @map("whatsapp_message_log_id")
+  whatsappMessageLog   WhatsAppMessageLog? @relation(fields: [whatsappMessageLogId], references: [id])
+  needsReconciliation Boolean             @default(false) @map("needs_reconciliation")
+  createdAt         DateTime            @default(now()) @map("created_at")
+  updatedAt         DateTime            @updatedAt @map("updated_at")
+
+  lineItems         LineItem[]
+  matches           ThreeWayMatch[]
+
+  @@unique([noteNumber, companyId])
+  @@index([companyId, status])
+  @@index([supplierId])
+  @@index([projectId])
+  @@index([deliveryDate])
+  @@index([supplierName])
+  @@map("delivery_notes")
+}
+
+model LineItem {
+  id                String       @id @default(cuid())
+  deliveryNoteId    String       @map("delivery_note_id")
+  deliveryNote      DeliveryNote @relation(fields: [deliveryNoteId], references: [id], onDelete: Cascade)
+  description       String
+  catalogNumber     String?      @map("catalog_number")
+  quantity          Decimal      @db.Decimal(12, 3)
+  unit              String?
+  unitPrice         Decimal?     @map("unit_price") @db.Decimal(12, 2)
+  totalPrice        Decimal?     @map("total_price") @db.Decimal(12, 2)
+  discountPercent      Decimal?  @map("discount_percent") @db.Decimal(5, 2)
+  discountAmount       Decimal?  @map("discount_amount") @db.Decimal(12, 2)
+  priceBeforeDiscount  Decimal?  @map("price_before_discount") @db.Decimal(12, 2)
+  delivered         Boolean      @default(true)
+  receivedQuantity  Decimal?     @map("received_quantity") @db.Decimal(12, 3)
+  handwrittenNotes  String?      @map("handwritten_notes")
+  quantityBreakdown Json?        @map("quantity_breakdown")
+  priceSource       String?      @map("price_source")
+  sortOrder         Int          @default(0) @map("sort_order")
+  createdAt         DateTime     @default(now()) @map("created_at")
+  updatedAt         DateTime     @updatedAt @map("updated_at")
+  auditLogs         LineItemAuditLog[]
+
+  @@index([deliveryNoteId])
+  @@map("line_items")
+}
+
+enum ScanStatus {
+  PROCESSING
+  SUCCESS
+  FAILED
+  PARTIAL
+  NO_ATTACHMENTS
+  BLOCKED
+}
+
+model EmailScanLog {
+  id              String       @id @default(cuid())
+  gmailMessageId  String       @unique @map("gmail_message_id")
+  companyId       String       @map("company_id")
+  company         Company      @relation(fields: [companyId], references: [id])
+  subject         String?
+  senderEmail     String?      @map("sender_email")
+  senderName      String?      @map("sender_name")
+  receivedAt      DateTime?    @map("received_at")
+  status          ScanStatus
+  attachmentCount Int          @default(0) @map("attachment_count")
+  processedCount  Int          @default(0) @map("processed_count")
+  errorMessage    String?      @map("error_message")
+  createdAt       DateTime     @default(now()) @map("created_at")
+
+  deliveryNotes   DeliveryNote[]
+  attachments     EmailScanAttachment[]
+
+  @@index([companyId])
+  @@map("email_scan_logs")
+}
+
+model EmailScanAttachment {
+  id              String       @id @default(cuid())
+  emailScanLogId  String       @map("email_scan_log_id")
+  fileName        String       @map("file_name")
+  filePath        String?      @map("file_path")
+  status          String       @default("PROCESSING")
+  documentType    String?      @map("document_type")
+  documentId      String?      @map("document_id")
+  errorMessage    String?      @map("error_message")
+  retryCount      Int          @default(0) @map("retry_count")
+  createdAt       DateTime     @default(now()) @map("created_at")
+
+  emailScanLog    EmailScanLog @relation(fields: [emailScanLogId], references: [id])
+
+  @@index([emailScanLogId])
+  @@map("email_scan_attachments")
+}
+
+enum DeliverySessionStatus {
+  ACTIVE
+  FINALIZING
+  COMPLETED
+  FAILED
+}
+
+model WhatsAppDeliverySession {
+  id            String                 @id @default(cuid())
+  companyId     String                 @map("company_id")
+  company       Company                @relation(fields: [companyId], references: [id])
+  senderPhone   String                 @map("sender_phone")
+  senderName    String?                @map("sender_name")
+  status        DeliverySessionStatus  @default(ACTIVE)
+  expiresAt     DateTime               @map("expires_at")
+  textNotes     String?                @map("text_notes")
+  transcription String?
+  createdAt     DateTime               @default(now()) @map("created_at")
+  updatedAt     DateTime               @updatedAt @map("updated_at")
+
+  messages      WhatsAppMessageLog[]
+
+  @@index([companyId])
+  @@index([senderPhone, status])
+  @@map("whatsapp_delivery_sessions")
+}
+
+model WhatsAppMessageLog {
+  id                String       @id @default(cuid())
+  whatsappMessageId String       @unique @map("whatsapp_message_id")
+  companyId         String       @map("company_id")
+  company           Company      @relation(fields: [companyId], references: [id])
+  sessionId         String?      @map("session_id")
+  session           WhatsAppDeliverySession? @relation(fields: [sessionId], references: [id])
+  senderPhone       String       @map("sender_phone")
+  senderName        String?      @map("sender_name")
+  messageType       String       @map("message_type")
+  caption           String?
+  status            ScanStatus
+  mediaCount        Int          @default(1) @map("media_count")
+  processedCount    Int          @default(0) @map("processed_count")
+  errorMessage      String?      @map("error_message")
+  replySent         Boolean      @default(false) @map("reply_sent")
+  createdAt         DateTime     @default(now()) @map("created_at")
+
+  deliveryNotes     DeliveryNote[]
+  attachments       WhatsAppAttachment[]
+
+  @@index([companyId])
+  @@index([senderPhone])
+  @@index([sessionId])
+  @@map("whatsapp_message_logs")
+}
+
+model WhatsAppAttachment {
+  id                    String              @id @default(cuid())
+  whatsappMessageLogId  String              @map("whatsapp_message_log_id")
+  whatsappMessageLog    WhatsAppMessageLog  @relation(fields: [whatsappMessageLogId], references: [id], onDelete: Cascade)
+  fileName              String              @map("file_name")
+  filePath              String?             @map("file_path")
+  mediaId               String              @map("media_id")
+  mimeType              String              @map("mime_type")
+  status                String              @default("PROCESSING")
+  documentType          String?             @map("document_type")
+  documentId            String?             @map("document_id")
+  errorMessage          String?             @map("error_message")
+  retryCount            Int                 @default(0) @map("retry_count")
+  createdAt             DateTime            @default(now()) @map("created_at")
+
+  @@index([whatsappMessageLogId])
+  @@map("whatsapp_attachments")
+}
+
+model WhatsAppAllowedPhone {
+  id          String   @id @default(cuid())
+  companyId   String   @map("company_id")
+  company     Company  @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  phoneNumber String   @map("phone_number")
+  contactName String?  @map("contact_name")
+  isActive    Boolean  @default(true) @map("is_active")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@unique([phoneNumber])
+  @@index([companyId])
+  @@index([phoneNumber, isActive])
+  @@map("whatsapp_allowed_phones")
+}
+
+model PurchaseOrder {
+  id               String    @id @default(cuid())
+  poNumber         String    @map("po_number")
+  supplierName     String    @map("supplier_name")
+  supplierId       String?   @map("supplier_id")
+  supplier         Supplier? @relation(fields: [supplierId], references: [id])
+  companyId        String    @map("company_id")
+  company          Company   @relation(fields: [companyId], references: [id])
+  orderDate        DateTime? @map("order_date")
+  expectedDelivery DateTime? @map("expected_delivery")
+  totalAmount      Decimal?  @map("total_amount") @db.Decimal(12, 2)
+  currency         String    @default("ILS")
+  status           String    @default("OPEN")
+  notes            String?
+  quoteReference   String?   @map("quote_reference")
+  isQuote          Boolean   @default(false) @map("is_quote")
+  source           String    @default("MANUAL")
+  originalFileUrl    String?   @map("original_file_url")
+  originalFileUrlHq  String?   @map("original_file_url_hq")
+  parsedData         Json?     @map("parsed_data")
+  createdById        String?   @map("created_by_id")
+  createdBy          User?     @relation(fields: [createdById], references: [id])
+  needsReconciliation Boolean   @default(false) @map("needs_reconciliation")
+  createdAt          DateTime  @default(now()) @map("created_at")
+  updatedAt          DateTime  @updatedAt @map("updated_at")
+  projectId          String?   @map("project_id")
+  project            Project?  @relation(fields: [projectId], references: [id])
+  lineItems          POLineItem[]
+  matches          ThreeWayMatch[]
+
+  @@unique([poNumber, companyId])
+  @@index([companyId])
+  @@index([supplierId])
+  @@index([projectId])
+  @@map("purchase_orders")
+}
+
+model POLineItem {
+  id              String        @id @default(cuid())
+  purchaseOrderId String        @map("purchase_order_id")
+  purchaseOrder   PurchaseOrder @relation(fields: [purchaseOrderId], references: [id], onDelete: Cascade)
+  description     String
+  catalogNumber   String?       @map("catalog_number")
+  quantity        Decimal       @db.Decimal(12, 3)
+  unit            String?
+  unitPrice       Decimal?      @map("unit_price") @db.Decimal(12, 2)
+  totalPrice      Decimal?      @map("total_price") @db.Decimal(12, 2)
+  discountPercent      Decimal?  @map("discount_percent") @db.Decimal(5, 2)
+  discountAmount       Decimal?  @map("discount_amount") @db.Decimal(12, 2)
+  priceBeforeDiscount  Decimal?  @map("price_before_discount") @db.Decimal(12, 2)
+  remarks              String?   @map("remarks")
+  expectedDeliveryDate DateTime? @map("expected_delivery_date") @db.Date
+  sortOrder       Int           @default(0) @map("sort_order")
+  createdAt       DateTime      @default(now()) @map("created_at")
+  updatedAt       DateTime      @updatedAt @map("updated_at")
+
+  auditLogs       LineItemAuditLog[]
+
+  @@index([purchaseOrderId])
+  @@map("po_line_items")
+}
+
+model Invoice {
+  id              String    @id @default(cuid())
+  invoiceNumber   String    @map("invoice_number")
+  supplierName    String    @map("supplier_name")
+  supplierId      String?   @map("supplier_id")
+  supplier        Supplier? @relation(fields: [supplierId], references: [id])
+  companyId       String    @map("company_id")
+  company         Company   @relation(fields: [companyId], references: [id])
+  invoiceDate     DateTime? @map("invoice_date")
+  dueDate         DateTime? @map("due_date")
+  totalAmount     Decimal?  @map("total_amount") @db.Decimal(12, 2)
+  vatAmount       Decimal?  @map("vat_amount") @db.Decimal(12, 2)
+  currency        String    @default("ILS")
+  status          String    @default("PENDING")
+  source          String    @default("MANUAL")
+  originalFileUrl    String?   @map("original_file_url")
+  originalFileUrlHq  String?   @map("original_file_url_hq")
+  parsedData         Json?     @map("parsed_data")
+  createdById        String?   @map("created_by_id")
+  createdBy          User?     @relation(fields: [createdById], references: [id])
+  needsReconciliation Boolean   @default(false) @map("needs_reconciliation")
+  createdAt          DateTime  @default(now()) @map("created_at")
+  updatedAt          DateTime  @updatedAt @map("updated_at")
+  projectId          String?   @map("project_id")
+  project            Project?  @relation(fields: [projectId], references: [id])
+  lineItems          InvoiceLineItem[]
+  matches         ThreeWayMatch[]
+
+  @@unique([invoiceNumber, companyId])
+  @@index([companyId])
+  @@index([supplierId])
+  @@index([projectId])
+  @@map("invoices")
+}
+
+model InvoiceLineItem {
+  id            String   @id @default(cuid())
+  invoiceId     String   @map("invoice_id")
+  invoice       Invoice  @relation(fields: [invoiceId], references: [id], onDelete: Cascade)
+  description   String
+  catalogNumber String?  @map("catalog_number")
+  quantity      Decimal  @db.Decimal(12, 3)
+  unit          String?
+  unitPrice     Decimal? @map("unit_price") @db.Decimal(12, 2)
+  totalPrice    Decimal? @map("total_price") @db.Decimal(12, 2)
+  discountPercent      Decimal?  @map("discount_percent") @db.Decimal(5, 2)
+  discountAmount       Decimal?  @map("discount_amount") @db.Decimal(12, 2)
+  priceBeforeDiscount  Decimal?  @map("price_before_discount") @db.Decimal(12, 2)
+  sortOrder     Int      @default(0) @map("sort_order")
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+
+  @@index([invoiceId])
+  @@map("invoice_line_items")
+}
+
+model ThreeWayMatch {
+  id              String         @id @default(cuid())
+  companyId       String         @map("company_id")
+  company         Company        @relation(fields: [companyId], references: [id])
+  purchaseOrderId String?        @map("purchase_order_id")
+  purchaseOrder   PurchaseOrder? @relation(fields: [purchaseOrderId], references: [id])
+  tempPoNumber    String?        @map("temp_po_number")
+  deliveryNotes   DeliveryNote[]
+  invoices        Invoice[]
+  status          String         @default("PARTIAL")
+  discrepancies   Json?
+  matchedAt       DateTime?      @map("matched_at")
+  resolvedAt      DateTime?      @map("resolved_at")
+  resolvedById    String?        @map("resolved_by_id")
+  resolvedBy      User?          @relation(fields: [resolvedById], references: [id])
+  notes           String?
+  createdAt       DateTime       @default(now()) @map("created_at")
+  updatedAt       DateTime       @updatedAt @map("updated_at")
+
+  lineItemPairings Json?  @map("line_item_pairings")
+  feedbacks        ItemMatchFeedback[]
+
+  @@index([companyId])
+  @@index([status])
+  @@map("three_way_matches")
+}
+
+model ItemMatchFeedback {
+  id              String   @id @default(cuid())
+  companyId       String   @map("company_id")
+  company         Company  @relation(fields: [companyId], references: [id])
+  descriptionA    String   @map("description_a")
+  descriptionB    String   @map("description_b")
+  catalogNumberA  String?  @map("catalog_number_a")
+  catalogNumberB  String?  @map("catalog_number_b")
+  sourceDocType   String   @map("source_doc_type")
+  targetDocType   String   @map("target_doc_type")
+  threeWayMatchId String?  @map("three_way_match_id")
+  threeWayMatch   ThreeWayMatch? @relation(fields: [threeWayMatchId], references: [id])
+  feedbackType    String   @default("MANUAL") @map("feedback_type")
+  pairingIndex    Int?     @map("pairing_index")
+  createdById     String   @map("created_by_id")
+  createdBy       User     @relation("FeedbackByUser", fields: [createdById], references: [id])
+  createdAt       DateTime @default(now()) @map("created_at")
+
+  @@index([companyId])
+  @@index([companyId, descriptionA])
+  @@index([companyId, descriptionB])
+  @@map("item_match_feedback")
+}
+
+
+model ApiUsageLog {
+  id               String   @id @default(cuid())
+  companyId        String   @map("company_id")
+  company          Company  @relation(fields: [companyId], references: [id])
+  provider         String
+  model            String
+  operation        String
+  promptTokens     Int      @map("prompt_tokens")
+  completionTokens Int      @map("completion_tokens")
+  totalTokens      Int      @map("total_tokens")
+  estimatedCostUsd Decimal  @map("estimated_cost_usd") @db.Decimal(10, 6)
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  @@index([companyId, createdAt])
+  @@map("api_usage_logs")
+}
+
+model ProcessingJob {
+  id            String    @id @default(cuid())
+  companyId     String    @map("company_id")
+  company       Company   @relation(fields: [companyId], references: [id])
+  userId        String?   @map("user_id")
+  user          User?     @relation(fields: [userId], references: [id])
+  projectId     String?   @map("project_id")
+  fileName      String    @map("file_name")
+  status        JobStatus @default(PENDING)
+  stage         String?
+  stageStatus   String?   @map("stage_status")
+  stageMessage  String?   @map("stage_message")
+  documentId    String?   @map("document_id")
+  documentType  String?   @map("document_type")
+  errorMessage  String?   @map("error_message")
+  createdAt     DateTime  @default(now()) @map("created_at")
+  updatedAt     DateTime  @updatedAt @map("updated_at")
+
+  @@index([companyId, status])
+  @@index([companyId, createdAt])
+  @@map("processing_jobs")
+}
+
+enum LineItemEditReason {
+  DATA_EXTRACTION_ERROR
+  PRICE_CORRECTION
+  QUANTITY_ADJUSTMENT
+  UNIT_TYPE_CORRECTION
+  CREDIT_NOTE_APPLIED
+  OVERRIDE_SUBSTITUTE
+  OVERRIDE_PRICE_APPROVED
+  OVERRIDE_UNIT_CORRECTION
+  FLAG_DUPLICATE
+  SWAP_CORRECTION
+  OTHER
+}
+
+model PriceFingerprint {
+  id               String   @id @default(cuid())
+  companyId        String   @map("company_id")
+  catalogNumber    String   @default("") @map("catalog_number")
+  description      String   @default("")
+  unit             String   @default("")
+  unitPrice        Decimal  @db.Decimal(12, 2) @map("unit_price")
+  minPrice         Decimal  @db.Decimal(12, 2) @map("min_price")
+  maxPrice         Decimal  @db.Decimal(12, 2) @map("max_price")
+  observationCount Int      @default(1) @map("observation_count")
+  source           String   @default("invoice")
+  confidence       Float    @default(0.5)
+  lastSeenAt       DateTime @default(now()) @map("last_seen_at")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  @@unique([companyId, catalogNumber, unit])
+  @@index([companyId])
+  @@map("price_fingerprints")
+}
+
+model CatalogItemConversion {
+  id            String   @id @default(cuid())
+  companyId     String   @map("company_id")
+  catalogNumber String   @default("") @map("catalog_number")
+  description   String   @default("")
+  fromUnit      String   @map("from_unit")
+  toUnit        String   @map("to_unit")
+  factor        Decimal  @db.Decimal(16, 6)
+  source        String   @default("learned")
+  confidence    Float    @default(1.0)
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+
+  @@unique([companyId, catalogNumber, fromUnit, toUnit])
+  @@index([companyId])
+  @@map("catalog_item_conversions")
+}
+
+model LineItemAuditLog {
+  id                String              @id @default(cuid())
+  companyId         String              @map("company_id")
+  poLineItemId      String?             @map("po_line_item_id")
+  poLineItem        POLineItem?         @relation(fields: [poLineItemId], references: [id], onDelete: SetNull)
+  dnLineItemId      String?             @map("dn_line_item_id")
+  dnLineItem        LineItem?           @relation(fields: [dnLineItemId], references: [id], onDelete: SetNull)
+  invoiceLineItemId String?             @map("invoice_line_item_id")
+  matchId           String?             @map("match_id")
+  fieldName         String              @map("field_name")
+  oldValue          String?             @map("old_value")
+  newValue          String              @map("new_value")
+  reason            LineItemEditReason
+  note              String?
+  editedById        String              @map("edited_by_id")
+  editedBy          User                @relation(fields: [editedById], references: [id])
+  createdAt         DateTime            @default(now()) @map("created_at")
+
+  @@index([poLineItemId])
+  @@index([dnLineItemId])
+  @@index([companyId, createdAt])
+  @@map("line_item_audit_logs")
+}
+
+model ChatConversation {
+  id        String        @id @default(cuid())
+  companyId String        @map("company_id")
+  userId    String        @map("user_id")
+  title     String        @default("שיחה חדשה")
+  createdAt DateTime      @default(now()) @map("created_at")
+  updatedAt DateTime      @updatedAt @map("updated_at")
+
+  company  Company       @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  user     User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  messages ChatMessage[]
+
+  @@index([companyId, userId, updatedAt(sort: Desc)])
+  @@map("chat_conversations")
+}
+
+model ChatMessage {
+  id             String           @id @default(cuid())
+  conversationId String           @map("conversation_id")
+  role           ChatRole
+  content        String
+  createdAt      DateTime         @default(now()) @map("created_at")
+
+  conversation ChatConversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+  attachments  ChatAttachment[]
+
+  @@index([conversationId, createdAt])
+  @@map("chat_messages")
+}
+
+model ChatAgent {
+  id           String       @id @default(cuid())
+  name         String
+  description  String?
+  systemPrompt String       @map("system_prompt")
+  provider     ChatProvider @default(GEMINI)
+  model        String       @default("gemini-2.5-flash")
+  temperature  Float        @default(0.7)
+  maxTokens    Int          @default(1500) @map("max_tokens")
+  hasTools     Boolean      @default(false) @map("has_tools")
+  isDefault    Boolean      @default(false) @map("is_default")
+  isEnabled    Boolean      @default(true) @map("is_enabled")
+  createdAt    DateTime     @default(now()) @map("created_at")
+  updatedAt    DateTime     @updatedAt @map("updated_at")
+
+  @@index([isDefault])
+  @@map("chat_agents")
+}
+
+model ChatAttachment {
+  id         String             @id @default(cuid())
+  messageId  String?            @map("message_id")
+  companyId  String             @map("company_id")
+  userId     String             @map("user_id")
+  type       ChatAttachmentType
+  storageKey String             @map("storage_key")
+  mimeType   String             @map("mime_type")
+  sizeBytes  Int                @map("size_bytes")
+  createdAt  DateTime           @default(now()) @map("created_at")
+
+  message ChatMessage? @relation(fields: [messageId], references: [id], onDelete: Cascade)
+
+  @@index([messageId])
+  @@index([companyId, userId, createdAt])
+  @@map("chat_attachments")
+}
